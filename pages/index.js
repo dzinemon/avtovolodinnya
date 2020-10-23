@@ -2,16 +2,13 @@ import Link from 'next/link'
 
 import Seo from '../components/seo'
 
-
-// import Hero from '../components/home/hero'
 import Breadcrumbs from '../components/breadcrumbs'
 import Footer from '../components/footer'
-
 
 import fs from 'fs'
 import path from 'path'
 
-// posts will be populated at build time by getStaticProps()
+// availableManufacturers will be populated at build time by getStaticProps()
 function Home({availableManufacturers}) {
   return (
 
@@ -64,9 +61,6 @@ function Home({availableManufacturers}) {
   )
 }
 
-// This function gets called at build time on server-side.
-// It won't be called on client-side, so you can even do
-// direct database queries. See the "Technical details" section.
 export async function getStaticProps() {
   const manufacturerDirectory = path.join(process.cwd(), 'manufacturers', 'json')
   const filenames = fs.readdirSync(manufacturerDirectory)
