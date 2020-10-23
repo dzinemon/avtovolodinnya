@@ -8,8 +8,6 @@ function Breadcrumbs(props) {
 
   const {model, manufacturer} = router.query;
 
-  console.log(typeof model, model, typeof manufacturer, manufacturer);
-
   return (
     <div className="xl:container py-2 px-4 sm:p-4 mx-auto">
       <div className="sm:text-xs text-sm">
