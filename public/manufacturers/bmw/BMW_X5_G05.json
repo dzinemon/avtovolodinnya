@@ -1,0 +1,56 @@
+[
+    {
+        "model": "X5_G05",
+        "designation": "X5 xDrive40i",
+        "price": 2051388,
+        "average_fuel_consumption": 13.649999999999999,
+        "configuration": "X5 xDrive40i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X5_G05",
+        "designation": "X5 M50i",
+        "price": 2621744,
+        "average_fuel_consumption": 17.0,
+        "configuration": "X5 M50i",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "X5_G05",
+        "designation": "X5 xDrive45e iPerformance",
+        "price": 2354883,
+        "average_fuel_consumption": 4.5,
+        "configuration": "X5 xDrive45e iPerformance",
+        "horsepower": 286,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X5_G05",
+        "designation": "X5 xDrive25d",
+        "price": 1803961,
+        "average_fuel_consumption": 10.25,
+        "configuration": "X5 xDrive25d",
+        "horsepower": 231,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X5_G05",
+        "designation": "X5 xDrive30d",
+        "price": 1948874,
+        "average_fuel_consumption": 10.55,
+        "configuration": "X5 xDrive30d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "X5_G05",
+        "designation": "X5 M50d",
+        "price": 2651737,
+        "average_fuel_consumption": 11.45,
+        "configuration": "X5 M50d",
+        "horsepower": 400,
+        "engine_displacement": 2.993
+    }
+]

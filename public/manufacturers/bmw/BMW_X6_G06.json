@@ -1,0 +1,38 @@
+[
+    {
+        "model": "X6_G06",
+        "designation": "X6 xDrive40i",
+        "price": 2260045,
+        "average_fuel_consumption": 13.350000000000001,
+        "configuration": "X6 xDrive40i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X6_G06",
+        "designation": "X6 M50i",
+        "price": 2724582,
+        "average_fuel_consumption": 17.0,
+        "configuration": "X6 M50i",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "X6_G06",
+        "designation": "X6 xDrive30d",
+        "price": 2157142,
+        "average_fuel_consumption": 10.6,
+        "configuration": "X6 xDrive30d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "X6_G06",
+        "designation": "X6 M50d",
+        "price": 2759466,
+        "average_fuel_consumption": 11.649999999999999,
+        "configuration": "X6 M50d",
+        "horsepower": 400,
+        "engine_displacement": 2.993
+    }
+]

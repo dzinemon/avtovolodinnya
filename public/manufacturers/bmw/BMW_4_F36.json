@@ -1,0 +1,101 @@
+[
+    {
+        "model": "4_F36",
+        "designation": "420i",
+        "price": 1132290,
+        "average_fuel_consumption": 8.55,
+        "configuration": "420i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "420i xDrive",
+        "price": 1293106,
+        "average_fuel_consumption": 9.75,
+        "configuration": "420i xDrive",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "430i",
+        "price": 1384932,
+        "average_fuel_consumption": 9.05,
+        "configuration": "430i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "430i xDrive",
+        "price": 1471316,
+        "average_fuel_consumption": 8.75,
+        "configuration": "430i xDrive",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "440i",
+        "price": 1655097,
+        "average_fuel_consumption": 9.7,
+        "configuration": "440i",
+        "horsepower": 326,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "440i xDrive",
+        "price": 1740736,
+        "average_fuel_consumption": 10.45,
+        "configuration": "440i xDrive",
+        "horsepower": 326,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "4_F36",
+        "designation": "418d",
+        "price": 1322484,
+        "average_fuel_consumption": 6.1,
+        "configuration": "418d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "4_F36",
+        "designation": "420d",
+        "price": 1324978,
+        "average_fuel_consumption": 6.25,
+        "configuration": "420d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "4_F36",
+        "designation": "420d xDrive",
+        "price": 1485826,
+        "average_fuel_consumption": 6.8,
+        "configuration": "420d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "4_F36",
+        "designation": "430d",
+        "price": 1673332,
+        "average_fuel_consumption": 7.55,
+        "configuration": "430d",
+        "horsepower": 258,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "4_F36",
+        "designation": "430d xDrive",
+        "price": 1758583,
+        "average_fuel_consumption": 8.0,
+        "configuration": "430d xDrive",
+        "horsepower": 258,
+        "engine_displacement": 2.993
+    }
+]

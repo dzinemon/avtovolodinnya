@@ -1,0 +1,92 @@
+[
+    {
+        "model": "X1_F48",
+        "designation": "X1 sDrive18i",
+        "price": 765732,
+        "average_fuel_consumption": 9.3,
+        "configuration": "X1 sDrive18i",
+        "horsepower": 140,
+        "engine_displacement": 1.499
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 sDrive20i",
+        "price": 906758,
+        "average_fuel_consumption": 9.850000000000001,
+        "configuration": "X1 sDrive20i",
+        "horsepower": 192,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 xDrive20i",
+        "price": 983522,
+        "average_fuel_consumption": 10.6,
+        "configuration": "X1 xDrive20i",
+        "horsepower": 192,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 xDrive25i",
+        "price": 1167983,
+        "average_fuel_consumption": 10.5,
+        "configuration": "X1 xDrive25i",
+        "horsepower": 231,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 sDrive16d",
+        "price": 764372,
+        "average_fuel_consumption": 7.1,
+        "configuration": "X1 sDrive16d",
+        "horsepower": 116,
+        "engine_displacement": 1.496
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 sDrive18d",
+        "price": 808292,
+        "average_fuel_consumption": 7.65,
+        "configuration": "X1 sDrive18d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 xDrive18d",
+        "price": 874433,
+        "average_fuel_consumption": 8.05,
+        "configuration": "X1 xDrive18d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 sDrive20d",
+        "price": 957902,
+        "average_fuel_consumption": 7.35,
+        "configuration": "X1 sDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 xDrive20d",
+        "price": 1024820,
+        "average_fuel_consumption": 7.800000000000001,
+        "configuration": "X1 xDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X1_F48",
+        "designation": "X1 xDrive25d",
+        "price": 1144112,
+        "average_fuel_consumption": 7.5,
+        "configuration": "X1 xDrive25d",
+        "horsepower": 231,
+        "engine_displacement": 1.995
+    }
+]

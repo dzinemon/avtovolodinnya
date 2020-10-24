@@ -1,0 +1,38 @@
+[
+    {
+        "model": "X7_G07",
+        "designation": "X7 xDrive40i",
+        "price": 2455227,
+        "average_fuel_consumption": 14.15,
+        "configuration": "X7 xDrive40i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X7_G07",
+        "designation": "X7 M50i",
+        "price": 3110962,
+        "average_fuel_consumption": 17.1,
+        "configuration": "X7 M50i",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "X7_G07",
+        "designation": "X7 xDrive30d",
+        "price": 2350996,
+        "average_fuel_consumption": 10.9,
+        "configuration": "X7 xDrive30d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "X7_G07",
+        "designation": "X7 M50d",
+        "price": 3052790,
+        "average_fuel_consumption": 11.75,
+        "configuration": "X7 M50d",
+        "horsepower": 400,
+        "engine_displacement": 2.993
+    }
+]

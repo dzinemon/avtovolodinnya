@@ -1,0 +1,101 @@
+[
+    {
+        "model": "3_G20",
+        "designation": "320i",
+        "price": 996446,
+        "average_fuel_consumption": 9.35,
+        "configuration": "320i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "320i xDrive",
+        "price": 1082862,
+        "average_fuel_consumption": 10.1,
+        "configuration": "320i xDrive",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "330e iPerformance",
+        "price": 1511285,
+        "average_fuel_consumption": 3.0,
+        "configuration": "330e iPerformance",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "330i",
+        "price": 1149845,
+        "average_fuel_consumption": 9.55,
+        "configuration": "330i",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "330i xDrive",
+        "price": 1236229,
+        "average_fuel_consumption": 10.5,
+        "configuration": "330i xDrive",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "M340i xDrive",
+        "price": 1489519,
+        "average_fuel_consumption": 8.0,
+        "configuration": "M340i xDrive",
+        "horsepower": 387,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "3_G20",
+        "designation": "318d",
+        "price": 998972,
+        "average_fuel_consumption": 7.1,
+        "configuration": "318d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G20",
+        "designation": "320d",
+        "price": 1082279,
+        "average_fuel_consumption": 7.15,
+        "configuration": "320d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G20",
+        "designation": "320d xDrive",
+        "price": 1243128,
+        "average_fuel_consumption": 7.3999999999999995,
+        "configuration": "320d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G20",
+        "designation": "330d",
+        "price": 1398082,
+        "average_fuel_consumption": 8.15,
+        "configuration": "330d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "3_G20",
+        "designation": "330d xDrive",
+        "price": 1483332,
+        "average_fuel_consumption": 8.6,
+        "configuration": "330d xDrive",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    }
+]

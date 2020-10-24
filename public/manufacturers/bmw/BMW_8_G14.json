@@ -1,0 +1,38 @@
+[
+    {
+        "model": "8_G14",
+        "designation": "840i",
+        "price": 3160616,
+        "average_fuel_consumption": 11.75,
+        "configuration": "840i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "8_G14",
+        "designation": "840i xDrive",
+        "price": 3254450,
+        "average_fuel_consumption": 12.85,
+        "configuration": "840i xDrive",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "8_G14",
+        "designation": "M850i xDrive",
+        "price": 4188221,
+        "average_fuel_consumption": 15.75,
+        "configuration": "M850i xDrive",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "8_G14",
+        "designation": "840d xDrive",
+        "price": 3562608,
+        "average_fuel_consumption": 10.05,
+        "configuration": "840d xDrive",
+        "horsepower": 320,
+        "engine_displacement": 2.993
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "model": "7_G11",
+        "designation": "730i",
+        "price": 2366575,
+        "average_fuel_consumption": 10.4,
+        "configuration": "730i",
+        "horsepower": 265,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "7_G11",
+        "designation": "740i",
+        "price": 2558875,
+        "average_fuel_consumption": 11.45,
+        "configuration": "740i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G11",
+        "designation": "750i xDrive",
+        "price": 2924882,
+        "average_fuel_consumption": 14.850000000000001,
+        "configuration": "750i xDrive",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "7_G11",
+        "designation": "745e iPerformance",
+        "price": 2765944,
+        "average_fuel_consumption": 2.4,
+        "configuration": "745e iPerformance",
+        "horsepower": 286,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G11",
+        "designation": "750d xDrive",
+        "price": 3086702,
+        "average_fuel_consumption": 9.600000000000001,
+        "configuration": "750d xDrive",
+        "horsepower": 400,
+        "engine_displacement": 2.993
+    }
+]

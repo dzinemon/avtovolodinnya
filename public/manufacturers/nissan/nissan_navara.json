@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2020-10-24T13:55:13.355382"
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "navara",
+        "price": 923260,
+        "average_fuel_consumption": 7.0,
+        "configuration": "TEKNA",
+        "horsepower": 163,
+        "engine_displacement": 2.299,
+        "fuel": "diesel"
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "navara",
+        "price": 1228970,
+        "average_fuel_consumption": 7.4,
+        "configuration": "PLATINUM NEW",
+        "horsepower": 190,
+        "engine_displacement": 2.299,
+        "fuel": "diesel"
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "navara",
+        "price": 1167040,
+        "average_fuel_consumption": 6.9,
+        "configuration": "PLATINUM",
+        "horsepower": 190,
+        "engine_displacement": 2.299,
+        "fuel": "diesel"
+    }
+]

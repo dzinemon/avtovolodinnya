@@ -1,0 +1,185 @@
+[
+    {
+        "date": "2020-10-24T14:59:54.113123"
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 617610,
+        "average_fuel_consumption": 8.2,
+        "configuration": "Visia",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 735840,
+        "average_fuel_consumption": 7.5,
+        "configuration": "Visia",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 731340,
+        "average_fuel_consumption": 5.4,
+        "configuration": "Visia",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 720920,
+        "average_fuel_consumption": 7.1,
+        "configuration": "Acenta",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 791300,
+        "average_fuel_consumption": 7.5,
+        "configuration": "Acenta",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 811280,
+        "average_fuel_consumption": 8.3,
+        "configuration": "Acenta",
+        "horsepower": 171,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 812130,
+        "average_fuel_consumption": 5.4,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 764270,
+        "average_fuel_consumption": 5.1,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 816350,
+        "average_fuel_consumption": 7.1,
+        "configuration": "N-Connecta",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 886730,
+        "average_fuel_consumption": 7.5,
+        "configuration": "N-Connecta",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 898270,
+        "average_fuel_consumption": 8.3,
+        "configuration": "N-Connecta",
+        "horsepower": 171,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "x-trail",
+        "price": 834370,
+        "average_fuel_consumption": 5.1,
+        "configuration": "N-Connecta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    }
+]

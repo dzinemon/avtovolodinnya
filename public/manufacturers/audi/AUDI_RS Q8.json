@@ -1,0 +1,12 @@
+[
+    {
+        "model": "RS Q8",
+        "designation": "Audi RS Q8",
+        "price": 3435450,
+        "average_fuel_consumption": 12.1,
+        "configuration": "RS Q8",
+        "horsepower": 600,
+        "engine_displacement": 4.0,
+        "fuel": "petrol"
+    }
+]

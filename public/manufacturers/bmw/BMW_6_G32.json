@@ -1,0 +1,38 @@
+[
+    {
+        "model": "6_G32",
+        "designation": "630i",
+        "price": 1584778,
+        "average_fuel_consumption": 10.8,
+        "configuration": "630i",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "6_G32",
+        "designation": "640i",
+        "price": 1727521,
+        "average_fuel_consumption": 11.8,
+        "configuration": "640i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "6_G32",
+        "designation": "640i xDrive",
+        "price": 1813289,
+        "average_fuel_consumption": 12.4,
+        "configuration": "640i xDrive",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "6_G32",
+        "designation": "630d xDrive",
+        "price": 1843898,
+        "average_fuel_consumption": 10.05,
+        "configuration": "630d xDrive",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "model": "2_F45",
+        "designation": "218i",
+        "price": 882666,
+        "average_fuel_consumption": 7.65,
+        "configuration": "218i",
+        "horsepower": 136,
+        "engine_displacement": 1.499
+    },
+    {
+        "model": "2_F45",
+        "designation": "220i",
+        "price": 1036300,
+        "average_fuel_consumption": 8.3,
+        "configuration": "220i",
+        "horsepower": 192,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "2_F45",
+        "designation": "225i xDrive",
+        "price": 1215590,
+        "average_fuel_consumption": 9.0,
+        "configuration": "225i xDrive",
+        "horsepower": 231,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "2_F45",
+        "designation": "218d xDrive",
+        "price": 1113823,
+        "average_fuel_consumption": 8.0,
+        "configuration": "218d xDrive",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "2_F45",
+        "designation": "220d xDrive",
+        "price": 1166428,
+        "average_fuel_consumption": 8.05,
+        "configuration": "220d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

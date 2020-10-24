@@ -1,0 +1,20 @@
+[
+    {
+        "model": "2_F87",
+        "designation": "M2 Competition",
+        "price": 1948129,
+        "average_fuel_consumption": 14.399999999999999,
+        "configuration": "M2 Competition",
+        "horsepower": 410,
+        "engine_displacement": 2.979
+    },
+    {
+        "model": "2_F87",
+        "designation": "M2 CS",
+        "price": 2874515,
+        "average_fuel_consumption": 15.05,
+        "configuration": "M2 CS",
+        "horsepower": 450,
+        "engine_displacement": 2.979
+    }
+]

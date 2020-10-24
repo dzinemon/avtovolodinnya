@@ -1,0 +1,170 @@
+[
+    {
+        "date": "2020-10-24T14:59:54.112126"
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 525420,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Visia",
+        "horsepower": 115,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 570460,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Visia",
+        "horsepower": 115,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 621970,
+        "average_fuel_consumption": 4.7,
+        "configuration": "Visia",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 560610,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Acenta",
+        "horsepower": 115,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 605650,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Acenta",
+        "horsepower": 115,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 705580,
+        "average_fuel_consumption": 4.9,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 685870,
+        "average_fuel_consumption": 4.7,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 624230,
+        "average_fuel_consumption": 4.7,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 688970,
+        "average_fuel_consumption": 4.7,
+        "configuration": "Acenta",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 804390,
+        "average_fuel_consumption": 7.3,
+        "configuration": "Tekna",
+        "horsepower": 144,
+        "engine_displacement": 1.997,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "nissan",
+        "model": "qashqai",
+        "price": 794250,
+        "average_fuel_consumption": 4.7,
+        "configuration": "Tekna",
+        "horsepower": 130,
+        "engine_displacement": 1.598,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 55
+        }
+    }
+]

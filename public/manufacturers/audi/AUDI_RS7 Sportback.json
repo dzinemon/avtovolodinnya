@@ -1,0 +1,12 @@
+[
+    {
+        "model": "RS7 Sportback",
+        "designation": "Audi RS 7 Sportback",
+        "price": 3431210,
+        "average_fuel_consumption": 11.4,
+        "configuration": "RS 7 SB",
+        "horsepower": 600,
+        "engine_displacement": 4.0,
+        "fuel": "petrol"
+    }
+]

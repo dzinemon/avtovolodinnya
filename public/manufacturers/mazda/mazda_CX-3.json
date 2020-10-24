@@ -1,0 +1,69 @@
+[
+    {
+        "date": "2020-10-25T00:50:22.259926"
+    },
+    {
+        "id": 0,
+        "manufacturer": "mazda",
+        "model": "CX-3",
+        "price": 726700,
+        "average_fuel_consumption": 6.1,
+        "configuration": "TOURING+",
+        "horsepower": 121,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "id": 1,
+        "manufacturer": "mazda",
+        "model": "CX-3",
+        "price": 825800,
+        "average_fuel_consumption": 6.1,
+        "configuration": "STYLE+",
+        "horsepower": 121,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        }
+    },
+    {
+        "id": 2,
+        "manufacturer": "mazda",
+        "model": "CX-3",
+        "price": 825800,
+        "average_fuel_consumption": 6.7,
+        "configuration": "TOURING+",
+        "horsepower": 150,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "id": 3,
+        "manufacturer": "mazda",
+        "model": "CX-3",
+        "price": 876100,
+        "average_fuel_consumption": 6.7,
+        "configuration": "STYLE+",
+        "horsepower": 150,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        }
+    }
+]

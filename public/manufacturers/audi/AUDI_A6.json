@@ -1,0 +1,92 @@
+[
+    {
+        "model": "A6",
+        "designation": "Audi A6 40 TFSI",
+        "price": 1313502,
+        "average_fuel_consumption": 5.2,
+        "configuration": "BASIS",
+        "horsepower": 190,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 45 TFSI quattro",
+        "price": 1508113,
+        "average_fuel_consumption": 6.1,
+        "configuration": "BASIS",
+        "horsepower": 245,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 55 TFSI quattro",
+        "price": 1677079,
+        "average_fuel_consumption": 7.1,
+        "configuration": "BASIS",
+        "horsepower": 340,
+        "engine_displacement": 3.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 40 TDI quattro",
+        "price": 1458837,
+        "average_fuel_consumption": 4.4,
+        "configuration": "BASIS",
+        "horsepower": 204,
+        "engine_displacement": 2.0,
+        "fuel": "diesel"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 40 TFSI Sport",
+        "price": 1371844,
+        "average_fuel_consumption": 5.2,
+        "configuration": "SPORT",
+        "horsepower": 190,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 45 TFSI quattro Sport",
+        "price": 1566455,
+        "average_fuel_consumption": 6.1,
+        "configuration": "SPORT",
+        "horsepower": 245,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 55 TFSI quattro Sport",
+        "price": 1734481,
+        "average_fuel_consumption": 7.1,
+        "configuration": "SPORT",
+        "horsepower": 340,
+        "engine_displacement": 3.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi A6 40 TDI quattro Sport",
+        "price": 1518695,
+        "average_fuel_consumption": 4.4,
+        "configuration": "SPORT",
+        "horsepower": 204,
+        "engine_displacement": 2.0,
+        "fuel": "diesel"
+    },
+    {
+        "model": "A6",
+        "designation": "Audi S6 TDI quattro",
+        "price": 2112188,
+        "average_fuel_consumption": 6.2,
+        "configuration": "S6",
+        "horsepower": 349,
+        "engine_displacement": 3.0,
+        "fuel": "diesel"
+    }
+]

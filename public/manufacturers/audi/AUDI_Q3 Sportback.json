@@ -1,0 +1,42 @@
+[
+    {
+        "model": "Q3 Sportback",
+        "designation": "Audi Q3 Sportback 35 TFSI",
+        "price": 1077080,
+        "average_fuel_consumption": 7.0,
+        "configuration": "BASIS",
+        "horsepower": 150,
+        "engine_displacement": 1.4,
+        "fuel": "petrol"
+    },
+    {
+        "model": "Q3 Sportback",
+        "designation": "Audi Q3 Sportback 40 TFSI quattro",
+        "price": 1247746,
+        "average_fuel_consumption": 7.8,
+        "configuration": "BASIS",
+        "horsepower": 180,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "Q3 Sportback",
+        "designation": "Audi Q3 Sportback 35 TFSI S line",
+        "price": 1162069,
+        "average_fuel_consumption": 7.0,
+        "configuration": "S LINE",
+        "horsepower": 150,
+        "engine_displacement": 1.4,
+        "fuel": "petrol"
+    },
+    {
+        "model": "Q3 Sportback",
+        "designation": "Audi Q3 Sportback 40 TFSI quattro S line",
+        "price": 1332713,
+        "average_fuel_consumption": 7.8,
+        "configuration": "S LINE",
+        "horsepower": 180,
+        "engine_displacement": 2.0,
+        "fuel": "petrol"
+    }
+]

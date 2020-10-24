@@ -1,0 +1,275 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.840221"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 294900,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 308200,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life+",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 324300,
+        "average_fuel_consumption": 5.199999999999999,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 354200,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 357500,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 333700,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life+ з ГБО",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 340900,
+        "average_fuel_consumption": 5.199999999999999,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 370800,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 374100,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 294900,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 308200,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life+",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 324300,
+        "average_fuel_consumption": 5.199999999999999,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 354200,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 357500,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 333700,
+        "average_fuel_consumption": 6.3485,
+        "configuration": "Life+ з ГБО",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 340900,
+        "average_fuel_consumption": 5.199999999999999,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 370800,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN",
+        "price": 374100,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.842215"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 453900,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 487600,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 511100,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Intense",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 453900,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 487600,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LODGY",
+        "price": 511100,
+        "average_fuel_consumption": 4.6,
+        "configuration": "Intense",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    }
+]

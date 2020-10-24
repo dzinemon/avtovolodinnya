@@ -1,0 +1,65 @@
+[
+    {
+        "model": "2_F23",
+        "designation": "218i",
+        "price": 1096466,
+        "average_fuel_consumption": 8.15,
+        "configuration": "218i",
+        "horsepower": 136,
+        "engine_displacement": 1.499
+    },
+    {
+        "model": "2_F23",
+        "designation": "220i",
+        "price": 1269947,
+        "average_fuel_consumption": 8.6,
+        "configuration": "220i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "2_F23",
+        "designation": "230i",
+        "price": 1345675,
+        "average_fuel_consumption": 8.95,
+        "configuration": "230i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "2_F23",
+        "designation": "M240i",
+        "price": 1574996,
+        "average_fuel_consumption": 12.2,
+        "configuration": "M240i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "2_F23",
+        "designation": "M240i xDrive",
+        "price": 1642238,
+        "average_fuel_consumption": 11.5,
+        "configuration": "M240i xDrive",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "2_F23",
+        "designation": "218d",
+        "price": 1202382,
+        "average_fuel_consumption": 6.4,
+        "configuration": "218d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "2_F23",
+        "designation": "220d",
+        "price": 1220358,
+        "average_fuel_consumption": 6.55,
+        "configuration": "220d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

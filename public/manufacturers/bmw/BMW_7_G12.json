@@ -1,0 +1,74 @@
+[
+    {
+        "model": "7_G12",
+        "designation": "730Li",
+        "price": 2543749,
+        "average_fuel_consumption": 10.6,
+        "configuration": "730Li",
+        "horsepower": 265,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "7_G12",
+        "designation": "740Li",
+        "price": 2733392,
+        "average_fuel_consumption": 11.649999999999999,
+        "configuration": "740Li",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G12",
+        "designation": "740Li xDrive",
+        "price": 2849543,
+        "average_fuel_consumption": 12.399999999999999,
+        "configuration": "740Li xDrive",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G12",
+        "designation": "750Li xDrive",
+        "price": 3069827,
+        "average_fuel_consumption": 14.95,
+        "configuration": "750Li xDrive",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "7_G12",
+        "designation": "M760Li xDrive",
+        "price": 4000780,
+        "average_fuel_consumption": 19.049999999999997,
+        "configuration": "M760Li xDrive",
+        "horsepower": 609,
+        "engine_displacement": 6.592
+    },
+    {
+        "model": "7_G12",
+        "designation": "745Le iPerformance",
+        "price": 2940235,
+        "average_fuel_consumption": 2.5,
+        "configuration": "745Le iPerformance",
+        "horsepower": 286,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G12",
+        "designation": "745Le xDrive iPerformance",
+        "price": 3055122,
+        "average_fuel_consumption": 2.8,
+        "configuration": "745Le xDrive iPerformance",
+        "horsepower": 286,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "7_G12",
+        "designation": "750Ld xDrive",
+        "price": 3275568,
+        "average_fuel_consumption": 9.7,
+        "configuration": "750Ld xDrive",
+        "horsepower": 400,
+        "engine_displacement": 2.993
+    }
+]

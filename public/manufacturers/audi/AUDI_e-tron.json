@@ -1,0 +1,56 @@
+[
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 50 quattro",
+        "price": 1920900,
+        "average_fuel_consumption": 0,
+        "configuration": "BASIS",
+        "horsepower": 313,
+        "fuel": "electric"
+    },
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 55 quattro",
+        "price": 2223740,
+        "average_fuel_consumption": 0,
+        "configuration": "BASIS",
+        "horsepower": 408,
+        "fuel": "electric"
+    },
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 50 quattro advanced",
+        "price": 1990774,
+        "average_fuel_consumption": 0,
+        "configuration": "ADVANCED",
+        "horsepower": 313,
+        "fuel": "electric"
+    },
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 55 quattro advanced",
+        "price": 2266999,
+        "average_fuel_consumption": 0,
+        "configuration": "ADVANCED",
+        "horsepower": 408,
+        "fuel": "electric"
+    },
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 50 quattro S line",
+        "price": 2004080,
+        "average_fuel_consumption": 0,
+        "configuration": "S LINE",
+        "horsepower": 313,
+        "fuel": "electric"
+    },
+    {
+        "model": "e-tron",
+        "designation": "Audi e-tron 55 quattro S line",
+        "price": 2303585,
+        "average_fuel_consumption": 0,
+        "configuration": "S LINE",
+        "horsepower": 408,
+        "fuel": "electric"
+    }
+]

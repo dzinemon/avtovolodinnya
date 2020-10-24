@@ -1,0 +1,95 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.848229"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 807900,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Life",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 864700,
+        "average_fuel_consumption": 6.0,
+        "configuration": "Zen",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 943400,
+        "average_fuel_consumption": 6.0,
+        "configuration": "Intense",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 807900,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Life",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 864700,
+        "average_fuel_consumption": 6.0,
+        "configuration": "Zen",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KOLEOS",
+        "price": 943400,
+        "average_fuel_consumption": 6.0,
+        "configuration": "Intense",
+        "horsepower": 177,
+        "engine_displacement": 2.0,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        }
+    }
+]

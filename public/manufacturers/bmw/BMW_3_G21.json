@@ -1,0 +1,74 @@
+[
+    {
+        "model": "3_G21",
+        "designation": "330i",
+        "price": 1194608,
+        "average_fuel_consumption": 10.45,
+        "configuration": "330i",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G21",
+        "designation": "330i xDrive",
+        "price": 1280992,
+        "average_fuel_consumption": 10.55,
+        "configuration": "330i xDrive",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_G21",
+        "designation": "M340i xDrive",
+        "price": 1530039,
+        "average_fuel_consumption": 9.5,
+        "configuration": "M340i xDrive",
+        "horsepower": 387,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "3_G21",
+        "designation": "318d",
+        "price": 1052578,
+        "average_fuel_consumption": 7.25,
+        "configuration": "318d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G21",
+        "designation": "320d",
+        "price": 1136436,
+        "average_fuel_consumption": 7.35,
+        "configuration": "320d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G21",
+        "designation": "320d xDrive",
+        "price": 1287891,
+        "average_fuel_consumption": 7.8,
+        "configuration": "320d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_G21",
+        "designation": "330d",
+        "price": 1441841,
+        "average_fuel_consumption": 8.45,
+        "configuration": "330d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "3_G21",
+        "designation": "330d xDrive",
+        "price": 1527512,
+        "average_fuel_consumption": 9.15,
+        "configuration": "330d xDrive",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    }
+]

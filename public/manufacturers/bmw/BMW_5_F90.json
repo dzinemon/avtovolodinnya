@@ -1,0 +1,11 @@
+[
+    {
+        "model": "5_F90",
+        "designation": "M5",
+        "price": 3773953,
+        "average_fuel_consumption": 15.6,
+        "configuration": "M5",
+        "horsepower": 600,
+        "engine_displacement": 4.395
+    }
+]

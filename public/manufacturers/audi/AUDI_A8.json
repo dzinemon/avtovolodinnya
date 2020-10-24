@@ -1,0 +1,52 @@
+[
+    {
+        "model": "A8",
+        "designation": "Audi A8 55 TFSI quattro",
+        "price": 2397094,
+        "average_fuel_consumption": 7.5,
+        "configuration": "A8",
+        "horsepower": 340,
+        "engine_displacement": 3.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A8",
+        "designation": "Audi A8 60 TFSI quattro",
+        "price": 2822622,
+        "average_fuel_consumption": 11.1,
+        "configuration": "A8",
+        "horsepower": 460,
+        "engine_displacement": 4.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A8",
+        "designation": "Audi A8 L 55 TFSI quattro",
+        "price": 2585206,
+        "average_fuel_consumption": 7.5,
+        "configuration": "A8L",
+        "horsepower": 340,
+        "engine_displacement": 3.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A8",
+        "designation": "Audi A8 Long 60 TFSI quattro",
+        "price": 2897376,
+        "average_fuel_consumption": 11.1,
+        "configuration": "A8L",
+        "horsepower": 460,
+        "engine_displacement": 4.0,
+        "fuel": "petrol"
+    },
+    {
+        "model": "A8",
+        "designation": "Audi S8 70 TFSI quattro",
+        "price": 3573795,
+        "average_fuel_consumption": 11.3,
+        "configuration": "S8",
+        "horsepower": 571,
+        "engine_displacement": 4.0,
+        "fuel": "petrol"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "model": "5_G30",
+        "designation": "520i",
+        "price": 1251550,
+        "average_fuel_consumption": 6.8,
+        "configuration": "520i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "530i",
+        "price": 1357886,
+        "average_fuel_consumption": 6.7,
+        "configuration": "530i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "530i xDrive",
+        "price": 1444205,
+        "average_fuel_consumption": 7.3,
+        "configuration": "530i xDrive",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "540i",
+        "price": 1504192,
+        "average_fuel_consumption": 7.7,
+        "configuration": "540i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "540i xDrive",
+        "price": 1589960,
+        "average_fuel_consumption": 7.9,
+        "configuration": "540i xDrive",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "M550i xDrive",
+        "price": 2633372,
+        "average_fuel_consumption": 10.7,
+        "configuration": "M550i xDrive",
+        "horsepower": 530,
+        "engine_displacement": 4.395
+    },
+    {
+        "model": "5_G30",
+        "designation": "530e iPerformance",
+        "price": 1657591,
+        "average_fuel_consumption": 2.3,
+        "configuration": "530e iPerformance",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "5_G30",
+        "designation": "518d",
+        "price": 1276976,
+        "average_fuel_consumption": 5.2,
+        "configuration": "518d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "5_G30",
+        "designation": "520d",
+        "price": 1360833,
+        "average_fuel_consumption": 5.2,
+        "configuration": "520d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "5_G30",
+        "designation": "520d xDrive",
+        "price": 1447120,
+        "average_fuel_consumption": 5.5,
+        "configuration": "520d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

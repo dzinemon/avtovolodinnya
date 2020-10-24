@@ -1,0 +1,575 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.844239"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 382900,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Base",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 551700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 508300,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 421600,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 575100,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 488400,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 536600,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 449900,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 603300,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 516600,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 580000,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 547400,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Intense",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 610700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 634100,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 534100,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Ultramarine",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 596500,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 529800,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 579700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 467300,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Ultramarine",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 382900,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Base",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 551700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 508300,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 421600,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 575100,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 488400,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 536600,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 449900,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 603300,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 516600,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 580000,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 547400,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Intense",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 610700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 634100,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 534100,
+        "average_fuel_consumption": 7.484500000000001,
+        "configuration": "Ultramarine",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 596500,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 529800,
+        "average_fuel_consumption": 4.699999999999999,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 579700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Ultramarine",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "DUSTER",
+        "price": 467300,
+        "average_fuel_consumption": 7.140000000000001,
+        "configuration": "Ultramarine",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    }
+]

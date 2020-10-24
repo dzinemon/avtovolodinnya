@@ -1,0 +1,275 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.838226"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 272900,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Base",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 293900,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 307200,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life+",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 323200,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 353100,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 356500,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 332700,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life+ з ГБО",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 369700,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 373100,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 272900,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Base",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 293900,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 307200,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life+",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 323200,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 353100,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 356500,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 332700,
+        "average_fuel_consumption": 5.75,
+        "configuration": "Life+ з ГБО",
+        "horsepower": 75,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 369700,
+        "average_fuel_consumption": 5.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "SANDERO",
+        "price": 373100,
+        "average_fuel_consumption": 4.050000000000001,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        }
+    }
+]

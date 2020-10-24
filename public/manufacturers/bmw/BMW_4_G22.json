@@ -1,0 +1,29 @@
+[
+    {
+        "model": "4_G22",
+        "designation": "420i",
+        "price": 1078555,
+        "average_fuel_consumption": 9.5,
+        "configuration": "420i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_G22",
+        "designation": "430i",
+        "price": 1257477,
+        "average_fuel_consumption": 9.8,
+        "configuration": "430i",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "4_G22",
+        "designation": "M440i xDrive",
+        "price": 1671032,
+        "average_fuel_consumption": 11.45,
+        "configuration": "M440i xDrive",
+        "horsepower": 387,
+        "engine_displacement": 2.998
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2020-10-25T00:50:22.259926"
+    },
+    {
+        "id": 0,
+        "manufacturer": "mazda",
+        "model": "MX-5 RF",
+        "price": 1177400,
+        "average_fuel_consumption": 6.9,
+        "configuration": "TOP",
+        "horsepower": 184,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 205,
+            "height": 45
+        }
+    },
+    {
+        "id": 1,
+        "manufacturer": "mazda",
+        "model": "MX-5 RF",
+        "price": 1120000,
+        "average_fuel_consumption": 6.9,
+        "configuration": "TOP",
+        "horsepower": 184,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 205,
+            "height": 45
+        }
+    }
+]

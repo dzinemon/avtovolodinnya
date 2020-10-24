@@ -1,0 +1,29 @@
+[
+    {
+        "model": "Z4_G29",
+        "designation": "Z4 sDrive20i",
+        "price": 1331002,
+        "average_fuel_consumption": 9.6,
+        "configuration": "Z4 sDrive20i",
+        "horsepower": 197,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "Z4_G29",
+        "designation": "Z4 sDrive30i",
+        "price": 1630513,
+        "average_fuel_consumption": 9.65,
+        "configuration": "Z4 sDrive30i",
+        "horsepower": 258,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "Z4_G29",
+        "designation": "Z4 M40i",
+        "price": 1957392,
+        "average_fuel_consumption": 10.95,
+        "configuration": "Z4 M40i",
+        "horsepower": 340,
+        "engine_displacement": 2.998
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.847233"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 518900,
+        "average_fuel_consumption": 6.449999999999999,
+        "configuration": "Life",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 650400,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 617500,
+        "average_fuel_consumption": 4.65,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 634000,
+        "average_fuel_consumption": 6.35,
+        "configuration": "Zen",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 811500,
+        "average_fuel_consumption": 5.25,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.6,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 716200,
+        "average_fuel_consumption": 6.35,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 732600,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 775300,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Black Edition",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 19,
+            "width": 225,
+            "height": 45
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 518900,
+        "average_fuel_consumption": 6.449999999999999,
+        "configuration": "Life",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 650400,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 617500,
+        "average_fuel_consumption": 4.65,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 634000,
+        "average_fuel_consumption": 6.35,
+        "configuration": "Zen",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 811500,
+        "average_fuel_consumption": 5.25,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.6,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 18,
+            "width": 215,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 716200,
+        "average_fuel_consumption": 6.35,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 732600,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "price": 775300,
+        "average_fuel_consumption": 4.85,
+        "configuration": "Black Edition",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 19,
+            "width": 225,
+            "height": 45
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "model": "X3_G01",
+        "designation": "X3 sDrive20i",
+        "price": 1087527,
+        "average_fuel_consumption": 10.6,
+        "configuration": "X3 sDrive20i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 xDrive20i",
+        "price": 1154412,
+        "average_fuel_consumption": 10.9,
+        "configuration": "X3 xDrive20i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 xDrive30i",
+        "price": 1347327,
+        "average_fuel_consumption": 11.0,
+        "configuration": "X3 xDrive30i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 M40i",
+        "price": 1868676,
+        "average_fuel_consumption": 13.35,
+        "configuration": "X3 M40i",
+        "horsepower": 360,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 xDrive30e iPerformance",
+        "price": 1664911,
+        "average_fuel_consumption": 6.0,
+        "configuration": "X3 xDrive30e iPerformance",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 sDrive18d",
+        "price": 1285008,
+        "average_fuel_consumption": 8.1,
+        "configuration": "X3 sDrive18d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 xDrive20d",
+        "price": 1320637,
+        "average_fuel_consumption": 8.75,
+        "configuration": "X3 xDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 xDrive30d",
+        "price": 1570850,
+        "average_fuel_consumption": 9.55,
+        "configuration": "X3 xDrive30d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "X3_G01",
+        "designation": "X3 M40d",
+        "price": 1860903,
+        "average_fuel_consumption": 10.25,
+        "configuration": "X3 M40d",
+        "horsepower": 326,
+        "engine_displacement": 2.993
+    }
+]

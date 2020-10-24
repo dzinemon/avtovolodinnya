@@ -1,0 +1,117 @@
+[
+    {
+        "date": "2020-10-25T00:50:22.260925"
+    },
+    {
+        "id": 0,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 904500,
+        "average_fuel_consumption": 7.0,
+        "configuration": "TOURING",
+        "horsepower": 165,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "id": 1,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 833000,
+        "average_fuel_consumption": 6.6,
+        "configuration": "TOURING",
+        "horsepower": 165,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "id": 2,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 856000,
+        "average_fuel_consumption": 6.6,
+        "configuration": "TOURING S",
+        "horsepower": 165,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "id": 3,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 927500,
+        "average_fuel_consumption": 7.0,
+        "configuration": "TOURING S",
+        "horsepower": 165,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "id": 4,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 867500,
+        "average_fuel_consumption": 7.1,
+        "configuration": "TOURING",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        }
+    },
+    {
+        "id": 5,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 1192100,
+        "average_fuel_consumption": 7.2,
+        "configuration": "TOP",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 19,
+            "width": 225,
+            "height": 55
+        }
+    },
+    {
+        "id": 6,
+        "manufacturer": "mazda",
+        "model": "CX-5",
+        "price": 1091500,
+        "average_fuel_consumption": 7.2,
+        "configuration": "STYLE+",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 19,
+            "width": 225,
+            "height": 55
+        }
+    }
+]

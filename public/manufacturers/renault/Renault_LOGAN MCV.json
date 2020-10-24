@@ -1,0 +1,365 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.841218"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 329900,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Base",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 362500,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Life+",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 378600,
+        "average_fuel_consumption": 5.55,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 408500,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 411800,
+        "average_fuel_consumption": 4.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 395200,
+        "average_fuel_consumption": 5.55,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 425100,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 428500,
+        "average_fuel_consumption": 4.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 434000,
+        "average_fuel_consumption": 5.65,
+        "configuration": "Stepway Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 463900,
+        "average_fuel_consumption": 5.7,
+        "configuration": "Stepway Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 437300,
+        "average_fuel_consumption": 5.65,
+        "configuration": "Stepway Ultramarine",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 467200,
+        "average_fuel_consumption": 5.7,
+        "configuration": "Stepway Ultramarine",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 329900,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Base",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 362500,
+        "average_fuel_consumption": 5.9,
+        "configuration": "Life+",
+        "horsepower": 73,
+        "engine_displacement": 1.0,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 378600,
+        "average_fuel_consumption": 5.55,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 408500,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 411800,
+        "average_fuel_consumption": 4.15,
+        "configuration": "Life+",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 395200,
+        "average_fuel_consumption": 5.55,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 425100,
+        "average_fuel_consumption": 5.6,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 428500,
+        "average_fuel_consumption": 4.15,
+        "configuration": "Zen",
+        "horsepower": 90,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 434000,
+        "average_fuel_consumption": 5.65,
+        "configuration": "Stepway Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 463900,
+        "average_fuel_consumption": 5.7,
+        "configuration": "Stepway Zen",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 437300,
+        "average_fuel_consumption": 5.65,
+        "configuration": "Stepway Ultramarine",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "LOGAN MCV",
+        "price": 467200,
+        "average_fuel_consumption": 5.7,
+        "configuration": "Stepway Ultramarine",
+        "horsepower": 90,
+        "engine_displacement": 0.9,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    }
+]

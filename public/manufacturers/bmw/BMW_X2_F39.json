@@ -1,0 +1,83 @@
+[
+    {
+        "model": "X2_F39",
+        "designation": "X2 sDrive18i",
+        "price": 897925,
+        "average_fuel_consumption": 9.05,
+        "configuration": "X2 sDrive18i",
+        "horsepower": 140,
+        "engine_displacement": 1.499
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 sDrive20i",
+        "price": 1039664,
+        "average_fuel_consumption": 9.3,
+        "configuration": "X2 sDrive20i",
+        "horsepower": 192,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 xDrive20i",
+        "price": 1111177,
+        "average_fuel_consumption": 10.6,
+        "configuration": "X2 xDrive20i",
+        "horsepower": 192,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 M35i",
+        "price": 1611508,
+        "average_fuel_consumption": 10.899999999999999,
+        "configuration": "X2 M35i",
+        "horsepower": 306,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 sDrive16d",
+        "price": 892656,
+        "average_fuel_consumption": 7.1,
+        "configuration": "X2 sDrive16d",
+        "horsepower": 116,
+        "engine_displacement": 1.496
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 sDrive18d",
+        "price": 948291,
+        "average_fuel_consumption": 7.5,
+        "configuration": "X2 sDrive18d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 xDrive18d",
+        "price": 1018191,
+        "average_fuel_consumption": 8.05,
+        "configuration": "X2 xDrive18d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 sDrive20d",
+        "price": 1096626,
+        "average_fuel_consumption": 7.25,
+        "configuration": "X2 sDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X2_F39",
+        "designation": "X2 xDrive20d",
+        "price": 1166525,
+        "average_fuel_consumption": 7.800000000000001,
+        "configuration": "X2 xDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

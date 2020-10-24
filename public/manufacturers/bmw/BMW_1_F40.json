@@ -1,0 +1,56 @@
+[
+    {
+        "model": "1_F40",
+        "designation": "118i",
+        "price": 845152,
+        "average_fuel_consumption": 8.8,
+        "configuration": "118i",
+        "horsepower": 140,
+        "engine_displacement": 1.499
+    },
+    {
+        "model": "1_F40",
+        "designation": "M135i xDrive",
+        "price": 1270044,
+        "average_fuel_consumption": 11.05,
+        "configuration": "M135i xDrive",
+        "horsepower": 306,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "1_F40",
+        "designation": "116d",
+        "price": 890595,
+        "average_fuel_consumption": 7.0,
+        "configuration": "116d",
+        "horsepower": 116,
+        "engine_displacement": 1.496
+    },
+    {
+        "model": "1_F40",
+        "designation": "118d",
+        "price": 931860,
+        "average_fuel_consumption": 7.2,
+        "configuration": "118d",
+        "horsepower": 150,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "1_F40",
+        "designation": "120d",
+        "price": 1066344,
+        "average_fuel_consumption": 7.2,
+        "configuration": "120d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "1_F40",
+        "designation": "120d xDrive",
+        "price": 1139415,
+        "average_fuel_consumption": 7.6,
+        "configuration": "120d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

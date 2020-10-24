@@ -1,0 +1,56 @@
+[
+    {
+        "model": "X4_G02",
+        "designation": "X4 xDrive20i",
+        "price": 1306224,
+        "average_fuel_consumption": 10.9,
+        "configuration": "X4 xDrive20i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X4_G02",
+        "designation": "X4 xDrive30i",
+        "price": 1498880,
+        "average_fuel_consumption": 11.2,
+        "configuration": "X4 xDrive30i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "X4_G02",
+        "designation": "X4 M40i",
+        "price": 2003678,
+        "average_fuel_consumption": 13.6,
+        "configuration": "X4 M40i",
+        "horsepower": 360,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "X4_G02",
+        "designation": "X4 xDrive20d",
+        "price": 1471834,
+        "average_fuel_consumption": 8.75,
+        "configuration": "X4 xDrive20d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "X4_G02",
+        "designation": "X4 xDrive30d",
+        "price": 1723440,
+        "average_fuel_consumption": 9.55,
+        "configuration": "X4 xDrive30d",
+        "horsepower": 265,
+        "engine_displacement": 2.993
+    },
+    {
+        "model": "X4_G02",
+        "designation": "X4 M40d",
+        "price": 2257000,
+        "average_fuel_consumption": 10.35,
+        "configuration": "X4 M40d",
+        "horsepower": 326,
+        "engine_displacement": 2.993
+    }
+]

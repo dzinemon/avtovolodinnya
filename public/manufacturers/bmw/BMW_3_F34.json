@@ -1,0 +1,74 @@
+[
+    {
+        "model": "3_F34",
+        "designation": "320i",
+        "price": 1213491,
+        "average_fuel_consumption": 8.95,
+        "configuration": "320i",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "320i xDrive",
+        "price": 1299875,
+        "average_fuel_consumption": 9.899999999999999,
+        "configuration": "320i xDrive",
+        "horsepower": 184,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "330i",
+        "price": 1364072,
+        "average_fuel_consumption": 8.65,
+        "configuration": "330i",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "330i xDrive",
+        "price": 1450457,
+        "average_fuel_consumption": 9.350000000000001,
+        "configuration": "330i xDrive",
+        "horsepower": 252,
+        "engine_displacement": 1.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "340i",
+        "price": 1612212,
+        "average_fuel_consumption": 10.25,
+        "configuration": "340i",
+        "horsepower": 326,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "340i xDrive",
+        "price": 1697851,
+        "average_fuel_consumption": 10.8,
+        "configuration": "340i xDrive",
+        "horsepower": 326,
+        "engine_displacement": 2.998
+    },
+    {
+        "model": "3_F34",
+        "designation": "320d",
+        "price": 1287794,
+        "average_fuel_consumption": 6.85,
+        "configuration": "320d",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    },
+    {
+        "model": "3_F34",
+        "designation": "320d xDrive",
+        "price": 1448610,
+        "average_fuel_consumption": 7.15,
+        "configuration": "320d xDrive",
+        "horsepower": 190,
+        "engine_displacement": 1.995
+    }
+]

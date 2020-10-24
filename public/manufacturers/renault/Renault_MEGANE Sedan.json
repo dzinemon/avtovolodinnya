@@ -1,0 +1,245 @@
+[
+    {
+        "date": "2020-10-18T00:20:45.843241"
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 435900,
+        "average_fuel_consumption": 6.949999999999999,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 498600,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 483900,
+        "average_fuel_consumption": 6.949999999999999,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 513200,
+        "average_fuel_consumption": 7.25,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 533700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 573200,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 618100,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 616600,
+        "average_fuel_consumption": 6.05,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 435900,
+        "average_fuel_consumption": 6.949999999999999,
+        "configuration": "Life",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 498600,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Life",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 483900,
+        "average_fuel_consumption": 6.949999999999999,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 513200,
+        "average_fuel_consumption": 7.25,
+        "configuration": "Zen",
+        "horsepower": 115,
+        "engine_displacement": 1.6,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 533700,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 573200,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Zen",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 618100,
+        "average_fuel_consumption": 4.55,
+        "configuration": "Intense",
+        "horsepower": 110,
+        "engine_displacement": 1.5,
+        "fuel": "diesel",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    },
+    {
+        "manufacturer": "Renault",
+        "model": "MEGANE Sedan",
+        "price": 616600,
+        "average_fuel_consumption": 6.05,
+        "configuration": "Intense",
+        "horsepower": 130,
+        "engine_displacement": 1.2,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 55
+        }
+    }
+]
