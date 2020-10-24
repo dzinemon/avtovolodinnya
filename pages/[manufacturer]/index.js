@@ -1,6 +1,7 @@
 import Link from 'next/link'
 
 import Breadcrumbs from '../../components/breadcrumbs'
+import CarCard from '../../components/manufacturer/CarCard'
 
 import fs from 'fs'
 import path from 'path'
@@ -9,18 +10,33 @@ function Manufacturer({availableModels, manufacturer}) {
   return (
     <div>
       <Breadcrumbs />
-      <div>
-        Manufacturer page
-      </div>
-      {availableModels.map((i, idx) => (
-        <div key={idx} className="w-64 p-4">
-          <Link href={`/${manufacturer}/${i.filename.toLowerCase().replace(`${manufacturer}_`, '')}`}>
-            <a className="block hover:text-blue-600 transition transition-transform hover:scale-105 transform duration-500">
-            <div className="font-bold text-base md:text-xl">{i.filename.toLowerCase().replace(`${manufacturer}_`, '').toUpperCase()}</div>
-            </a>
-          </Link>
+      <div className="py-12 bg-white">
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="lg:text-center">
+          <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
+            <img className="mx-auto h-10 w-auto hidden" alt={manufacturer}/>
+            Виберіть модель {manufacturer}
+          </h3>
         </div>
-      ))}
+
+        <div className="mt-10">
+          <div className="grid grid-cols-2 sm:grid-cols-3 sm:text-base text-sm gap-4 grid-2">
+          {availableModels.map((i, idx) => {
+              const model = i.filename.toLowerCase().replace(`${manufacturer}_`, '')
+              return (
+              <div key={idx} className="mb-2 sm:mb-0">
+                <Link href={`/${manufacturer}/${model}`}>
+                  <a className="text-blue-600 hover:text-blue-800 uppercase font-bold">
+                    <CarCard image='' modelName={model} />
+                  </a>
+                </Link>
+              </div>
+            )})}
+          </div>
+        </div>
+      </div>
+    </div>
+     
     </div>
   )
 }
