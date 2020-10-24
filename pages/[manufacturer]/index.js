@@ -27,7 +27,7 @@ function Manufacturer({availableModels, manufacturer}) {
               <div key={idx} className="mb-2 sm:mb-0">
                 <Link href={`/${manufacturer}/${model}`}>
                   <a className="text-blue-600 hover:text-blue-800 uppercase font-bold">
-                    <CarCard image='' modelName={model} />
+                    <CarCard image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} modelName={model} />
                   </a>
                 </Link>
               </div>
@@ -42,7 +42,7 @@ function Manufacturer({availableModels, manufacturer}) {
 }
 
 export async function getStaticPaths() {
-  const manufacturerDirectory = path.join(process.cwd(), 'manufacturers', 'json')
+  const manufacturerDirectory = path.join(process.cwd(), 'public', 'manufacturers')
   const filenames = fs.readdirSync(manufacturerDirectory)
   const availableManufacturers = filenames.filter(i => i.indexOf('.') === -1).map((filename) => ({filename}))
   const manufacturerModels = Object.values(availableManufacturers)
@@ -54,9 +54,13 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const currentManufacturerDir = path.join(process.cwd(), 'manufacturers', 'json', params.manufacturer)
+  const currentManufacturerDir = path.join(process.cwd(), 'public', 'manufacturers', params.manufacturer)
   const filenames = fs.readdirSync(currentManufacturerDir)
-  const availableModels = filenames.filter(i => i.indexOf('.DS_Store') === -1).map((filename) => ({filename: filename.replace('.json', '')}))
+  
+  const availableModels = filenames
+    .filter(i => i.indexOf('.DS_Store') === -1)
+    .filter(i => i.includes('json'))
+    .map((filename) => ({filename: filename.replace('.json', '')}))
   return {
     props: {
       availableModels,
