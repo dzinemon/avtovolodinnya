@@ -34,8 +34,6 @@ function ModelDynamic(props) {
 
   const url = `/manufacturers/${props.manufacturer.toUpperCase()}/${props.manufacturer.toUpperCase()}_${props.model.toUpperCase()}.json`;
 
-  console.log(`data `, data)
-
   const getCurrentCars = data.filter(i => typeof i.model === 'string');
   const getCurrentDate = data.filter(i => typeof i.model !== 'string');
 

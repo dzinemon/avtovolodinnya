@@ -83,8 +83,6 @@ export async function getStaticPaths() {
     
   })
 
-  console.log(finalPaths)
-
   return { 
     paths: finalPaths, 
     fallback: false }
