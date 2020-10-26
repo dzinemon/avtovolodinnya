@@ -16,6 +16,8 @@ export default function SEO({ description, title }) {
       <meta property="twitter:creator" content={config.social.twitter} />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
+      <link href="https://unpkg.com/tailwindcss@1.9.6/dist/tailwind.css" rel="stylesheet"/>
+
       {/* ADD LD JSON SNIPPET */}
     </Head>
   )

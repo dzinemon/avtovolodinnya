@@ -26,7 +26,7 @@ function Model({data}) {
   const router = useRouter();
   const {model, manufacturer} = router.query;
 
-  const image = `/manufacturers/${manufacturer.toUpperCase()}/${manufacturer.toUpperCase()}_${model.toUpperCase()}_0.jpg`
+  const image = `/manufacturers/${manufacturer}/${manufacturer.toUpperCase()}_${model.toUpperCase()}_0.jpg`
   return (
     <Layout>
         <Seo 
