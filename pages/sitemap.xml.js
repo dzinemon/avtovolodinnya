@@ -18,10 +18,9 @@ const createSitemap = (finalPaths) => `<?xml version="1.0" encoding="UTF-8"?>
     </urlset>
     `;
 
-class Sitemap extends React.Component {
-  static async getInitialProps({ res }) {
-    // Manufacturers 
-    const currentAllManufacturerPath = path.join(process.cwd(), 'public', 'manufacturers')
+
+export async function getServerSideProps({ res }) {
+  const currentAllManufacturerPath = path.join(process.cwd(), 'public', 'manufacturers')
 
     // Get the array of all manufactureres 
     const manufacturersFileNames = fs.readdirSync(currentAllManufacturerPath)
@@ -62,7 +61,12 @@ class Sitemap extends React.Component {
     res.setHeader('Content-Type', 'text/xml');
     res.write(createSitemap(finalPaths));
     res.end();
+
+  return {
+    props: {},
   }
 }
+    
 
-export default Sitemap;
+const Sitemap = () => null
+export default Sitemap
