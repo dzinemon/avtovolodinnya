@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2020-10-25T12:22:21.889550"
+    },
+    {
+        "id": 0,
+        "manufacturer": "mazda",
+        "model": "3 SEDAN",
+        "price": 744000,
+        "average_fuel_consumption": 5.7,
+        "configuration": "STYLE",
+        "horsepower": 120,
+        "engine_displacement": 1.496,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 60
+        }
+    },
+    {
+        "id": 1,
+        "manufacturer": "mazda",
+        "model": "3 SEDAN",
+        "price": 811500,
+        "average_fuel_consumption": 5.7,
+        "configuration": "EXCLUSIVE",
+        "horsepower": 120,
+        "engine_displacement": 1.496,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 16,
+            "width": 205,
+            "height": 60
+        }
+    }
+]

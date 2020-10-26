@@ -1,0 +1,69 @@
+[
+    {
+        "date": "2020-10-25T12:22:21.892570"
+    },
+    {
+        "id": 0,
+        "manufacturer": "mazda",
+        "model": "6 SEDAN",
+        "price": 844500,
+        "average_fuel_consumption": 6.7,
+        "configuration": "TOURING",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 55
+        }
+    },
+    {
+        "id": 1,
+        "manufacturer": "mazda",
+        "model": "6 SEDAN",
+        "price": 787100,
+        "average_fuel_consumption": 6.2,
+        "configuration": "TOURING",
+        "horsepower": 165,
+        "engine_displacement": 1.998,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 55
+        }
+    },
+    {
+        "id": 2,
+        "manufacturer": "mazda",
+        "model": "6 SEDAN",
+        "price": 1077200,
+        "average_fuel_consumption": 6.7,
+        "configuration": "TOP",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 19,
+            "width": 225,
+            "height": 45
+        }
+    },
+    {
+        "id": 3,
+        "manufacturer": "mazda",
+        "model": "6 SEDAN",
+        "price": 867500,
+        "average_fuel_consumption": 6.7,
+        "configuration": "STYLE+",
+        "horsepower": 194,
+        "engine_displacement": 2.488,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 17,
+            "width": 225,
+            "height": 55
+        }
+    }
+]

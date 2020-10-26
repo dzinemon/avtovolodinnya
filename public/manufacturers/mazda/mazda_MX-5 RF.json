@@ -1,12 +1,12 @@
 [
     {
-        "date": "2020-10-25T00:50:22.259926"
+        "date": "2020-10-25T12:22:21.889550"
     },
     {
         "id": 0,
         "manufacturer": "mazda",
         "model": "MX-5 RF",
-        "price": 1177400,
+        "price": 1120000,
         "average_fuel_consumption": 6.9,
         "configuration": "TOP",
         "horsepower": 184,
@@ -22,7 +22,7 @@
         "id": 1,
         "manufacturer": "mazda",
         "model": "MX-5 RF",
-        "price": 1120000,
+        "price": 1177400,
         "average_fuel_consumption": 6.9,
         "configuration": "TOP",
         "horsepower": 184,

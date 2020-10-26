@@ -1,69 +1,69 @@
 [
     {
-        "date": "2020-10-25T12:22:21.890548"
+        "date": "2020-10-25T12:22:21.891561"
     },
     {
         "id": 0,
         "manufacturer": "mazda",
-        "model": "CX-3",
-        "price": 876100,
-        "average_fuel_consumption": 6.7,
-        "configuration": "STYLE+",
+        "model": "CX-30",
+        "price": 904500,
+        "average_fuel_consumption": 6.0,
+        "configuration": "EXECUTIVE",
         "horsepower": 150,
         "engine_displacement": 1.998,
         "fuel": "petrol",
         "wheel": {
             "radius": 18,
             "width": 215,
-            "height": 50
+            "height": 55
         }
     },
     {
         "id": 1,
         "manufacturer": "mazda",
-        "model": "CX-3",
-        "price": 825800,
-        "average_fuel_consumption": 6.1,
-        "configuration": "STYLE+",
-        "horsepower": 121,
+        "model": "CX-30",
+        "price": 858900,
+        "average_fuel_consumption": 5.5,
+        "configuration": "EXECUTIVE",
+        "horsepower": 150,
         "engine_displacement": 1.998,
         "fuel": "petrol",
         "wheel": {
             "radius": 18,
             "width": 215,
-            "height": 50
+            "height": 55
         }
     },
     {
         "id": 2,
         "manufacturer": "mazda",
-        "model": "CX-3",
-        "price": 726700,
-        "average_fuel_consumption": 6.1,
-        "configuration": "TOURING+",
-        "horsepower": 121,
+        "model": "CX-30",
+        "price": 1002500,
+        "average_fuel_consumption": 6.0,
+        "configuration": "PREMIUM",
+        "horsepower": 150,
         "engine_displacement": 1.998,
         "fuel": "petrol",
         "wheel": {
-            "radius": 16,
+            "radius": 18,
             "width": 215,
-            "height": 60
+            "height": 55
         }
     },
     {
         "id": 3,
         "manufacturer": "mazda",
-        "model": "CX-3",
-        "price": 825800,
-        "average_fuel_consumption": 6.7,
-        "configuration": "TOURING+",
+        "model": "CX-30",
+        "price": 804300,
+        "average_fuel_consumption": 5.5,
+        "configuration": "STYLE",
         "horsepower": 150,
         "engine_displacement": 1.998,
         "fuel": "petrol",
         "wheel": {
-            "radius": 16,
+            "radius": 18,
             "width": 215,
-            "height": 60
+            "height": 55
         }
     }
 ]
