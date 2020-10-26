@@ -11,8 +11,8 @@ export default function calculateWheelsExpenses(carType, wheelType, option) {
 
   let expensesArray = new Array(5).fill(0)
 
-  let TPS = 950;
-// 
+  let TPS = 1250;
+
   let fixedFirstYearExpenses;
 
   let oneYearWheelsExpenses;
@@ -42,7 +42,6 @@ export default function calculateWheelsExpenses(carType, wheelType, option) {
       return Math.floor(oneYearWheelsExpenses * (1 + (0.02 * idx)))
     })
 
-    // return expensesArray
   }
 
   
