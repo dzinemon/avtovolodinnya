@@ -40,9 +40,6 @@ function Model({data}) {
 }
 
 export async function getStaticPaths() {
-  const manufacturer = 'BMW' //context.params.manufacturer
-  const currentManufacturerDir = path.join(process.cwd(), 'public', 'manufacturers', manufacturer)
-
   // Manufacturers 
   const currentAllManufacturerPath = path.join(process.cwd(), 'public', 'manufacturers')
 
