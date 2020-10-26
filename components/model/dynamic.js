@@ -28,14 +28,18 @@ import {
 function ModelDynamic(props) {
 
   const {
-    image
+    image,
+    data
   } = props
 
   const url = `/manufacturers/${props.manufacturer.toUpperCase()}/${props.manufacturer.toUpperCase()}_${props.model.toUpperCase()}.json`;
 
-  console.log(url)
+  console.log(`data `, data)
 
-  const [cars, setCars] = useState([]);
+  const getCurrentCars = data.filter(i => typeof i.model === 'string');
+  const getCurrentDate = data.filter(i => typeof i.model !== 'string');
+
+  const [cars, setCars] = useState(getCurrentCars);
 
   function updateParkingPrice(e) {
     if (!isNaN(+e.target.value) && +e.target.value < 50000) {
@@ -79,7 +83,7 @@ function ModelDynamic(props) {
   const [wheels, setWheels] = useState("tyresNo");
   
   // const [ otherExpenses, setOtherExpenses ] = useState(0)
-  const [model, setModel] = useState();
+  const [model, setModel] = useState('');
   const [average_fuel_consumption, setAFC] = useState(
     0
   );
@@ -87,9 +91,9 @@ function ModelDynamic(props) {
   const [designation, setDesignation] = useState('');
   const [price, setPrice] = useState(0);
   const [horsepower, setHorsepower] = useState(0);
-  const [fuel, setFuel] = useState('petrol');
+  const [fuel, setFuel] = useState('');
   const [hasFullInsurance, setInsurance] = useState(true);
-  const [wheelSize, setWheelSize] = useState('16');
+  const [wheelSize, setWheelSize] = useState('17');
 
   useEffect(() => {
     fetch(url).then(response => {
@@ -251,67 +255,60 @@ function ModelDynamic(props) {
 
   return (
     <>
-      
-        <Seo 
-          title={`Вартість володіння ${props.manufacturer} ${props.model} у комлектації ${props.designation}`}
-          description={`Вартість володіння автомобілем ${props.manufacturer} ${props.model} у комлектації ${props.designation} з повним переліком витрат`}
-        > 
-        </Seo>
+      <div className="App">
         
-        <div className="App">
-              
-              {/* <div>
-                width: {width} ~ height: {height}
-              </div> */}
-              
-              <CarInfo
-                image={image}
-                configuration={configuration}
-                designation={designation}
-                price={price}
-                horsepower={horsepower}
-                cars={cars}
-                handleChange={handleChange}
-                costOfOwn={costOfOwn}
-                residualPrice={residualPrice}
-                perKm={perKm}
-                model={model}
-              />
-              <CarInfoBar
-                horsepower={horsepower}
-                designation={designation}
-                configuration={configuration}
-              />
-  
-              <CarTable
-                isMobile={isMobile}
-                hasFullInsurance={hasFullInsurance}
-                taxExpensesArray={taxExpensesArray}
-                fuelConsumptionArray={fuelConsumptionArray}
-                lossOfPriceArr={lossOfPriceArr}
-                insuranceExpenses={insuranceExpenses}
-                eachYearExpensesArray={eachYearExpensesArray}
-                costOfOwn={costOfOwn}
-                parkingExpensesArray={parkingExpensesArray}
-                otherExpensesArray={otherExpensesArray}
-              />
-              <CarDataGrid
-                hasFullInsurance={hasFullInsurance}
-                handleCheckClick={handleCheckClick}
-                setNumberOfCarWash={setNumberOfCarWash}
-                calculateParking={calculateParking}
-                updateParkingPrice={updateParkingPrice}
-                parking={parking}
-                carwash={carwash}
-                parkingExpensesArray={parkingExpensesArray}
-                calculateWheels={calculateWheels}
-                otherExpensesArray={otherExpensesArray}
-                wheels={wheels}
-                parkingPrice={parkingPrice}
-              />
-              
-              
-            </div>
+        {/* <div>
+          width: {width} ~ height: {height}
+        </div> */}
+        
+        <CarInfo
+          image={image}
+          configuration={configuration}
+          designation={designation}
+          price={price}
+          horsepower={horsepower}
+          cars={cars}
+          handleChange={handleChange}
+          costOfOwn={costOfOwn}
+          residualPrice={residualPrice}
+          perKm={perKm}
+          model={model}
+        />
+        <CarInfoBar
+          horsepower={horsepower}
+          designation={designation}
+          configuration={configuration}
+        />
+
+        <CarTable
+          isMobile={isMobile}
+          hasFullInsurance={hasFullInsurance}
+          taxExpensesArray={taxExpensesArray}
+          fuelConsumptionArray={fuelConsumptionArray}
+          lossOfPriceArr={lossOfPriceArr}
+          insuranceExpenses={insuranceExpenses}
+          eachYearExpensesArray={eachYearExpensesArray}
+          costOfOwn={costOfOwn}
+          parkingExpensesArray={parkingExpensesArray}
+          otherExpensesArray={otherExpensesArray}
+        />
+        <CarDataGrid
+          hasFullInsurance={hasFullInsurance}
+          handleCheckClick={handleCheckClick}
+          setNumberOfCarWash={setNumberOfCarWash}
+          calculateParking={calculateParking}
+          updateParkingPrice={updateParkingPrice}
+          parking={parking}
+          carwash={carwash}
+          parkingExpensesArray={parkingExpensesArray}
+          calculateWheels={calculateWheels}
+          otherExpensesArray={otherExpensesArray}
+          wheels={wheels}
+          parkingPrice={parkingPrice}
+        />
+        
+        
+      </div>
       
     </>
   )

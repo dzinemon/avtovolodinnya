@@ -1,6 +1,7 @@
 import Link from 'next/link'
 
 import Seo from '../components/seo'
+import Nav from '../components/nav'
 
 import Breadcrumbs from '../components/breadcrumbs'
 import Footer from '../components/footer'
@@ -14,7 +15,7 @@ function Home({availableManufacturers}) {
 
     <>
     <Seo />
-    <Breadcrumbs />
+    <Nav />
     <main className="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-36 xl:py-20 flex flex-wrap">
       <div className="text-center lg:text-left lg:w-7/12 w-full">
         <h1 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
@@ -28,9 +29,9 @@ function Home({availableManufacturers}) {
       </div>
 
       <div className="lg:w-5/12 w-full ">
-        <div className="flex justify-center items-center">
+        <div className="flex flex-wrap justify-center items-center">
           {availableManufacturers.map((i, idx) => (
-            <div key={idx} className="w-64 p-4">
+            <div key={idx} className="p-4">
               <Link href={`/${i.filename.toLowerCase()}`}>
                 <a className="block hover:text-blue-600 transition transition-transform hover:scale-105 transform duration-500">
                   <div className="max-w-xs rounded overflow-hidden">
@@ -62,7 +63,7 @@ function Home({availableManufacturers}) {
 }
 
 export async function getStaticProps() {
-  const manufacturerDirectory = path.join(process.cwd(), 'manufacturers', 'json')
+  const manufacturerDirectory = path.join(process.cwd(), 'public', 'manufacturers')
   const filenames = fs.readdirSync(manufacturerDirectory)
   const availableManufacturers = filenames.filter(i => i.indexOf('.') === -1).map((filename) => ({filename}))
 

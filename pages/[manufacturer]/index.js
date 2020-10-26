@@ -1,5 +1,7 @@
 import Link from 'next/link'
 
+import Seo from '../../components/seo'
+import Nav from '../../components/nav'
 import Breadcrumbs from '../../components/breadcrumbs'
 import CarCard from '../../components/manufacturer/CarCard'
 
@@ -9,13 +11,16 @@ import path from 'path'
 function Manufacturer({availableModels, manufacturer}) {
   return (
     <div>
+      <Seo title={`Перелік моделей автовиробника ${manufacturer.toUpperCase()} з актуальними цінами та витартами на володіння `}
+        description={`Всі моделі автовиробника ${manufacturer.toUpperCase()} доступні для перегляду вартості та витрат на володіння`}/>
+      <Nav />
       <Breadcrumbs />
       <div className="py-12 bg-white">
       <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
             <img className="mx-auto h-10 w-auto hidden" alt={manufacturer}/>
-            Виберіть модель {manufacturer}
+            Виберіть модель {manufacturer.toUpperCase()}
           </h3>
         </div>
 
@@ -27,7 +32,7 @@ function Manufacturer({availableModels, manufacturer}) {
               <div key={idx} className="mb-2 sm:mb-0">
                 <Link href={`/${manufacturer}/${model}`}>
                   <a className="text-blue-600 hover:text-blue-800 uppercase font-bold">
-                    <CarCard image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} modelName={model} />
+                    <CarCard image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} modelName={`${manufacturer} ${model}`} />
                   </a>
                 </Link>
               </div>
