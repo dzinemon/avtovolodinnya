@@ -24,7 +24,7 @@ function Breadcrumbs(props) {
           <>
           <Link href={`/${manufacturer}`}><a className="text-gray-700 hover:text-gray-500 capitalize">{manufacturer}</a></Link> 
           <span className="text-gray-400"> / </span>
-          <span className="text-gray-700 capitalize">{model.replaceAll('_', ' ')}</span>
+          <span className="text-gray-700 capitalize">{model.replace('_', ' ')}</span>
           </>
           )} 
       </div>
