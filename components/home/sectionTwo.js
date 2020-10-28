@@ -1,4 +1,4 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 
 function SectionTwo() {
   return (
@@ -11,7 +11,7 @@ function SectionTwo() {
       
      <div className="hidden lg:block absolute inset-y-0 lg:left-2/3 xl:left-1/2 right-0 w-1/3">
 
-        <Image 
+        <img 
           className="object-cover object-left" 
           src="/image/section-image_1.jpg" 
           width={977}

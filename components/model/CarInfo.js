@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image'
+// import Image from 'next/image'
 
 // import CarImage from '../images/AUDI_A4_0.png'
 import formatNumber from '../../utils/formatNumber'
@@ -23,8 +23,8 @@ function CarInfo(props) {
       <div className="flex flex-wrap">
         <div className="w-full sm:w-1/2 px-4">
           
-            <Image 
-              quality={100}
+            <img 
+              // quality={100}
               src={image} 
               alt={props.designation} 
               className="object-cover object-center" 
