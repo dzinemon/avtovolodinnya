@@ -1,4 +1,6 @@
 import React from 'react';
+import Image from 'next/image'
+
 // import CarImage from '../images/AUDI_A4_0.png'
 import formatNumber from '../../utils/formatNumber'
 
@@ -20,12 +22,16 @@ function CarInfo(props) {
 
       <div className="flex flex-wrap">
         <div className="w-full sm:w-1/2 px-4">
-          <div className="position relative"
-            style={{
-              paddingBottom: '56.25%'
-            }}>
-            <img src={image} alt={props.designation} className="postion absolute w-full h-full object-cover object-center" />
-          </div>
+          
+            <Image 
+              quality={100}
+              src={image} 
+              alt={props.designation} 
+              className="object-cover object-center" 
+              width={608}
+              height={342}
+              />
+          
         </div>
         <div className="w-full sm:w-1/2 px-4">
           <div className="my-6">

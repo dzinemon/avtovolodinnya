@@ -3,7 +3,8 @@ import Link from 'next/link'
 import Seo from '../components/seo'
 import Nav from '../components/nav'
 
-import Breadcrumbs from '../components/breadcrumbs'
+import SectionOne from '../components/home/sectionOne'
+// import SectionTwo from '../components/home/sectionTwo'
 import Footer from '../components/footer'
 
 import fs from 'fs'
@@ -55,7 +56,8 @@ function Home({availableManufacturers}) {
           Ці додаткові витрати включають: податки та збори, страхові внески, витрати на паливо, технічне обслуговування, ремонт та інше. Перегляньте витрати на володіння будь-яким авто.</p>
       </div>
     </main>
-    
+    <SectionOne />
+    {/* <SectionTwo /> */}
     <Footer />
   </>
    

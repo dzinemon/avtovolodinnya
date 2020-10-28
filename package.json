@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
-    "next": "9.5.5",
+    "next": "10.0.0",
     "next-on-netlify": "^2.5.2",
     "nextjs-sitemap-generator": "^1.1.0",
     "postcss-flexbugs-fixes": "^4.2.1",

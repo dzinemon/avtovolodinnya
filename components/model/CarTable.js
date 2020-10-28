@@ -148,7 +148,7 @@ function CarTable(props) {
           
         </section>
       </div>
-      <div className="xl:container mx-auto px-4">
+      <div className="xl:container mx-auto">
         <p className="text-xs text-gray-700 my-4">
           * Дані розрахунки зроблені на 5-ти річний термін володіння і пробігу 15,000 км
             на рік.
