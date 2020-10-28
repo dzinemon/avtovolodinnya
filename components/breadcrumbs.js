@@ -11,8 +11,6 @@ function Breadcrumbs(props) {
   return (
     <div className="xl:container py-2 px-4 sm:p-4 mx-auto">
       <div className="sm:text-xs text-sm">
-
-
         <Link href="/" ><a className="text-gray-700 hover:text-gray-500">Головна</a></Link>
         <span className="text-gray-400"> / </span> 
         {!model && manufacturer && (
