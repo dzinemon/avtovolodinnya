@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /**/*.json$
+Sitemap: https://avtovolodinnya.com/sitemap.xml
