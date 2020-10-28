@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 function FeedbackForm() {
 
@@ -10,6 +10,16 @@ function FeedbackForm() {
   const [isInfo, setInfo] = useState(false);
 
   const [ isSubmitted, setSubmitted ] = useState(false);
+
+  const [isVisibleForm, setFormVisibility] = useState(false)
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setFormVisibility(true)
+    }, 5000);
+    return () => clearTimeout(timer);
+  }, []);
+
 
   const encode = (data) => {
     return Object.keys(data)
@@ -65,7 +75,10 @@ function FeedbackForm() {
 
 
   return (
-    <div className="position fixed right-0 bottom-0 sm:left-auto left-0">
+    <div 
+      className={`position fixed right-0 bottom-0 sm:left-auto left-0 ${isVisibleForm? '': 'hidden'}`}
+      // className="position fixed right-0 bottom-0 sm:left-auto left-0"
+      >
       <div
         // style={{
         //   transitionProperty: 'width',
