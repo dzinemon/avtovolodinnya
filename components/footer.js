@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import FeedbackForm from '../components/model/feedbackform'
+import FeedbackForm from './model/FeedbackForm'
 
 function Footer() {
   return (
