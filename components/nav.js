@@ -4,7 +4,7 @@ import Link from 'next/link'
 function Nav() {
   return (
     <nav className="">
-      <div className="xl:container mx-auto">
+      <div className="xl:container mx-auto px-4">
         <div className="relative flex items-center justify-between h-16">
           <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
           </div>

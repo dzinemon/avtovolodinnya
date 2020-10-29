@@ -6,8 +6,8 @@ import CarWash from './CarWash'
 
 function CarDataGrid(props) {
   return (
-    <div className="xl:container mx-auto">
-      <section className="px-4 mt-6">
+    <div className="xl:container mx-auto px-4">
+      <section className="mt-6">
         <h2 className="font-semibold text-lg sm:text-2xl text-gray-800 mb-2">
           Основні витрати
         </h2>
@@ -62,7 +62,7 @@ function CarDataGrid(props) {
           </div>
         </div>
       </section>
-      <section className="px-4 mt-6">
+      <section className="mt-6">
         <h2 className="font-semibold text-lg sm:text-2xl text-gray-800 mb-2">
           Інші витрати
         </h2>

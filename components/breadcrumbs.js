@@ -38,7 +38,7 @@ function Breadcrumbs(props) {
                   `
 
   return (
-    <div className="xl:container mx-auto my-4">
+    <div className="xl:container mx-auto my-4 px-4">
       <script type="application/ld+json" jsx="true">{ldJSON}</script>
 
       <div className="sm:text-xs text-sm">

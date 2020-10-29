@@ -6,8 +6,8 @@ function ModelHeader(props) {
           designation, 
           price } = props
   return (
-    <div className="xl:container mx-auto mb-3">
-      <div className="px-4 my-4">
+    <div className="xl:container mx-auto px-4 mb-3">
+      <div className="my-4">
         <h1 className="font-semibold text-base sm:text-2xl text-gray-700">
           Вартість володіння 
           <span> {manufacturer.toUpperCase()} </span>

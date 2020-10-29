@@ -72,7 +72,7 @@ function CarChart(props) {
       width: 310px;
     }
       `}</style>
-    <div className="xl:container mx-auto sm:block">
+    <div className="xl:container mx-auto px-4 sm:block">
     <div className="px-4 my-6">
       <div 
         className={`${isMobile? 'flex flex-col justify-start chart-wrap mx-auto vertical' : 'flex justify-start flex-row chart-wrap mx-10 horizontal'}`}

@@ -120,8 +120,8 @@ function CarTable(props) {
         costOfOwn={costOfOwn}
         sortedCosts={sortedCosts}
       />
-      <div className="xl:container mx-auto sm:overflow-y-hidden overflow-y-scroll">
-        <section className="px-4">
+      <div className="xl:container mx-auto px-4 sm:overflow-y-hidden overflow-y-scroll">
+        <section>
           <table className="table-auto text-sm sm:text-base w-full bg-gray-100 border-gray-200 border-2 rounded overflow-hidden border-collapse">
             <thead className="font-semibold bg-gray-100">
               <tr>
@@ -148,7 +148,7 @@ function CarTable(props) {
           
         </section>
       </div>
-      <div className="xl:container mx-auto">
+      <div className="xl:container mx-auto px-4">
         <p className="text-xs text-gray-700 my-4">
           * Дані розрахунки зроблені на 5-ти річний термін володіння і пробігу 15,000 км
             на рік.

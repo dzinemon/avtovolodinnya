@@ -18,10 +18,10 @@ function CarInfo(props) {
   let { image } = props;
 
   return (
-    <div className="xl:container mx-auto mb-3">
+    <div className="xl:container mx-auto px-4 mb-3">
 
       <div className="flex flex-wrap">
-        <div className="w-full sm:w-1/2 px-4">
+        <div className="w-full sm:w-1/2">
           
             <img 
               // quality={100}
@@ -33,7 +33,7 @@ function CarInfo(props) {
               />
           
         </div>
-        <div className="w-full sm:w-1/2 px-4">
+        <div className="w-full sm:w-1/2">
           <div className="my-6">
             <label className="block text-gray-700 text-xs mb-2" htmlFor="model">
               Комплектація:

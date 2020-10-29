@@ -6,7 +6,7 @@ function Footer() {
     <>
     <footer className="pt-10">
       <div className="bg-gray-100">
-        <div className="xl:container mx-auto grid grid-cols-2 sm:grid-cols-4 gap-4">
+        <div className="xl:container mx-auto px-4 grid grid-cols-2 sm:grid-cols-4 gap-4">
           
             <div className="py-4">
               <div className="justify-start flex flex-row items-center">
@@ -20,7 +20,7 @@ function Footer() {
                 <span className="ml-2 font-semibold">Автоволодіння</span>
               </div>
             </div>
-            <div className="py-4 text-sm">
+            <div className="py-4 mt-3 text-sm">
               <p className="font-semibold mb-2">АвтоВиробники</p>
               <ul>
                 <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/audi">audi</a></li>
@@ -30,13 +30,13 @@ function Footer() {
                 <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/renault">renault</a></li>
               </ul>
             </div>
-            <div className="py-4 ">
+            <div className="py-4 mt-3 text-sm">
               <p className="text-sm">
                 Виникли питання чи пропозиції? <br/>
                 Напишіть нам <span  >avtovolodinnya@gmail.com</span>
               </p>
             </div>
-            <div className="py-4  text-sm">
+            <div className="py-4 mt-3 text-sm">
             <p>
               <span>Вартість володіння авто на сайті avtovolodinnya.com</span>
             </p>
