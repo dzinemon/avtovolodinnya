@@ -6,7 +6,7 @@ function FeedbackForm() {
   const [email, setEmail ] = useState('');
   const [message, setMessage ] = useState('');
 
-  const [isActive, setActive] = useState(false);
+  const [isActive, setActive] = useState(true);
   const [isInfo, setInfo] = useState(false);
 
   const [ isSubmitted, setSubmitted ] = useState(false);
@@ -46,7 +46,7 @@ function FeedbackForm() {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ 
-        "form-name": "contact", 
+        "form-name": "contact-av", 
         name,
         email,
         message
@@ -103,11 +103,11 @@ function FeedbackForm() {
         { isActive && (
           <form 
             data-netlify="true"
-            name="contact" netlify="true"
+            name="contact-av" netlify="true"
             onSubmit={handleSubmit}
             className={ `${isSubmitted ? `hidden` : ''}`}
           >
-            <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="form-name" value="contact-av" />
             <p className="mb-2">
               <label htmlFor="name" className="text-gray-700 text-sm font-semibold">
                 Твоє ім'я: 
