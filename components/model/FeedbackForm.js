@@ -102,6 +102,7 @@ function FeedbackForm() {
         
         { isActive && (
           <form 
+            data-netlify="true"
             name="contact" netlify="true"
             onSubmit={handleSubmit}
             className={ `${isSubmitted ? `hidden` : ''}`}
