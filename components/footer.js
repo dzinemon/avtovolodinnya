@@ -1,5 +1,5 @@
 import Link from 'next/link'
-// import FeedbackForm from '../components/model/feedbackform'
+import FeedbackForm from '../components/model/feedbackform'
 
 function Footer() {
   return (
@@ -45,7 +45,7 @@ function Footer() {
         <hr className="my-4 border-gray-200"/>
       </div>
     </footer>
-    {/* <FeedbackForm /> */}
+    <FeedbackForm />
     </>
   )
 }
