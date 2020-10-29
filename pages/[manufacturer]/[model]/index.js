@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import Layout from '../../../components/layout'
+import GaWrapper from '../../../components/gawrapper'
 
 import ModelHeader from '../../../components/model/header'
 
@@ -28,14 +29,16 @@ function Model({data}) {
 
   const image = `/manufacturers/${manufacturer}/${manufacturer.toUpperCase()}_${model.toUpperCase()}_0.jpg`
   return (
-    <Layout>
-        <Seo 
-          title={`Актуальна ціна та вартість вододіння ${manufacturer.toUpperCase()} ${model.toUpperCase()} `}
-          description={`Всі витрати при володінні та Актуальна ціна ${manufacturer.toUpperCase()} ${model.toUpperCase()} доступні всі комплектації`} 
-        />
-        <ModelHeader model={model} manufacturer={manufacturer}/>
-        <ModelDynamic data={currentData} model={model} manufacturer={manufacturer} image={image}/>
-    </Layout>
+    <GaWrapper>
+      <Layout>
+          <Seo 
+            title={`Актуальна ціна та вартість вододіння ${manufacturer.toUpperCase()} ${model.toUpperCase()} `}
+            description={`Всі витрати при володінні та Актуальна ціна ${manufacturer.toUpperCase()} ${model.toUpperCase()} доступні всі комплектації`} 
+          />
+          <ModelHeader model={model} manufacturer={manufacturer}/>
+          <ModelDynamic data={currentData} model={model} manufacturer={manufacturer} image={image}/>
+      </Layout>
+    </GaWrapper>
   )
 }
 
