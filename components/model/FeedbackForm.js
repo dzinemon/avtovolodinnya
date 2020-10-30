@@ -6,7 +6,7 @@ function FeedbackForm() {
   const [email, setEmail ] = useState('');
   const [message, setMessage ] = useState('');
 
-  const [isActive, setActive] = useState(true);
+  const [isActive, setActive] = useState(false);
   const [isInfo, setInfo] = useState(false);
 
   const [ isSubmitted, setSubmitted ] = useState(false);
@@ -16,7 +16,7 @@ function FeedbackForm() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setFormVisibility(true)
-    }, 20000);
+    }, 10000);
     return () => clearTimeout(timer);
   }, []);
 
