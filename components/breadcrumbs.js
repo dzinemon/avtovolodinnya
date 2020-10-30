@@ -8,7 +8,7 @@ function Breadcrumbs(props) {
 
   const {model, manufacturer} = router.query;
 
-  const ldJSON = `
+  const ldJSON = `{
                     "name": "Avtovolodinnya BreadcrumbList",
                     "@context": "https://schema.org",
                     "@type": "BreadcrumbList",
@@ -34,12 +34,13 @@ function Breadcrumbs(props) {
                       "@type": "ListItem",
                       "position": 3,
                       "name": "${model.toUpperCase()}"
-                    }` : ''}]
+                    }` : ''}]}
                   `
+                  
 
   return (
     <div className="xl:container mx-auto my-4 px-4">
-      <script type="application/ld+json" jsx="true">{ldJSON}</script>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: ldJSON }}/>
 
       <div className="sm:text-xs text-sm">
         <Link href="/" ><a className="text-gray-700 hover:text-gray-500">Головна</a></Link>
