@@ -8,7 +8,7 @@ function Layout(props) {
     <Nav />
     <Breadcrumbs />
     { props.children }
-    <Footer/>
+    <Footer manufacturers={props.manufacturers} models={props.models}/>
     </>
   )
 }

@@ -1,9 +1,8 @@
 import Link from 'next/link'
 
 import Seo from '../../components/seo'
-import Nav from '../../components/nav'
-import Breadcrumbs from '../../components/breadcrumbs'
 import CarCard from '../../components/manufacturer/CarCard'
+import Layout from '../../components/layout'
 
 import GaWrapper from '../../components/gawrapper'
 
@@ -13,11 +12,10 @@ import path from 'path'
 function Manufacturer({availableModels, manufacturer}) {
   return (
     <GaWrapper>
-      <div>
+      <Layout>
         <Seo title={`Перелік моделей автовиробника ${manufacturer.toUpperCase()} з актуальними цінами та витартами на володіння `}
           description={`Всі моделі автовиробника ${manufacturer.toUpperCase()} доступні для перегляду вартості та витрат на володіння`}/>
-        <Nav />
-        <Breadcrumbs />
+        
         <div className="py-12 bg-white">
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
@@ -44,8 +42,7 @@ function Manufacturer({availableModels, manufacturer}) {
           </div>
         </div>
       </div>
-       
-      </div>
+      </Layout>
     </GaWrapper>
   )
 }

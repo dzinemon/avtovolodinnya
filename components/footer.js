@@ -28,6 +28,7 @@ function Footer() {
                 <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/mazda">mazda</a></li>
                 <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/nissan">nissan</a></li>
                 <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/renault">renault</a></li>
+                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/suzuki">suzuki</a></li>
               </ul>
             </div>
             <div className="py-4 mt-3 text-sm">
