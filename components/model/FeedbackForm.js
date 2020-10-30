@@ -16,7 +16,7 @@ function FeedbackForm() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setFormVisibility(true)
-    }, 5000);
+    }, 20000);
     return () => clearTimeout(timer);
   }, []);
 
