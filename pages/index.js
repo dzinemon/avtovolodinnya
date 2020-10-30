@@ -13,7 +13,7 @@ import fs from 'fs'
 import path from 'path'
 
 // availableManufacturers will be populated at build time by getStaticProps()
-function Home({availableManufacturers}) {
+function Home({availableManufacturers, allModels}) {
   return (
 
     <>
@@ -59,7 +59,7 @@ function Home({availableManufacturers}) {
             Ці додаткові витрати включають: податки та збори, страхові внески, витрати на паливо, технічне обслуговування, ремонт та інше. Перегляньте витрати на володіння будь-яким авто.</p>
         </div>
       </main>
-      <SectionOne />
+      <SectionOne manufacturers={availableManufacturers} models={allModels} />
       {/* <SectionTwo /> */}
       <Footer />
     </GaWrapper>
@@ -73,9 +73,28 @@ export async function getStaticProps() {
   const filenames = fs.readdirSync(manufacturerDirectory)
   const availableManufacturers = filenames.filter(i => i.indexOf('.') === -1).map((filename) => ({filename}))
 
+  let allModels = []
+
+  const filteredFilenames = filenames.filter(i => i.indexOf('.') === -1)
+  filteredFilenames.map((cur, idx) => {
+
+    const currentManufacturerPath = path.join(process.cwd(), 'public', 'manufacturers', cur)
+    const modelFileNames = fs.readdirSync(currentManufacturerPath) 
+    
+    const availableCurrentModels = modelFileNames
+      .filter(i => i.indexOf('.DS_Store') === -1)
+      .filter(i => i.includes('json'))
+      .map(i => i.replace('.json', ''))
+
+    allModels = allModels.concat(availableCurrentModels)
+  }, 0)
+
+
+
   return {
     props: {
       availableManufacturers,
+      allModels
     }
   }
 }
