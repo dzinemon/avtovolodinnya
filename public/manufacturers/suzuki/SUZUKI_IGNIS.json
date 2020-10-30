@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2020-10-30T00:04:29.756561"
+    },
+    {
+        "id": 0,
+        "manufacturer": "suzuki",
+        "model": "IGNIS",
+        "price": 439000,
+        "average_fuel_consumption": 4.1,
+        "configuration": "DUALJET+SHVS",
+        "horsepower": 83,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 175,
+            "height": 65
+        },
+        "clearance": 180
+    },
+    {
+        "id": 1,
+        "manufacturer": "suzuki",
+        "model": "IGNIS",
+        "price": 479000,
+        "average_fuel_consumption": 4.4,
+        "configuration": "DUALJET+SHVS",
+        "horsepower": 83,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 175,
+            "height": 65
+        },
+        "clearance": 180
+    },
+    {
+        "id": 2,
+        "manufacturer": "suzuki",
+        "model": "IGNIS",
+        "price": 530000,
+        "average_fuel_consumption": 4.4,
+        "configuration": "DUALJET+SHVS",
+        "horsepower": 83,
+        "engine_displacement": 1.197,
+        "fuel": "petrol",
+        "wheel": {
+            "radius": 15,
+            "width": 175,
+            "height": 65
+        },
+        "clearance": 180
+    }
+]
