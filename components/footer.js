@@ -14,7 +14,7 @@ function Footer() {
                   <a 
                     className="border border-blue-600 rounded-full p-1 hover:border-blue-400 inline-block"
                   >
-                    <img className="block h-8 w-auto" src="/logo.svg" alt="Вартість володіння"/>
+                    <img className="block h-8 w-8" src="/logo.svg" alt="Вартість володіння"/>
                   </a>
                 </Link>
                 <span className="ml-2 font-semibold">Автоволодіння</span>

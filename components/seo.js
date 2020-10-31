@@ -12,6 +12,7 @@ export default function SEO({ description, title }) {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:site_name" content={siteTitle} />
+      <meta property="og:image" content="https://avtovolodinnya.com/logo@3x.png" />
       <meta property="twitter:card" content="summary" />
       <meta property="twitter:creator" content={config.social.twitter} />
       <meta property="twitter:title" content={title} />
