@@ -4,6 +4,15 @@ import config from '../src/config'
 export default function SEO({ description, title }) {
   const siteTitle = config.title
 
+  const LogoSD = ` {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Avtovolodinnya Logo",
+      "url": "https://avtovolodinnya.com",
+      "logo": "https://avtovolodinnya.com/logo@3x.png"
+    }
+    `
+
   return (
     <Head>
       <title>{title? title : siteTitle}</title>
@@ -17,9 +26,9 @@ export default function SEO({ description, title }) {
       <meta property="twitter:creator" content={config.social.twitter} />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
-      {/* <link href="https://unpkg.com/tailwindcss@1.9.6/dist/tailwind.css" rel="stylesheet"/> */}
+      <link href="https://unpkg.com/tailwindcss@1.9.6/dist/tailwind.css" rel="stylesheet"/>
 
-      {/* ADD LD JSON SNIPPET */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: LogoSD }}/>
     </Head>
   )
 }
