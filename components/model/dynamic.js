@@ -89,7 +89,7 @@ function ModelDynamic(props) {
   const [designation, setDesignation] = useState('');
   const [price, setPrice] = useState(0);
   const [horsepower, setHorsepower] = useState(0);
-  const [fuel, setFuel] = useState('');
+  const [fuel, setFuel] = useState('petrol');
   const [hasFullInsurance, setInsurance] = useState(true);
   const [wheelSize, setWheelSize] = useState('17');
 
@@ -108,8 +108,12 @@ function ModelDynamic(props) {
       setDesignation(carsData[0].designation);
       setPrice(carsData[0].price);
       setHorsepower(carsData[0].horsepower);
-      setFuel(carsData[0].fuel);
-
+      if (carsData[0].fuel === 'petrol' || carsData[0].fuel === 'hybrid') {
+        setFuel('petrol');
+      } else {
+        setFuel('diesel');
+      }
+      
       if (carsData[0].hasOwnProperty('wheel')) {
         setWheelSize(carsData[0].wheel.radius);
       }
@@ -159,7 +163,12 @@ function ModelDynamic(props) {
     setDesignation(updatedCar[el].designation);
     setPrice(updatedCar[el].price);
     setHorsepower(updatedCar[el].horsepower);
-    setFuel(updatedCar[el].fuel);
+
+    if (updatedCar[el].fuel === 'petrol' || updatedCar[el].fuel === 'hybrid') {
+      setFuel('petrol');
+    } else {
+      setFuel('diesel');
+    }
 
     if (updatedCar[el].hasOwnProperty('wheel')) {
       setWheelSize(updatedCar[el].wheel.radius);
