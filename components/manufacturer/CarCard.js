@@ -2,8 +2,6 @@ import React from 'react';
 
 import CarCardImage from '../manufacturer/carcardimage'
 
-import getArrayToStr from '../../utils/getArrayToStr'
-
 function CarCardItem(props) {
 
   const { image, modelName, price, hp } = props;

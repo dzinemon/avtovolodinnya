@@ -83,11 +83,15 @@ export async function getStaticProps({ params }) {
     const data = JSON.parse(rawData)
     const priceArr = data.map((j) => {
       return j.price
-    }).sort()
+    }).filter(i => typeof i !== 'undefined').sort((a, b) => {
+      return a - b
+    })
 
     const horsePowerArr = data.map(j => {
       return j.horsepower
-    }).sort()
+    }).filter(i => typeof i !== 'undefined').sort((a, b) => {
+      return a - b
+    })
 
     const finalPriceString = getArrayToStr(priceArr);
     const finalHpString = getArrayToStr(horsePowerArr);
