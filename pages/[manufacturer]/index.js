@@ -32,8 +32,13 @@ function Manufacturer({availableModels, manufacturer}) {
                 return (
                 <div key={idx} className="mb-2 sm:mb-0">
                   <Link href={`/${manufacturer}/${model}`}>
-                    <a className="text-blue-600 hover:text-blue-800 uppercase font-bold">
-                      <CarCard image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} modelName={`${manufacturer} ${model}`} />
+                    <a className="text-blue-600 hover:text-blue-800">
+                      <CarCard
+                        price={i.price}
+                        hp={i.hp}
+                        image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} 
+                        modelName={`${manufacturer} ${model}`} 
+                      />
                     </a>
                   </Link>
                 </div>
@@ -60,13 +65,36 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
+  console.log('startstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstart')
   const currentManufacturerDir = path.join(process.cwd(), 'public', 'manufacturers', params.manufacturer)
   const filenames = fs.readdirSync(currentManufacturerDir)
-  
-  const availableModels = filenames
+
+  const listOfFiles = filenames
     .filter(i => i.indexOf('.DS_Store') === -1)
     .filter(i => i.includes('json'))
-    .map((filename) => ({filename: filename.replace('.json', '')}))
+
+  const availableModels = listOfFiles.map(item => {
+    const currentPath = `public/manufacturers/${params.manufacturer}/${item}`
+
+    const rawData = fs.readFileSync(currentPath)
+    const data = JSON.parse(rawData)
+    const priceArr = data.map((j) => {
+      return j.price
+    }).sort()
+
+    const horsePowerArr = data.map(j => {
+      return j.horsepower
+    }).sort()
+
+    return (
+      {
+        filename: item.replace('.json', ''),
+        price: priceArr,
+        hp: horsePowerArr
+      }
+    )
+  })
+
   return {
     props: {
       availableModels,
