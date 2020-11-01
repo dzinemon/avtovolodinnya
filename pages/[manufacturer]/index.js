@@ -65,7 +65,6 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  console.log('startstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstartstart')
   const currentManufacturerDir = path.join(process.cwd(), 'public', 'manufacturers', params.manufacturer)
   const filenames = fs.readdirSync(currentManufacturerDir)
 

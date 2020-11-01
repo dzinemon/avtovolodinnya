@@ -8,7 +8,6 @@ function CarCardItem(props) {
 
   const { image, modelName, price, hp } = props;
 
-  console.log(price)
   const finalPriceString = getArrayToStr(price);
   const finalHpString = getArrayToStr(hp);
 
