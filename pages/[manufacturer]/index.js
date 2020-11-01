@@ -6,6 +6,8 @@ import Layout from '../../components/layout'
 
 import GaWrapper from '../../components/gawrapper'
 
+import getArrayToStr from '../../utils/getArrayToStr'
+
 import fs from 'fs'
 import path from 'path'
 
@@ -29,13 +31,15 @@ function Manufacturer({availableModels, manufacturer}) {
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:text-base text-sm gap-4 grid-2">
             {availableModels.map((i, idx) => {
                 const model = i.filename.toLowerCase().replace(`${manufacturer}_`, '')
+                const price = i.price
+                const hp = i.hp
                 return (
                 <div key={idx} className="mb-2 sm:mb-0">
                   <Link href={`/${manufacturer}/${model}`}>
                     <a className="text-blue-600 hover:text-blue-800">
                       <CarCard
-                        price={i.price}
-                        hp={i.hp}
+                        price={price}
+                        hp={hp}
                         image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} 
                         modelName={`${manufacturer} ${model}`} 
                       />
@@ -85,11 +89,14 @@ export async function getStaticProps({ params }) {
       return j.horsepower
     }).sort()
 
+    const finalPriceString = getArrayToStr(priceArr);
+    const finalHpString = getArrayToStr(horsePowerArr);
+
     return (
       {
         filename: item.replace('.json', ''),
-        price: priceArr,
-        hp: horsePowerArr
+        price: finalPriceString,
+        hp: finalHpString
       }
     )
   })
