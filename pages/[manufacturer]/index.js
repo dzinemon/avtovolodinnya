@@ -25,6 +25,10 @@ function Manufacturer({availableModels, manufacturer}) {
               <img className="mx-auto h-10 w-auto hidden" alt={manufacturer}/>
               Виберіть модель {manufacturer.toUpperCase()}
             </h3>
+            <p>
+              Автовиробник {manufacturer.toUpperCase()} представлений на українському ринку {` `}
+              {availableModels.length} {` `} моделями
+            </p>
           </div>
   
           <div className="mt-10">
