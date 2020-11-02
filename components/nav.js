@@ -12,7 +12,7 @@ function Nav() {
             <div className="flex-shrink-0">
               <Link href="/">
                 <a className="flex flex-row items-center text-blue-600 hover:text-blue-400">
-                  <span className="border border-blue-600 rounded-full p-1 inline-block">
+                  <span className="rounded-full p-1 inline-block">
                     <img className="block h-8 w-8" src="/logo.svg" alt="Вартість володіння"/>
                   </span>
                   <span className="ml-2">Автоволодіння</span>

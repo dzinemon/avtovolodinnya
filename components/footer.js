@@ -12,7 +12,7 @@ function Footer() {
               <div className="justify-start flex flex-row items-center">
                 <Link href="/">
                   <a 
-                    className="border border-blue-600 rounded-full p-1 hover:border-blue-400 inline-block"
+                    className="rounded-full p-1 inline-block"
                   >
                     <img className="block h-8 w-8" src="/logo.svg" alt="Вартість володіння"/>
                   </a>
@@ -23,12 +23,12 @@ function Footer() {
             <div className="py-4 mt-3 text-sm">
               <p className="font-semibold mb-2">АвтоВиробники</p>
               <ul>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/audi">audi</a></li>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/bmw">bmw</a></li>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/mazda">mazda</a></li>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/nissan">nissan</a></li>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/renault">renault</a></li>
-                <li><a className="capitalize text-blue-600 hover:text-blue-400" href="/suzuki">suzuki</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/audi">audi</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/bmw">bmw</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/mazda">mazda</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/nissan">nissan</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/renault">renault</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/suzuki">suzuki</a></li>
               </ul>
             </div>
             <div className="py-4 mt-3 text-sm">
