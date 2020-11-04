@@ -21,19 +21,17 @@ function CarInfo(props) {
     <div className="xl:container mx-auto px-4 mb-3">
 
       <div className="flex flex-wrap">
-        <div className="w-full sm:w-1/2">
-          
+        <div className="w-full md:w-1/2">
             <img 
               // quality={100}
               src={image} 
               alt={props.designation} 
-              className="object-cover object-center" 
+              className="object-cover object-center mx-auto" 
               width={608}
               height={342}
               />
-          
         </div>
-        <div className="w-full sm:w-1/2">
+        <div className="w-full md:w-1/2">
           <div className="my-6">
             <label className="block text-gray-700 text-xs mb-2" htmlFor="model">
               Комплектація:
