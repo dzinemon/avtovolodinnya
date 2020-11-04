@@ -1,7 +1,10 @@
 import Head from 'next/head'
 import config from '../src/config'
 
-export default function SEO({ description, title }) {
+export default function SEO(props) {
+
+  const {title, description, currentPath} = props
+
   const siteTitle = config.title
 
   const LogoSD = ` {
@@ -27,6 +30,8 @@ export default function SEO({ description, title }) {
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
       <link href="https://unpkg.com/tailwindcss@1.9.6/dist/tailwind.css" rel="stylesheet"/>
+
+      <link rel="canonical" href={`${ config.absoluteUrl }/${currentPath}`} />
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: LogoSD }}/>
     </Head>

@@ -23,7 +23,6 @@ function Model({data}) {
     setCurrentData(data)
   },[]);
 
-
   const router = useRouter();
   const {model, manufacturer} = router.query;
 
@@ -33,7 +32,8 @@ function Model({data}) {
       <Layout>
           <Seo 
             title={`Актуальна ціна та вартість вододіння ${manufacturer.toUpperCase()} ${model.toUpperCase()} `}
-            description={`Всі витрати при володінні та Актуальна ціна ${manufacturer.toUpperCase()} ${model.toUpperCase()} доступні всі комплектації`} 
+            description={`Всі витрати при володінні та Актуальна ціна ${manufacturer.toUpperCase()} ${model.toUpperCase()} доступні всі комплектації`}
+            currentPath={`${manufacturer.toLocaleLowerCase()}/${model.toLocaleLowerCase()}`} 
           />
           <ModelHeader model={model} manufacturer={manufacturer}/>
           <ModelDynamic data={currentData} model={model} manufacturer={manufacturer} image={image}/>

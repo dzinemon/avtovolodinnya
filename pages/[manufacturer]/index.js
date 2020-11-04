@@ -16,7 +16,8 @@ function Manufacturer({availableModels, manufacturer}) {
     <GaWrapper>
       <Layout>
         <Seo title={`Перелік моделей автовиробника ${manufacturer.toUpperCase()} з актуальними цінами та витартами на володіння `}
-          description={`Всі моделі автовиробника ${manufacturer.toUpperCase()} доступні для перегляду вартості та витрат на володіння`}/>
+          description={`Всі моделі автовиробника ${manufacturer.toUpperCase()} доступні для перегляду вартості та витрат на володіння`}
+          currentPath={manufacturer.toLowerCase()}/>
         
         <div className="py-12 bg-white">
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
