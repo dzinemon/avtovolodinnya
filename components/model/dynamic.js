@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 
-import Seo from '../seo'
+// import Seo from '../seo'
 
 import CarInfo from "./CarInfo";
-import CarInfoBar from "./CarInfoBar";
+// import CarInfoBar from "./CarInfoBar";
 import CarTable from "./CarTable";
 import CarDataGrid from "./CarDataGrid";
 import useWindowDimensions from "../../hooks/useWindowDimensions";
@@ -17,7 +17,6 @@ import {
   INSURANCE_EXPENSES,
   FUEL_CONS_CHANGE,
   FIXED_INSURANCE,
-  // TAX,
   MAINTENANCE_EXPENSES,
   REPAIR_EXPENSES,
   ALL_FUELS,
@@ -281,11 +280,11 @@ function ModelDynamic(props) {
           perKm={perKm}
           model={model}
         />
-        <CarInfoBar
+        {/* <CarInfoBar
           horsepower={horsepower}
           designation={designation}
           configuration={configuration}
-        />
+        /> */}
 
         <CarTable
           isMobile={isMobile}
