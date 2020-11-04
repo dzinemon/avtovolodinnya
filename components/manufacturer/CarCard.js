@@ -17,8 +17,8 @@ function CarCardItem(props) {
       <div className="px-2 py-1">
         <div className="font-semibold text-sm md:text-base uppercase">{modelName}</div>
         
-        <div className="text-sm text-gray-800 font-semibold">Ціна: {price} грн.</div>
-        <div className="text-xs text-gray-700 ">Потужність: {hp} к.с.</div>
+        <div className="text-xs text-gray-800">Ціна: {price} грн.</div>
+        <div className="text-xs text-gray-700 font-light">Потужність: {hp} к.с.</div>
       </div>
     </div>
   )
