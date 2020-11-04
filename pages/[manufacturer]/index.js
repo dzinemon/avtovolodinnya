@@ -41,7 +41,7 @@ function Manufacturer({availableModels, manufacturer}) {
                 return (
                 <div key={idx} className="mb-2 sm:mb-0">
                   <Link href={`/${manufacturer}/${model}`}>
-                    <a className="text-blue-600 hover:text-blue-800">
+                    <a className="text-blue-800 hover:text-blue-900">
                       <CarCard
                         price={price}
                         hp={hp}
