@@ -21,18 +21,20 @@ function CarInfo(props) {
     <div className="xl:container mx-auto px-4 mb-3">
 
       <div className="flex flex-wrap">
-        <div className="w-full md:w-1/2">
+        <div className="w-full sm:w-1/2">
+          
             <img 
               // quality={100}
               src={image} 
               alt={props.designation} 
-              className="object-cover object-center mx-auto" 
+              className="object-cover object-center" 
               width={608}
               height={342}
               />
+          
         </div>
-        <div className="w-full md:w-1/2">
-          <div className="my-6">
+        <div className="w-full sm:w-1/2 px-4">
+          <div className="my-4 sm:my-6 ">
             <label className="block text-gray-700 text-xs mb-2" htmlFor="model">
               Комплектація:
             </label>
@@ -52,12 +54,12 @@ function CarInfo(props) {
               </div>
             </div>
           </div>
-          <div className="my-6 grid grid-cols-2 gap-2">
-            <div className="pb-2 bg-gray-100 p-2 rounded">
+          <div className="my-4 sm:my-6 flex flex-wrap justify-center">
+            <div className="pb-2 bg-gray-100 p-2 rounded w-6/12 sm:w-full md:w-6/12 mb-2">
               <p className="text-lg text-gray-700 leading-none font-light">
                 Вартість володіння <sup>*</sup>
               </p>
-              <div className="text-gray-800 text-xl sm:text-3xl font-bold">
+              <div className="text-gray-800 text-xl sm:text-2xl md:text-3xl font-bold">
                 <span className="text-gray-700 text-xs">від </span>{currentCostOfOwn}{" "}
                 <span className="text-gray-700 text-lg">грн</span>
               </div>
@@ -65,11 +67,11 @@ function CarInfo(props) {
                 <sup>*</sup> Всі витрати на утримання
               </div>
             </div>
-            <div className="pb-2 bg-blue-800 p-2 rounded">
+            <div className="pb-2 bg-blue-800 p-2 rounded w-6/12 sm:w-full md:w-6/12 mb-2">
               <p className="text-lg text-white leading-none font-light">
                 Ціна нового автомобіля <sup>**</sup>
               </p>
-              <div className="text-blue-100 text-xl sm:text-3xl font-bold">
+              <div className="text-blue-100 text-xl sm:text-2xl md:text-3xl font-bold">
                 <span className="text-gray-100 text-xs">від </span>{currentPriceStr}{" "}
                 <span className="text-gray-100 text-lg">грн</span>
               </div>
@@ -81,7 +83,7 @@ function CarInfo(props) {
               <p className="text-lg text-gray-800 leading-none font-light">
                 Вартість після 5-и років <sup>***</sup>
               </p>
-              <div className="text-gray-800 text-xl sm:text-3xl font-bold">
+              <div className="text-gray-800 text-xl sm:text-2xl md:text-3xl font-bold">
                 {currentResidualPrice}{" "}
                 <span className="text-gray-700 text-lg">грн</span>
               </div>
@@ -93,7 +95,7 @@ function CarInfo(props) {
               <p className="text-lg text-blue-900 leading-none font-light">
                 Вартість 1 км
               </p>
-              <div className="text-blue-800 text-xl sm:text-3xl font-bold">
+              <div className="text-blue-800 text-xl sm:text-2xl md:text-3xl font-bold">
                 {perKm} <span className="text-gray-700 text-lg">грн</span>
               </div>
             </div>
