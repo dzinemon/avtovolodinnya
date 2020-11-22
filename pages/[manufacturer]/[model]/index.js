@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 
-import Link from 'next/link'
+// import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import Layout from '../../../components/layout'
@@ -26,7 +26,7 @@ function Model({data}) {
   const router = useRouter();
   const {model, manufacturer} = router.query;
 
-  const image = `/manufacturers/${manufacturer}/${manufacturer.toUpperCase()}_${model.toUpperCase()}_0.jpg`
+  const image = `/manufacturers/${manufacturer}/images/${manufacturer}_${model.toUpperCase()}_0.jpg`
   return (
     <GaWrapper>
       <Layout>
@@ -35,7 +35,7 @@ function Model({data}) {
             description={`Всі витрати при володінні та Актуальна ціна ${manufacturer.toUpperCase()} ${model.toUpperCase()} доступні всі комплектації`}
             currentPath={`${manufacturer.toLocaleLowerCase()}/${model.toLocaleLowerCase()}`} 
           />
-          <ModelHeader model={model} manufacturer={manufacturer}/>
+          <ModelHeader data={currentData} model={model} manufacturer={manufacturer}/>
           <ModelDynamic data={currentData} model={model} manufacturer={manufacturer} image={image}/>
       </Layout>
     </GaWrapper>

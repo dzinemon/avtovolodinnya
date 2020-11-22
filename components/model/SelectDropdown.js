@@ -6,7 +6,7 @@ function SelectDropdown(props) {
 
   const options = CarsArray.filter(i => typeof i.model === 'string').map((i,idx) => {
     return (
-      <option key={idx} value={idx}>{i.designation} {i.configuration} {i.engine_displacement.toFixed(1)}л ({i.horsepower} к.с.)</option>
+      <option key={idx} value={idx}>{i.designation} {i.configuration} {i.engine.engine_displacement.toFixed(1)}л ({i.engine.power} к.с.)</option>
     )
   })
 

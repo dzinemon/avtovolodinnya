@@ -45,7 +45,7 @@ function Manufacturer({availableModels, manufacturer}) {
                       <CarCard
                         price={price}
                         hp={hp}
-                        image={`/manufacturers/${manufacturer}/${i.filename}_0.jpg`} 
+                        image={`/manufacturers/${manufacturer}/images/${i.filename}_0.jpg`} 
                         modelName={`${manufacturer} ${model}`} 
                       />
                     </a>
@@ -83,17 +83,31 @@ export async function getStaticProps({ params }) {
 
   const availableModels = listOfFiles.map(item => {
     const currentPath = `public/manufacturers/${params.manufacturer}/${item}`
-
+    
     const rawData = fs.readFileSync(currentPath)
     const data = JSON.parse(rawData)
-    const priceArr = data.map((j) => {
-      return j.price
-    }).filter(i => typeof i !== 'undefined').sort((a, b) => {
-      return a - b
+
+    const getCurrentIdArr = data.map(j => j.uniqueid)
+    let priceArray = []
+
+    getCurrentIdArr.map(k => {
+      const currentJPath = `public/manufacturers/${params.manufacturer}/prices/${k}.json`
+      function LoadCurrentPrices(filepath) {
+        const currentRawJData = fs.readFileSync(currentJPath, 'utf8')
+        const currentJData = JSON.parse(currentRawJData)
+        const currentJPrice = currentJData[currentJData.length - 1].price
+        priceArray.push(currentJPrice)
+      }
+      
+      LoadCurrentPrices(currentJPath)
     })
 
+    const priceArr = priceArray.filter(i => typeof i !== 'undefined').sort((a, b) => {
+      return a - b
+    })
+    
     const horsePowerArr = data.map(j => {
-      return j.horsepower
+      return j.engine.power
     }).filter(i => typeof i !== 'undefined').sort((a, b) => {
       return a - b
     })

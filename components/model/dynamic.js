@@ -3,9 +3,10 @@ import { useState, useEffect } from 'react'
 // import Seo from '../seo'
 
 import CarInfo from "./CarInfo";
-// import CarInfoBar from "./CarInfoBar";
+import CarInfoBar from "./CarInfoBar";
 import CarTable from "./CarTable";
 import CarDataGrid from "./CarDataGrid";
+import ExpensesBar from "./ExpensesBar";
 import useWindowDimensions from "../../hooks/useWindowDimensions";
 
 import calculateWheelsExpenses from "../../utils/calculateWheelsExpenses";
@@ -31,7 +32,8 @@ function ModelDynamic(props) {
     data
   } = props
 
-  const url = `/manufacturers/${props.manufacturer}/${props.manufacturer.toUpperCase()}_${props.model.toUpperCase()}.json`;
+  let priceUrl;
+  const url = `/manufacturers/${props.manufacturer}/${props.manufacturer}_${props.model.toUpperCase()}.json`;
 
   const getCurrentCars = data.filter(i => typeof i.model === 'string');
   const getCurrentDate = data.filter(i => typeof i.model !== 'string');
@@ -74,6 +76,7 @@ function ModelDynamic(props) {
 
   let isMobile = width < 640 ? true : false;
 
+  const [uniqueid, setUniqueid] = useState();
   const [parkingPrice, setParkingPrice] = useState(0);
   const [parking, setParking] = useState("free");
   const [carwash, setCarWash] = useState(0);
@@ -92,6 +95,10 @@ function ModelDynamic(props) {
   const [hasFullInsurance, setInsurance] = useState(true);
   const [wheelSize, setWheelSize] = useState('17');
 
+  if (typeof uniqueid != undefined) {
+    priceUrl = `/manufacturers/${props.manufacturer}/prices/${uniqueid}.json`;
+  }
+
   useEffect(() => {
     fetch(url).then(response => {
       // console.log(response);
@@ -102,19 +109,20 @@ function ModelDynamic(props) {
       const carsData = carsData0.filter(i => typeof i.model === 'string');
       setCars(carsData);
       setModel(carsData[0].model);
-      setAFC(carsData[0].average_fuel_consumption);
+      setAFC(carsData[0].fuel.fuel_consumption_combined);
       setConfiguration(carsData[0].configuration);
       setDesignation(carsData[0].designation);
-      setPrice(carsData[0].price);
-      setHorsepower(carsData[0].horsepower);
+      // setPrice(carsData[0].price);
+      setHorsepower(carsData[0].engine.power);
+      setUniqueid(carsData[0].uniqueid);
       if (carsData[0].fuel === 'petrol' || carsData[0].fuel === 'hybrid') {
         setFuel('petrol');
       } else {
         setFuel('diesel');
       }
       
-      if (carsData[0].hasOwnProperty('wheel')) {
-        setWheelSize(carsData[0].wheel.radius);
+      if (carsData[0].hasOwnProperty('tire')) {
+        setWheelSize(carsData[0].tire.radius);
       }
 
     }).catch(err => {
@@ -123,9 +131,24 @@ function ModelDynamic(props) {
     });
   }, [url])
 
+
   useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [ ] );
+    fetch(priceUrl).then(response => {
+      console.log(response);
+      
+      return response.text();
+    }).then(data => {
+      const currentCarPrices = JSON.parse(data);
+      const actualPrice = currentCarPrices[currentCarPrices.length - 1].price;
+      // const carsData = carsData0.filter(i => typeof i.model === 'string');
+      console.log(actualPrice)
+      setPrice(actualPrice)
+
+    }).catch(err => {
+      // Do something for an error here
+      console.log("Error Reading data " + err);
+    });
+  }, [ uniqueid ] );
 
   const parkingExpenses = parking === "free" ? 0 : parkingPrice * 12;
   const parkingExpensesArray = new Array(5);
@@ -157,11 +180,12 @@ function ModelDynamic(props) {
   function updateCar(el) {
     let updatedCar = cars.filter(i => typeof i.model === 'string');
     setModel(updatedCar[el].model);
-    setAFC(updatedCar[el].average_fuel_consumption);
+    setAFC(updatedCar[el].fuel.fuel_consumption_combined);
     setConfiguration(updatedCar[el].configuration);
     setDesignation(updatedCar[el].designation);
     setPrice(updatedCar[el].price);
-    setHorsepower(updatedCar[el].horsepower);
+    setHorsepower(updatedCar[el].engine.power);
+    setUniqueid(updatedCar[el].uniqueid);
 
     if (updatedCar[el].fuel === 'petrol' || updatedCar[el].fuel === 'hybrid') {
       setFuel('petrol');
@@ -169,8 +193,8 @@ function ModelDynamic(props) {
       setFuel('diesel');
     }
 
-    if (updatedCar[el].hasOwnProperty('wheel')) {
-      setWheelSize(updatedCar[el].wheel.radius);
+    if (updatedCar[el].hasOwnProperty('tire')) {
+      setWheelSize(updatedCar[el].tire.radius);
     } 
   }
   // tax
@@ -280,10 +304,25 @@ function ModelDynamic(props) {
           perKm={perKm}
           model={model}
         />
-        {/* <CarInfoBar
+        <CarInfoBar
           horsepower={horsepower}
           designation={designation}
           configuration={configuration}
+        />
+
+        {/* <ExpensesBar
+          hasFullInsurance={hasFullInsurance}
+          handleCheckClick={handleCheckClick}
+          setNumberOfCarWash={setNumberOfCarWash}
+          calculateParking={calculateParking}
+          updateParkingPrice={updateParkingPrice}
+          parking={parking}
+          carwash={carwash}
+          parkingExpensesArray={parkingExpensesArray}
+          calculateWheels={calculateWheels}
+          otherExpensesArray={otherExpensesArray}
+          wheels={wheels}
+          parkingPrice={parkingPrice}
         /> */}
 
         <CarTable

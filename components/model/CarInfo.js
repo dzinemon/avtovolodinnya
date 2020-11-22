@@ -8,14 +8,12 @@ import SelectDropdown from './SelectDropdown'
 
 function CarInfo(props) {
 
-  const {price, costOfOwn, residualPrice} = props
+  const {price, costOfOwn, residualPrice, image} = props
 
   let currentPriceStr = !isNaN(price) ? formatNumber(price) : 0;
   let currentCostOfOwn = !isNaN(costOfOwn) ? formatNumber(costOfOwn) : 0;
   let currentResidualPrice = !isNaN(residualPrice) ? formatNumber(residualPrice) : 0;
   let perKm = formatNumber(props.perKm)
-
-  let { image } = props;
 
   return (
     <div className="xl:container mx-auto px-4 mb-3">
