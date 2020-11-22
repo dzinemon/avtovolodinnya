@@ -1,47 +1,247 @@
 [
     {
         "model": "2_F45",
-        "designation": "218i",
-        "price": 882666,
-        "average_fuel_consumption": 7.65,
         "configuration": "218i",
-        "horsepower": 136,
-        "engine_displacement": 1.499
+        "uniqueid": "2aab24e5-e5fe-44c9-86c7-aa1a3da7d1f5",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
         "model": "2_F45",
-        "designation": "220i",
-        "price": 1036300,
-        "average_fuel_consumption": 8.3,
         "configuration": "220i",
-        "horsepower": 192,
-        "engine_displacement": 1.998
+        "uniqueid": "25c248ac-45cd-4b63-af26-5bf8925239f6",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     },
     {
         "model": "2_F45",
-        "designation": "225i xDrive",
-        "price": 1215590,
-        "average_fuel_consumption": 9.0,
         "configuration": "225i xDrive",
-        "horsepower": 231,
-        "engine_displacement": 1.998
+        "uniqueid": "e51b4ff6-79fc-4d92-a092-28b38f202714",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
     },
     {
         "model": "2_F45",
-        "designation": "218d xDrive",
-        "price": 1113823,
-        "average_fuel_consumption": 8.0,
         "configuration": "218d xDrive",
-        "horsepower": 150,
-        "engine_displacement": 1.995
+        "uniqueid": "a5d86376-933f-4650-89d0-30f957ff70e7",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 3
     },
     {
         "model": "2_F45",
-        "designation": "220d xDrive",
-        "price": 1166428,
-        "average_fuel_consumption": 8.05,
         "configuration": "220d xDrive",
-        "horsepower": 190,
-        "engine_displacement": 1.995
+        "uniqueid": "addeecdf-d82b-4da7-8606-3d95bfc1ec57",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 4
     }
 ]

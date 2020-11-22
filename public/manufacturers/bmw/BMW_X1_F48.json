@@ -1,92 +1,492 @@
 [
     {
         "model": "X1_F48",
-        "designation": "X1 sDrive18i",
-        "price": 765732,
-        "average_fuel_consumption": 9.3,
         "configuration": "X1 sDrive18i",
-        "horsepower": 140,
-        "engine_displacement": 1.499
+        "uniqueid": "c07a3ae2-51a6-4628-8d0f-e127c66dab1a",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
         "model": "X1_F48",
-        "designation": "X1 sDrive20i",
-        "price": 906758,
-        "average_fuel_consumption": 9.850000000000001,
         "configuration": "X1 sDrive20i",
-        "horsepower": 192,
-        "engine_displacement": 1.998
+        "uniqueid": "36dd6e3d-93be-4911-9821-ac53e96f743f",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     },
     {
         "model": "X1_F48",
-        "designation": "X1 xDrive20i",
-        "price": 983522,
-        "average_fuel_consumption": 10.6,
         "configuration": "X1 xDrive20i",
-        "horsepower": 192,
-        "engine_displacement": 1.998
+        "uniqueid": "8bafbc8e-8500-4866-87e0-e8d4b8df4c8e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
     },
     {
         "model": "X1_F48",
-        "designation": "X1 xDrive25i",
-        "price": 1167983,
-        "average_fuel_consumption": 10.5,
         "configuration": "X1 xDrive25i",
-        "horsepower": 231,
-        "engine_displacement": 1.998
+        "uniqueid": "cadfbb5c-9ffd-41b6-bb21-316007989f16",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 3
     },
     {
         "model": "X1_F48",
-        "designation": "X1 sDrive16d",
-        "price": 764372,
-        "average_fuel_consumption": 7.1,
         "configuration": "X1 sDrive16d",
-        "horsepower": 116,
-        "engine_displacement": 1.496
+        "uniqueid": "d4088e87-3bb7-4d85-abbb-dfb89a85cb9c",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 4
     },
     {
         "model": "X1_F48",
-        "designation": "X1 sDrive18d",
-        "price": 808292,
-        "average_fuel_consumption": 7.65,
         "configuration": "X1 sDrive18d",
-        "horsepower": 150,
-        "engine_displacement": 1.995
+        "uniqueid": "b84fbe3e-d3c5-4b3b-aa15-189f79afddda",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 5
     },
     {
         "model": "X1_F48",
-        "designation": "X1 xDrive18d",
-        "price": 874433,
-        "average_fuel_consumption": 8.05,
         "configuration": "X1 xDrive18d",
-        "horsepower": 150,
-        "engine_displacement": 1.995
+        "uniqueid": "d75db257-6fa0-411c-a6bd-b2bfb736deba",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 6
     },
     {
         "model": "X1_F48",
-        "designation": "X1 sDrive20d",
-        "price": 957902,
-        "average_fuel_consumption": 7.35,
         "configuration": "X1 sDrive20d",
-        "horsepower": 190,
-        "engine_displacement": 1.995
+        "uniqueid": "4eb32324-af57-4946-8ce5-9138b76bce30",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 7
     },
     {
         "model": "X1_F48",
-        "designation": "X1 xDrive20d",
-        "price": 1024820,
-        "average_fuel_consumption": 7.800000000000001,
         "configuration": "X1 xDrive20d",
-        "horsepower": 190,
-        "engine_displacement": 1.995
+        "uniqueid": "a357ad80-d8e5-461b-9029-3879e0668c77",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 8
     },
     {
         "model": "X1_F48",
-        "designation": "X1 xDrive25d",
-        "price": 1144112,
-        "average_fuel_consumption": 7.5,
         "configuration": "X1 xDrive25d",
-        "horsepower": 231,
-        "engine_displacement": 1.995
+        "uniqueid": "f6a77550-57f7-4b67-852d-1d3c9da1a6c9",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 9
     }
 ]

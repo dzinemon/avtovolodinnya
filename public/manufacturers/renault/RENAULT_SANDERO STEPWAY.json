@@ -1,275 +1,443 @@
 [
     {
-        "date": "2020-10-18T00:20:45.839223"
-    },
-    {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 361900,
-        "average_fuel_consumption": 5.25,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 391900,
-        "average_fuel_consumption": 5.2,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 1
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 395200,
-        "average_fuel_consumption": 4.3,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 378600,
-        "average_fuel_consumption": 5.25,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 408500,
-        "average_fuel_consumption": 5.2,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 4
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 411800,
-        "average_fuel_consumption": 4.3,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 5
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 381900,
-        "average_fuel_consumption": 5.25,
         "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 6
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 411800,
-        "average_fuel_consumption": 5.2,
         "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 7
     },
     {
-        "manufacturer": "Renault",
         "model": "SANDERO Stepway",
-        "price": 415100,
-        "average_fuel_consumption": 4.3,
         "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 361900,
-        "average_fuel_consumption": 5.25,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 391900,
-        "average_fuel_consumption": 5.2,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 395200,
-        "average_fuel_consumption": 4.3,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 378600,
-        "average_fuel_consumption": 5.25,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 408500,
-        "average_fuel_consumption": 5.2,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 411800,
-        "average_fuel_consumption": 4.3,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 381900,
-        "average_fuel_consumption": 5.25,
-        "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 411800,
-        "average_fuel_consumption": 5.2,
-        "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "SANDERO Stepway",
-        "price": 415100,
-        "average_fuel_consumption": 4.3,
-        "configuration": "Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 8
     }
 ]

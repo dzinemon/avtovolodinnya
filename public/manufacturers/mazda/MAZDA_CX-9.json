@@ -1,37 +1,100 @@
 [
     {
-        "date": "2020-10-25T12:22:21.892570"
-    },
-    {
-        "id": 0,
-        "manufacturer": "mazda",
         "model": "CX-9",
-        "price": 1522400,
-        "average_fuel_consumption": 9.4,
         "configuration": "PREMIUM",
-        "horsepower": 231,
-        "engine_displacement": 2.488,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 20,
-            "width": 255,
-            "height": 50
-        }
+        "uniqueid": "4b4c329a-7682-41cc-aa3a-74903e1f1fe9",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
-        "id": 1,
-        "manufacturer": "mazda",
         "model": "CX-9",
-        "price": 1579800,
-        "average_fuel_consumption": 9.4,
         "configuration": "TOP",
-        "horsepower": 231,
-        "engine_displacement": 2.488,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 20,
-            "width": 255,
-            "height": 50
-        }
+        "uniqueid": "e68a16ee-8aab-4351-be12-6353b9a354e3",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     }
 ]

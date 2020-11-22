@@ -1,56 +1,149 @@
 [
     {
-        "date": "2020-10-30T00:04:29.756561"
+        "model": "IGNIS",
+        "configuration": "DUALJET+SHVS",
+        "uniqueid": "108eaa39-fa78-4549-8f78-facbaf11cc5e",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 3700,
+            "width": 1660,
+            "height": 1605,
+            "wheelbase": 2435,
+            "front_track_width": 1460,
+            "rear_track_width": 1470,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 32,
+            "fuel_consumption_urban": 4.3,
+            "fuel_consumption_extra_urban": 3.9,
+            "fuel_consumption_combined": 4.1,
+            "co2_emissions": 93.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.197,
+            "power": 83,
+            "torque": 107,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 165,
+            "acceleration100": 12.7
+        },
+        "id": 0
     },
     {
-        "id": 0,
-        "manufacturer": "suzuki",
         "model": "IGNIS",
-        "price": 439000,
-        "average_fuel_consumption": 4.1,
         "configuration": "DUALJET+SHVS",
-        "horsepower": 83,
-        "engine_displacement": 1.197,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 175,
-            "height": 65
+        "uniqueid": "36f9d96a-dd57-48e4-9d28-7fc6e0e78de6",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 0,
+            "height": 0
         },
-        "clearance": 180
+        "dimensions": {
+            "length": 3700,
+            "width": 1660,
+            "height": 1605,
+            "wheelbase": 2435,
+            "front_track_width": 1460,
+            "rear_track_width": 1470,
+            "overhang_ahead": 0,  
+            "overhang_behind": 0,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 32,
+            "fuel_consumption_urban": 4.7,
+            "fuel_consumption_extra_urban": 4.3,
+            "fuel_consumption_combined": 4.4,
+            "co2_emissions": 100.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.197,
+            "power": 83,
+            "torque": 107,   
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 155,
+            "acceleration100": 12.4
+        },
+        "id": 1
     },
     {
-        "id": 1,
-        "manufacturer": "suzuki",
         "model": "IGNIS",
-        "price": 479000,
-        "average_fuel_consumption": 4.4,
         "configuration": "DUALJET+SHVS",
-        "horsepower": 83,
-        "engine_displacement": 1.197,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 175,
-            "height": 65
+        "uniqueid": "ebb34dbb-c7d0-461e-85ae-c0c1fe11dbfc",
+        "year": 2020,
+       "tire": {
+            "radius": 16,
+            "width": 0,
+            "height": 0
         },
-        "clearance": 180
-    },
-    {
-        "id": 2,
-        "manufacturer": "suzuki",
-        "model": "IGNIS",
-        "price": 530000,
-        "average_fuel_consumption": 4.4,
-        "configuration": "DUALJET+SHVS",
-        "horsepower": 83,
-        "engine_displacement": 1.197,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 175,
-            "height": 65
+        "dimensions": {
+            "length": 3700,
+            "width": 1690,
+            "height": 1605,
+            "wheelbase": 2435,
+            "front_track_width": 1460,
+            "rear_track_width": 1470,
+            "overhang_ahead": 0,  
+            "overhang_behind": 0,
+            "turning_diameter": 4.7
         },
-        "clearance": 180
+        "fuel": {
+            "fuel_tank_capacity": 32,
+            "fuel_consumption_urban": 4.7,
+            "fuel_consumption_extra_urban": 4.3,
+            "fuel_consumption_combined": 4.4,
+            "co2_emissions": 100.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.197,
+            "power": 83,
+            "torque": 107,   
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 155,
+            "acceleration100": 12.4
+        },
+        "id": 2
     }
 ]

@@ -1,38 +1,198 @@
 [
     {
         "model": "X6_G06",
-        "designation": "X6 xDrive40i",
-        "price": 2260045,
-        "average_fuel_consumption": 13.350000000000001,
         "configuration": "X6 xDrive40i",
-        "horsepower": 340,
-        "engine_displacement": 2.998
+        "uniqueid": "2143e850-2fbf-4bb7-a73e-32abe86868f1",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
         "model": "X6_G06",
-        "designation": "X6 M50i",
-        "price": 2724582,
-        "average_fuel_consumption": 17.0,
         "configuration": "X6 M50i",
-        "horsepower": 530,
-        "engine_displacement": 4.395
+        "uniqueid": "d97ecfb6-b858-4f6c-847a-d26c70a40205",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     },
     {
         "model": "X6_G06",
-        "designation": "X6 xDrive30d",
-        "price": 2157142,
-        "average_fuel_consumption": 10.6,
         "configuration": "X6 xDrive30d",
-        "horsepower": 265,
-        "engine_displacement": 2.993
+        "uniqueid": "9748bd95-855f-44ad-bbc1-a671470a85ce",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
     },
     {
         "model": "X6_G06",
-        "designation": "X6 M50d",
-        "price": 2759466,
-        "average_fuel_consumption": 11.649999999999999,
         "configuration": "X6 M50d",
-        "horsepower": 400,
-        "engine_displacement": 2.993
+        "uniqueid": "14336b9e-bbce-47d6-b0bf-f382660ca6a1",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 3
     }
 ]

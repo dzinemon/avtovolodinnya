@@ -1,37 +1,100 @@
 [
     {
-        "date": "2020-10-25T12:22:21.889550"
+        "model": "MX-5 RF",
+        "configuration": "TOP",
+        "uniqueid": "11d139f6-1258-4251-b645-7a65755ea411",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
-        "id": 0,
-        "manufacturer": "mazda",
         "model": "MX-5 RF",
-        "price": 1120000,
-        "average_fuel_consumption": 6.9,
         "configuration": "TOP",
-        "horsepower": 184,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 205,
-            "height": 45
-        }
-    },
-    {
-        "id": 1,
-        "manufacturer": "mazda",
-        "model": "MX-5 RF",
-        "price": 1177400,
-        "average_fuel_consumption": 6.9,
-        "configuration": "TOP",
-        "horsepower": 184,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 205,
-            "height": 45
-        }
+        "uniqueid": "31db4c9a-7057-418c-bc20-3b2e4c101a84",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     }
 ]

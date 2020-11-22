@@ -1,69 +1,198 @@
 [
     {
-        "date": "2020-10-25T12:22:21.891561"
-    },
-    {
-        "id": 0,
-        "manufacturer": "mazda",
         "model": "CX-30",
-        "price": 904500,
-        "average_fuel_consumption": 6.0,
         "configuration": "EXECUTIVE",
-        "horsepower": 150,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
+        "uniqueid": "e662265e-3e6b-4abf-bcda-21bddfcca978",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     },
     {
-        "id": 1,
-        "manufacturer": "mazda",
         "model": "CX-30",
-        "price": 858900,
-        "average_fuel_consumption": 5.5,
         "configuration": "EXECUTIVE",
-        "horsepower": 150,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
+        "uniqueid": "2cda338a-867e-49a8-bbf3-3d11de17a9bd",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
     },
     {
-        "id": 2,
-        "manufacturer": "mazda",
         "model": "CX-30",
-        "price": 1002500,
-        "average_fuel_consumption": 6.0,
         "configuration": "PREMIUM",
-        "horsepower": 150,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
+        "uniqueid": "d37ec229-2a98-40e0-acc5-39d54acfeb26",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
     },
     {
-        "id": 3,
-        "manufacturer": "mazda",
         "model": "CX-30",
-        "price": 804300,
-        "average_fuel_consumption": 5.5,
         "configuration": "STYLE",
-        "horsepower": 150,
-        "engine_displacement": 1.998,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
+        "uniqueid": "9e640e02-c463-4084-a20c-b085c2934175",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 3
     }
 ]

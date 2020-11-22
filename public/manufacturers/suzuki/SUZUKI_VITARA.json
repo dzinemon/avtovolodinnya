@@ -1,141 +1,394 @@
 [
     {
-        "date": "2020-10-30T00:04:29.753570"
-    },
-    {
-        "id": 0,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 466900,
-        "average_fuel_consumption": 5.8,
         "configuration": "GL",
-        "horsepower": 86,
-        "engine_displacement": 1.586,
-        "fuel": "petrol",
-        "wheel": {
+        "uniqueid": "d8b71770-b126-4f2b-b836-898e7cea8b57",
+        "year": 2020,
+        "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.1,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.586,
+            "power": 86,
+            "torque": 151,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 11.5
+        },
+        "id": 0
     },
     {
-        "id": 1,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 507900,
-        "average_fuel_consumption": 6.2,
         "configuration": "GL",
-        "horsepower": 86,
-        "engine_displacement": 1.586,
-        "fuel": "petrol",
-        "wheel": {
+        "uniqueid": "c43db9c4-5f4e-481f-8360-808eed0aff5f",
+        "year": 2020,
+        "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.9,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.586,
+            "power": 86,
+            "torque": 151,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 12.5
+        },
+        "id": 1
     },
     {
-        "id": 2,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 557900,
-        "average_fuel_consumption": 6.2,
         "configuration": "GL+",
-        "horsepower": 86,
-        "engine_displacement": 1.586,
-        "fuel": "petrol",
-        "wheel": {
+        "uniqueid": "31223950-a49e-40a1-82c8-a8eabcfde46e",
+        "year": 2020,
+       "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.9,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.586,
+            "power": 86,
+            "torque": 151,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 12.5
+        },
+        "id": 2
     },
     {
-        "id": 3,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 559900,
-        "average_fuel_consumption": 6.2,
         "configuration": "GL+",
-        "horsepower": 86,
-        "engine_displacement": 1.586,
-        "fuel": "petrol",
-        "wheel": {
+        "uniqueid": "17597c7f-96b0-47ae-95a8-83b9b5adff28",
+        "year": 2020,
+        "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.6,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.586,
+            "power": 86,
+            "torque": 151,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 12.0
+        },
+        "id": 3
     },
     {
-        "id": 4,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 599900,
-        "average_fuel_consumption": 6.5,
         "configuration": "GL+",
-        "horsepower": 86,
-        "engine_displacement": 1.586,
-        "fuel": "petrol",
-        "wheel": {
+        "uniqueid": "dabc3ab0-4b48-41a9-b0e3-544d52f88a8b",
+        "year": 2020,
+       "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.5,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.586,
+            "power": 86,
+            "torque": 151,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 13.0
+        },
+        "id": 4
     },
     {
-        "id": 5,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 621900,
-        "average_fuel_consumption": 5.8,
         "configuration": "GL+",
-        "horsepower": 140,
-        "engine_displacement": 1.373,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
+        "uniqueid": "7e06ff66-7991-4b2c-8361-638717361cd2",
+        "year": 2020,
+       "tire": {
+            "radius": 17,
             "width": 215,
-            "height": 60
+            "height": 55
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.0,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.373,
+            "power": 140,
+            "torque": 220,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 9.5
+        },
+        "id": 5
     },
     {
-        "id": 6,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 679900,
-        "average_fuel_consumption": 6.2,
         "configuration": "GL+",
-        "horsepower": 140,
-        "engine_displacement": 1.373,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
+        "uniqueid": "3c93fb98-6e33-4703-9e3b-132cd7319fca",
+        "year": 2020,
+         "tire": {
+            "radius": 17,
             "width": 215,
-            "height": 60
+            "height": 55
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.4,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.373,
+            "power": 140,
+            "torque": 220,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 10.2
+        },
+        "id": 6
     },
     {
-        "id": 7,
-        "manufacturer": "suzuki",
         "model": "VITARA",
-        "price": 750900,
-        "average_fuel_consumption": 6.2,
         "configuration": "GLX",
-        "horsepower": 140,
-        "engine_displacement": 1.373,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
+        "uniqueid": "dfcef346-c206-4474-b862-c2cafcc4e1b0",
+        "year": 2020,
+       "tire": {
+            "radius": 17,
             "width": 215,
-            "height": 60
+            "height": 55
         },
-        "clearance": 185
+        "dimensions": {
+            "length": 4175,
+            "width": 1775,
+            "height": 1610,
+            "wheelbase": 2500,
+            "front_track_width": 1535,
+            "rear_track_width": 1505,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 47,
+            "fuel_consumption_urban": 7.4,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.373,
+            "power": 140,
+            "torque": 220,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 10.2
+        },
+        "id": 7
     }
 ]

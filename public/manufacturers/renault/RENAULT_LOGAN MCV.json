@@ -1,365 +1,590 @@
 [
     {
-        "date": "2020-10-18T00:20:45.841218"
-    },
-    {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 329900,
-        "average_fuel_consumption": 5.9,
         "configuration": "Base",
-        "horsepower": 73,
-        "engine_displacement": 1.0,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "54e5d58c-b2a2-4260-b4df-7615a6da8d65",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 362500,
-        "average_fuel_consumption": 5.9,
         "configuration": "Life+",
-        "horsepower": 73,
-        "engine_displacement": 1.0,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8a222b2e-1267-499d-9e2d-74c472b3ef0c",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 1
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 378600,
-        "average_fuel_consumption": 5.55,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8a222b2e-1267-499d-9e2d-74c472b3ef0c",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 408500,
-        "average_fuel_consumption": 5.6,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8a222b2e-1267-499d-9e2d-74c472b3ef0c",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 411800,
-        "average_fuel_consumption": 4.15,
         "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8a222b2e-1267-499d-9e2d-74c472b3ef0c",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 4
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 395200,
-        "average_fuel_consumption": 5.55,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8fe3c3f4-3fd6-4dfe-be91-0b5b62feb1d3",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 5
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 425100,
-        "average_fuel_consumption": 5.6,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8fe3c3f4-3fd6-4dfe-be91-0b5b62feb1d3",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 6
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 428500,
-        "average_fuel_consumption": 4.15,
         "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "8fe3c3f4-3fd6-4dfe-be91-0b5b62feb1d3",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 7
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 434000,
-        "average_fuel_consumption": 5.65,
         "configuration": "Stepway Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "11d0be5b-b6c9-4b6c-8589-29edc5848f46",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 8
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 463900,
-        "average_fuel_consumption": 5.7,
         "configuration": "Stepway Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "11d0be5b-b6c9-4b6c-8589-29edc5848f46",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 9
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 437300,
-        "average_fuel_consumption": 5.65,
         "configuration": "Stepway Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "07fd47c5-35c7-47c5-8c3d-f954e969ef51",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 10
     },
     {
-        "manufacturer": "Renault",
         "model": "LOGAN MCV",
-        "price": 467200,
-        "average_fuel_consumption": 5.7,
         "configuration": "Stepway Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 329900,
-        "average_fuel_consumption": 5.9,
-        "configuration": "Base",
-        "horsepower": 73,
-        "engine_displacement": 1.0,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 362500,
-        "average_fuel_consumption": 5.9,
-        "configuration": "Life+",
-        "horsepower": 73,
-        "engine_displacement": 1.0,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 378600,
-        "average_fuel_consumption": 5.55,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 408500,
-        "average_fuel_consumption": 5.6,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 411800,
-        "average_fuel_consumption": 4.15,
-        "configuration": "Life+",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 395200,
-        "average_fuel_consumption": 5.55,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 425100,
-        "average_fuel_consumption": 5.6,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 428500,
-        "average_fuel_consumption": 4.15,
-        "configuration": "Zen",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 434000,
-        "average_fuel_consumption": 5.65,
-        "configuration": "Stepway Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 463900,
-        "average_fuel_consumption": 5.7,
-        "configuration": "Stepway Zen",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 437300,
-        "average_fuel_consumption": 5.65,
-        "configuration": "Stepway Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "LOGAN MCV",
-        "price": 467200,
-        "average_fuel_consumption": 5.7,
-        "configuration": "Stepway Ultramarine",
-        "horsepower": 90,
-        "engine_displacement": 0.9,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "07fd47c5-35c7-47c5-8c3d-f954e969ef51",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 11
     }
 ]

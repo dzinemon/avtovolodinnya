@@ -1,245 +1,394 @@
 [
     {
-        "date": "2020-10-18T00:20:45.847233"
-    },
-    {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 518900,
-        "average_fuel_consumption": 6.449999999999999,
         "configuration": "Life",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 215,
-            "height": 65
-        }
+        "uniqueid": "796119eb-97ca-4edf-b513-27c15b57e4e7",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 650400,
-        "average_fuel_consumption": 4.85,
         "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
+        "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 1
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 617500,
-        "average_fuel_consumption": 4.65,
         "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
+        "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 634000,
-        "average_fuel_consumption": 6.35,
         "configuration": "Zen",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
+        "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 811500,
-        "average_fuel_consumption": 5.25,
         "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.6,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
+        "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 4
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 716200,
-        "average_fuel_consumption": 6.35,
         "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
+        "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 5
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 732600,
-        "average_fuel_consumption": 4.85,
         "configuration": "Intense",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
+        "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 6
     },
     {
-        "manufacturer": "Renault",
         "model": "KADJAR",
-        "price": 775300,
-        "average_fuel_consumption": 4.85,
         "configuration": "Black Edition",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 19,
-            "width": 225,
-            "height": 45
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 518900,
-        "average_fuel_consumption": 6.449999999999999,
-        "configuration": "Life",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 215,
-            "height": 65
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 650400,
-        "average_fuel_consumption": 4.85,
-        "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 617500,
-        "average_fuel_consumption": 4.65,
-        "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 634000,
-        "average_fuel_consumption": 6.35,
-        "configuration": "Zen",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 811500,
-        "average_fuel_consumption": 5.25,
-        "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.6,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 18,
-            "width": 215,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 716200,
-        "average_fuel_consumption": 6.35,
-        "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 732600,
-        "average_fuel_consumption": 4.85,
-        "configuration": "Intense",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 17,
-            "width": 215,
-            "height": 60
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "KADJAR",
-        "price": 775300,
-        "average_fuel_consumption": 4.85,
-        "configuration": "Black Edition",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 19,
-            "width": 225,
-            "height": 45
-        }
+        "uniqueid": "c2389d46-3a54-4e1f-a8aa-171e92792870",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 7
     }
 ]

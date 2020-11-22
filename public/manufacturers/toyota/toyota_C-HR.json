@@ -1,0 +1,198 @@
+[
+    {
+        "model": "C-HR",
+        "configuration": "ACTIVE",
+        "uniqueid": "0d71569a-af30-4a64-af61-f2aa6738332c",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4390,
+            "width": 1795,
+            "height": 1565,
+            "wheelbase": 2640,
+            "front_track_width": 1550,
+            "rear_track_width": 1570,
+            "overhang_ahead": 935,
+            "overhang_behind": 815,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.0,
+            "fuel_consumption_extra_urban": 5.7,
+            "fuel_consumption_combined": 6.6,
+            "co2_emissions": 181.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.197,
+            "power": 116,
+            "torque": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 185,
+            "acceleration100": 11.1
+        },
+        "id": 0
+    },
+    {
+        "model": "C-HR",
+        "configuration": "ACTIVE",
+        "uniqueid": "16727f82-3ca1-45ba-9302-eed8c5ba9822",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4390,
+            "width": 1795,
+            "height": 1565,
+            "wheelbase": 2640,
+            "front_track_width": 1550,
+            "rear_track_width": 1570,
+            "overhang_ahead": 935,
+            "overhang_behind": 815,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 43,
+            "fuel_consumption_urban": 3.8,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 4.2,
+            "co2_emissions": 95.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.798,
+            "power": 122,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 11.0
+        },
+        "id": 1
+    },
+    {
+        "model": "C-HR",
+        "configuration": "ACTIVE",
+        "uniqueid": "663b9cec-26bc-4e4d-a9f2-3d596e0b8aee",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 1795,
+            "height": 1555,
+            "wheelbase": 2640,
+            "front_track_width": 1550,
+            "rear_track_width": 1570,
+            "overhang_ahead": 935,
+            "overhang_behind": 820,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 43,
+            "fuel_consumption_urban": 4.0,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 4.3,
+            "co2_emissions": 99.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 135,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.2
+        },
+        "id": 2
+    },
+    {
+        "model": "C-HR",
+        "configuration": "PREMIUM",
+        "uniqueid": "238af0d6-4f57-4ba5-a6b0-449b28dac0c2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 1795,
+            "height": 1555,
+            "wheelbase": 2640,
+            "front_track_width": 1550,
+            "rear_track_width": 1570,
+            "overhang_ahead": 935,
+            "overhang_behind": 820,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 43,
+            "fuel_consumption_urban": 4.0,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 4.3,
+            "co2_emissions": 99.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 184,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.2
+        },
+        "id": 3
+    }
+]

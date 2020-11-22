@@ -1,125 +1,198 @@
 [
     {
-        "date": "2020-10-18T00:20:45.848229"
-    },
-    {
-        "manufacturer": "Renault",
         "model": "DOKKER",
-        "price": 420600,
-        "average_fuel_consumption": 6.0,
         "configuration": "Authentique",
-        "horsepower": 84,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
+        "uniqueid": "6bec1f1c-5b6e-4f0c-be48-57ec8d4ebc6e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
     },
     {
-        "manufacturer": "Renault",
         "model": "DOKKER",
-        "price": 474900,
-        "average_fuel_consumption": 6.0,
         "configuration": "Authentique",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
+        "uniqueid": "6bec1f1c-5b6e-4f0c-be48-57ec8d4ebc6e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 1
     },
     {
-        "manufacturer": "Renault",
         "model": "DOKKER",
-        "price": 431600,
-        "average_fuel_consumption": 6.0,
         "configuration": "Expression",
-        "horsepower": 84,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
+        "uniqueid": "2888dbf2-837b-4402-b98d-b1d6c584d038",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
     },
     {
-        "manufacturer": "Renault",
         "model": "DOKKER",
-        "price": 486000,
-        "average_fuel_consumption": 6.0,
         "configuration": "Expression",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "DOKKER",
-        "price": 420600,
-        "average_fuel_consumption": 6.05,
-        "configuration": "Authentique",
-        "horsepower": 84,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "DOKKER",
-        "price": 474900,
-        "average_fuel_consumption": 6.05,
-        "configuration": "Authentique",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "DOKKER",
-        "price": 431600,
-        "average_fuel_consumption": 6.05,
-        "configuration": "Expression",
-        "horsepower": 84,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "DOKKER",
-        "price": 486000,
-        "average_fuel_consumption": 6.05,
-        "configuration": "Expression",
-        "horsepower": 90,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 15,
-            "width": 185,
-            "height": 65
-        }
+        "uniqueid": "2888dbf2-837b-4402-b98d-b1d6c584d038",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3
     }
 ]

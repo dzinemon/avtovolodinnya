@@ -1,20 +1,51 @@
 [
     {
         "model": "2_F87",
-        "designation": "M2 Competition",
-        "price": 1948129,
-        "average_fuel_consumption": 14.399999999999999,
         "configuration": "M2 Competition",
-        "horsepower": 410,
-        "engine_displacement": 2.979
-    },
-    {
-        "model": "2_F87",
-        "designation": "M2 CS",
-        "price": 2874515,
-        "average_fuel_consumption": 15.05,
-        "configuration": "M2 CS",
-        "horsepower": 450,
-        "engine_displacement": 2.979
+        "uniqueid": "1c879095-c271-4793-b96c-381129c7956d",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
     }
 ]

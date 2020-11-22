@@ -1,245 +1,394 @@
 [
     {
-        "date": "2020-10-18T00:20:45.843241"
-    },
-    {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 435900,
-        "average_fuel_consumption": 6.949999999999999,
         "configuration": "Life",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "d08b5654-d26b-484c-a097-4820e59987cd",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 498600,
-        "average_fuel_consumption": 4.55,
         "configuration": "Life",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "d08b5654-d26b-484c-a097-4820e59987cd",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 1
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 483900,
-        "average_fuel_consumption": 6.949999999999999,
         "configuration": "Zen",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "4b87daa9-2713-4c1a-b065-4a3bf44b439e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 513200,
-        "average_fuel_consumption": 7.25,
         "configuration": "Zen",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "4b87daa9-2713-4c1a-b065-4a3bf44b439e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 533700,
-        "average_fuel_consumption": 4.55,
         "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "4b87daa9-2713-4c1a-b065-4a3bf44b439e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 4
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 573200,
-        "average_fuel_consumption": 4.55,
         "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "4b87daa9-2713-4c1a-b065-4a3bf44b439e",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 5
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 618100,
-        "average_fuel_consumption": 4.55,
         "configuration": "Intense",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "c6f3c66b-55cc-47bf-a73d-a62175c1a1a2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 6
     },
     {
-        "manufacturer": "Renault",
         "model": "MEGANE Sedan",
-        "price": 616600,
-        "average_fuel_consumption": 6.05,
         "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 435900,
-        "average_fuel_consumption": 6.949999999999999,
-        "configuration": "Life",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 498600,
-        "average_fuel_consumption": 4.55,
-        "configuration": "Life",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 483900,
-        "average_fuel_consumption": 6.949999999999999,
-        "configuration": "Zen",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 513200,
-        "average_fuel_consumption": 7.25,
-        "configuration": "Zen",
-        "horsepower": 115,
-        "engine_displacement": 1.6,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 533700,
-        "average_fuel_consumption": 4.55,
-        "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 573200,
-        "average_fuel_consumption": 4.55,
-        "configuration": "Zen",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 618100,
-        "average_fuel_consumption": 4.55,
-        "configuration": "Intense",
-        "horsepower": 110,
-        "engine_displacement": 1.5,
-        "fuel": "diesel",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
-    },
-    {
-        "manufacturer": "Renault",
-        "model": "MEGANE Sedan",
-        "price": 616600,
-        "average_fuel_consumption": 6.05,
-        "configuration": "Intense",
-        "horsepower": 130,
-        "engine_displacement": 1.2,
-        "fuel": "petrol",
-        "wheel": {
-            "radius": 16,
-            "width": 205,
-            "height": 55
-        }
+        "uniqueid": "c6f3c66b-55cc-47bf-a73d-a62175c1a1a2",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 7
     }
 ]
