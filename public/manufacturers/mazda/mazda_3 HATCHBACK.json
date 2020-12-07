@@ -1,0 +1,102 @@
+[
+    {
+        "model": "3 HATCHBACK",
+        "configuration": "EXCLUSIVE",
+        "uniqueid": "3049dde0-61c3-4bcd-8853-2a38e5b6bb7d",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 205,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4460,
+            "width": 2028,
+            "height": 1435,
+            "wheelbase": 2725,
+            "front_track_width": 1570,
+            "rear_track_width": 1580,
+            "overhang_ahead": 915,
+            "overhang_behind": 820,
+            "turning_diameter": 5.69
+        },
+        "fuel": {
+            "fuel_tank_capacity": 51,
+            "fuel_consumption_urban": 6.8,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 131.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.496,
+            "power": 120,
+            "torque": 153,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 193,
+            "acceleration100": 12.1
+        },
+        "id": 0,
+        "deprecated": "true"
+    },
+    {
+        "model": "3 HATCHBACK",
+        "configuration": "STYLE",
+        "uniqueid": "6508e65d-dee1-41d0-b99b-a2ec9edf9019",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 205,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4460,
+            "width": 2028,
+            "height": 1435,
+            "wheelbase": 2725,
+            "front_track_width": 1570,
+            "rear_track_width": 1580,
+            "overhang_ahead": 915,
+            "overhang_behind": 820,
+            "turning_diameter": 5.69
+        },
+        "fuel": {
+            "fuel_tank_capacity": 51,
+            "fuel_consumption_urban": 6.8,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 131.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.496,
+            "power": 120,
+            "torque": 153,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 193,
+            "acceleration100": 12.1
+        },
+        "id": 1,
+        "deprecated": "true"
+    }
+]

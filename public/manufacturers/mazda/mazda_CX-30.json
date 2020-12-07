@@ -1,0 +1,247 @@
+[
+    {
+        "model": "CX-30",
+        "configuration": "EXECUTIVE",
+        "uniqueid": "e662265e-3e6b-4abf-bcda-21bddfcca978",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 2040,
+            "height": 1535,
+            "wheelbase": 2655,
+            "front_track_width": 1565,
+            "rear_track_width": 1565,
+            "overhang_ahead": 1052,
+            "overhang_behind": 980,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 51,
+            "fuel_consumption_urban": 6.8,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 5.5,
+            "co2_emissions": 126.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 213,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 194,
+            "acceleration100": 10.0
+        },
+        "id": 0
+    },
+    {
+        "model": "CX-30",
+        "configuration": "EXECUTIVE",
+        "uniqueid": "2cda338a-867e-49a8-bbf3-3d11de17a9bd",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 2040,
+            "height": 1540,
+            "wheelbase": 2655,
+            "front_track_width": 1565,
+            "rear_track_width": 1565,
+            "overhang_ahead": 915,
+            "overhang_behind": 825,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 48,
+            "fuel_consumption_urban": 7.3,
+            "fuel_consumption_extra_urban": 5.3,
+            "fuel_consumption_combined": 6.0,
+            "co2_emissions": 136.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 213,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 193,
+            "acceleration100": 10.4
+        },
+        "id": 1
+    },
+    {
+        "model": "CX-30",
+        "configuration": "PREMIUM",
+        "uniqueid": "d37ec229-2a98-40e0-acc5-39d54acfeb26",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 2040,
+            "height": 1540,
+            "wheelbase": 2655,
+            "front_track_width": 1565,
+            "rear_track_width": 1565,
+            "overhang_ahead": 915,
+            "overhang_behind": 825,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 51,
+            "fuel_consumption_urban": 6.8,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 5.5,
+            "co2_emissions": 126.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 213,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 194,
+            "acceleration100": 10.0
+        },
+        "id": 2
+    },
+    {
+        "model": "CX-30",
+        "configuration": "STYLE",
+        "uniqueid": "9e640e02-c463-4084-a20c-b085c2934175",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 215,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 2040,
+            "height": 1540,
+            "wheelbase": 2655,
+            "front_track_width": 1565,
+            "rear_track_width": 1565,
+            "overhang_ahead": 915,
+            "overhang_behind": 825,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 51,
+            "fuel_consumption_urban": 6.8,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 5.5,
+            "co2_emissions": 126.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 213,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 194,
+            "acceleration100": 10.0
+        },
+        "id": 3
+    },
+    {
+        "model": "CX-30",
+        "configuration": "PREMIUM",
+        "uniqueid": "9ada7930-dee5-4f81-84ab-9192468e892b",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 4
+    }
+]

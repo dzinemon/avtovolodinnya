@@ -1,0 +1,149 @@
+[
+    {
+        "model": "6 SEDAN",
+        "configuration": "TOURING",
+        "uniqueid": "b65d52e1-b1a0-432b-bec4-10690a3ffd0e",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4870,
+            "width": 2090,
+            "height": 1450,
+            "wheelbase": 2830,
+            "front_track_width": 1585,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1083,
+            "overhang_behind": 1063,
+            "turning_diameter": 6.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 62,
+            "fuel_consumption_urban": 7.3,
+            "fuel_consumption_extra_urban": 5.4,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 141.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.998,
+            "power": 165,
+            "torque": 213,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 209,
+            "acceleration100": 10.5
+        },
+        "id": 0
+    },
+    {
+        "model": "6 SEDAN",
+        "configuration": "TOP",
+        "uniqueid": "bb7265c5-fb23-43e1-9cbc-ac4759bbebe4",
+        "year": 2020,
+        "tire": {
+            "radius": 19,
+            "width": 225,
+            "height": 45
+        },
+        "dimensions": {
+            "length": 4870,
+            "width": 2090,
+            "height": 1450,
+            "wheelbase": 2830,
+            "front_track_width": 1595,
+            "rear_track_width": 1585,
+            "overhang_ahead": 1129,
+            "overhang_behind": 1066,
+            "turning_diameter": 6.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 62,
+            "fuel_consumption_urban": 8.8,
+            "fuel_consumption_extra_urban": 5.4,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 153.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.488,
+            "power": 194,
+            "torque": 258,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 223,
+            "acceleration100": 8.1
+        },
+        "id": 1
+    },
+    {
+        "model": "6 SEDAN",
+        "configuration": "STYLE+",
+        "uniqueid": "60d3f27c-0784-4cbb-a02f-bbf058449c47",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4870,
+            "width": 2090,
+            "height": 1450,
+            "wheelbase": 2830,
+            "front_track_width": 1595,
+            "rear_track_width": 1585,
+            "overhang_ahead": 1129,
+            "overhang_behind": 1066,
+            "turning_diameter": 6.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 62,
+            "fuel_consumption_urban": 8.8,
+            "fuel_consumption_extra_urban": 5.4,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 153.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.488,
+            "power": 194,
+            "torque": 258,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 223,
+            "acceleration100": 8.1
+        },
+        "id": 2
+    }
+]
