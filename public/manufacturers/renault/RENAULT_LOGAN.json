@@ -10,37 +10,37 @@
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 6.9,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 150,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
+            "engine_displacement": 0.999, 
+            "power": 75,
             "torque": 0,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -53,43 +53,43 @@
         "configuration": "Life+",
         "uniqueid": "6a2364fb-1ad8-49a9-aff4-834f366f2ab4",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 6.9,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 150,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
+            "engine_displacement": 0.999, 
+            "power": 75,
             "torque": 0,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -102,43 +102,43 @@
         "configuration": "Life+",
         "uniqueid": "6a2364fb-1ad8-49a9-aff4-834f366f2ab4",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.8,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -151,43 +151,43 @@
         "configuration": "Life+",
         "uniqueid": "6a2364fb-1ad8-49a9-aff4-834f366f2ab4",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -200,43 +200,43 @@
         "configuration": "Life+",
         "uniqueid": "6a2364fb-1ad8-49a9-aff4-834f366f2ab4",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.4,
+            "fuel_consumption_extra_urban": 3.7,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 103,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461, 
+            "power": 90,
+            "torque": 220,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -249,43 +249,43 @@
         "configuration": "Zen",
         "uniqueid": "fe315a99-7144-4756-9e56-728137e0487e",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.8,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -298,43 +298,43 @@
         "configuration": "Zen",
         "uniqueid": "fe315a99-7144-4756-9e56-728137e0487e",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898,
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -347,43 +347,43 @@
         "configuration": "Zen",
         "uniqueid": "fe315a99-7144-4756-9e56-728137e0487e",
         "year": 2020,
-        "tire": {
+       "tire": {
             "radius": 0,
             "width": 0,
             "height": 0
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.4,
+            "fuel_consumption_extra_urban": 3.7,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 103,
+            "emission_standard": "Evro-6" 
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461, 
+            "power": 90,
+            "torque": 220,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,

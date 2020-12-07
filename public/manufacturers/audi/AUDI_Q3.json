@@ -1,8 +1,8 @@
 [
     {
         "model": "Q3",
-        "configuration": "BASIS",
-        "uniqueid": "d39e0e3b-f8fe-42c1-af8e-a11dc7166b16",
+        "configuration": "BASIS 35 TFSI",
+        "uniqueid": "8fe872bd-0629-4b49-80b9-34ffb80c6e15",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -18,18 +18,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -44,14 +44,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 0
     },
     {
         "model": "Q3",
-        "configuration": "BASIS",
-        "uniqueid": "41650a06-3452-4f05-89ed-6bf07af736e4",
+        "configuration": "BASIS 40 TFSI quattro",
+        "uniqueid": "2a9438b8-03b0-45f3-b843-eb487b498aec",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -67,18 +67,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -93,14 +93,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 1
     },
     {
         "model": "Q3",
-        "configuration": "ADVANCED",
-        "uniqueid": "8e24a045-aa6b-4335-8ec7-9a38250b3a75",
+        "configuration": "ADVANCED 35 TFSI advanced",
+        "uniqueid": "3a46ad9e-4249-48ad-b443-b7a044ed838b",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -116,18 +116,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -142,14 +142,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 2
     },
     {
         "model": "Q3",
-        "configuration": "ADVANCED",
-        "uniqueid": "d0326090-b0e2-48b3-afd5-5e20826a7a5c",
+        "configuration": "ADVANCED 40 TFSI quattro advanced",
+        "uniqueid": "e33dabbe-d4be-43a5-a886-3446a6af6efb",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -165,18 +165,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -191,14 +191,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 3
     },
     {
         "model": "Q3",
-        "configuration": "S LINE",
-        "uniqueid": "49990977-7f68-446b-9f4d-4162a2ec1e49",
+        "configuration": "S LINE 35 TFSI line",
+        "uniqueid": "31e00376-40e2-4630-b2bb-6b4ba1811b1a",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -214,18 +214,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -240,14 +240,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 4
     },
     {
         "model": "Q3",
-        "configuration": "S LINE",
-        "uniqueid": "ca71e98d-d303-424a-8c8b-7cae6f682d92",
+        "configuration": "S LINE 40 TFSI quattro line",
+        "uniqueid": "dc61d728-0e2f-4478-b531-f7978f66b1e6",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -263,18 +263,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -289,302 +289,8 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 5
-    },
-    {
-        "model": "Q3",
-        "configuration": "BASIS 35 TFSI",
-        "uniqueid": "230a0683-a1af-4381-84a1-1ef963ba9193",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 32
-    },
-    {
-        "model": "Q3",
-        "configuration": "BASIS 40 TFSI quattro",
-        "uniqueid": "2c74c579-daa3-44ea-a2d8-85f7c9f8869d",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 33
-    },
-    {
-        "model": "Q3",
-        "configuration": "ADVANCED 35 TFSI advanced",
-        "uniqueid": "7d7b9407-4942-482a-accc-b9c38bae4b3e",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 34
-    },
-    {
-        "model": "Q3",
-        "configuration": "ADVANCED 40 TFSI quattro advanced",
-        "uniqueid": "47f500f0-83cf-4740-ba84-3d6b3d675e9a",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 35
-    },
-    {
-        "model": "Q3",
-        "configuration": "S LINE 35 TFSI S line",
-        "uniqueid": "5ef7470f-6e88-41b7-8358-ae4fb06b0d5e",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 36
-    },
-    {
-        "model": "Q3",
-        "configuration": "S LINE 40 TFSI quattro S line",
-        "uniqueid": "fbf7a36a-0a05-4cbf-b531-3d9eac4b7162",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 37
     }
 ]

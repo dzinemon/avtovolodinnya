@@ -2,56 +2,7 @@
     {
         "model": "RS Q8",
         "configuration": "RS Q8",
-        "uniqueid": "a1239f58-d254-4df8-bc28-e8e04382edc2",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 0
-    },
-    {
-        "model": "RS Q8",
-        "configuration": "RS Q8 Q8",
-        "uniqueid": "2d1bfa44-e187-474c-bb69-6b7be27985ba",
+        "uniqueid": "5fabdc66-cf73-48d7-914d-fb2e880cec48",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -95,6 +46,6 @@
             "maximum_speed": 0,
             "acceleration100": 0
         },
-        "id": 52
+        "id": 0
     }
 ]

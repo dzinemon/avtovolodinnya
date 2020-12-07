@@ -1,8 +1,8 @@
 [
     {
         "model": "Q7",
-        "configuration": "BASIS",
-        "uniqueid": "36b08728-796b-4071-8f9e-fb74625ab4e4",
+        "configuration": "BASIS 55 TFSI quattro",
+        "uniqueid": "937f1382-2ccc-4844-9d49-dbbf97733db1",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -18,18 +18,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -44,14 +44,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 0
     },
     {
         "model": "Q7",
-        "configuration": "BASIS",
-        "uniqueid": "ae55107b-fcfb-42e8-affa-46111dedd3be",
+        "configuration": "BASIS 50 TDI quattro",
+        "uniqueid": "11f47fad-9e6d-4d2f-8d07-6ca5f7076778",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -67,18 +67,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -93,14 +93,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 1
     },
     {
         "model": "Q7",
-        "configuration": "S LINE",
-        "uniqueid": "92219d7c-2354-4758-8b16-a8e511690806",
+        "configuration": "S LINE 55 TFSI quattro line",
+        "uniqueid": "ac871870-4832-432a-8ae1-570b5684c384",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -116,18 +116,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -142,14 +142,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 2
     },
     {
         "model": "Q7",
-        "configuration": "S LINE",
-        "uniqueid": "8173631c-ba9a-4723-aaf5-0de80a7b648f",
+        "configuration": "S LINE 50 TDI quattro line",
+        "uniqueid": "57e4ba1b-2186-4c95-8f06-67bf48c1bf55",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -165,18 +165,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -191,14 +191,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 3
     },
     {
         "model": "Q7",
-        "configuration": "SQ7",
-        "uniqueid": "e7939319-ae24-42cf-bb74-257929441dcb",
+        "configuration": "SQ7 TDI quattro",
+        "uniqueid": "8d38ffef-cda1-4468-b450-684863f865ea",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -214,18 +214,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -240,253 +240,8 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 4
-    },
-    {
-        "model": "Q7",
-        "configuration": "BASIS 55 TFSI quattro",
-        "uniqueid": "84ab5aa3-ece3-4519-8b5a-d67365dac265",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 42
-    },
-    {
-        "model": "Q7",
-        "configuration": "BASIS 50 TDI quattro",
-        "uniqueid": "636969a2-4673-470a-99db-0cdd4fdfbb99",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 43
-    },
-    {
-        "model": "Q7",
-        "configuration": "S LINE 55 TFSI quattro S line",
-        "uniqueid": "db068f66-cef8-4a11-b978-d10c8659e790",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 44
-    },
-    {
-        "model": "Q7",
-        "configuration": "S LINE 50 TDI quattro S line",
-        "uniqueid": "6dd338f1-5ba0-40d3-98ed-c6fe3f8caecb",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 45
-    },
-    {
-        "model": "Q7",
-        "configuration": "SQ7 TDI quattro",
-        "uniqueid": "4eaadda0-3646-4a02-9f49-343e214b12d4",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 46
     }
 ]

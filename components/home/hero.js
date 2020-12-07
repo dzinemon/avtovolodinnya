@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <main className="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-36 xl:py-20 flex flex-wrap">
+    <main className="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 md:mt-16 lg:mt-20 xl:mt-36 xl:py-20 flex flex-wrap">
       <div className="text-center lg:text-left lg:w-2/3 w-full">
         <h1 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
           Вартість володіння

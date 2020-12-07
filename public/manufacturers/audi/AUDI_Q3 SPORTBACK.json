@@ -1,8 +1,8 @@
 [
     {
         "model": "Q3 Sportback",
-        "configuration": "BASIS",
-        "uniqueid": "0b19b344-f463-4b9e-b618-6b3a4e25c411",
+        "configuration": "BASIS Sportback 35 TFSI",
+        "uniqueid": "47866178-b7aa-4b86-9bcb-1167ba183915",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -18,18 +18,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -44,14 +44,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 0
     },
     {
         "model": "Q3 Sportback",
-        "configuration": "BASIS",
-        "uniqueid": "adc9c328-4ae4-4c13-b290-c0018fc4fe5f",
+        "configuration": "BASIS Sportback 40 TFSI quattro",
+        "uniqueid": "5649cf78-695c-42f8-8f5c-a33c53462a07",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -67,18 +67,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -93,14 +93,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 1
     },
     {
         "model": "Q3 Sportback",
-        "configuration": "S LINE",
-        "uniqueid": "9d2f07d2-8b67-4875-9f1f-f461f3b78c4a",
+        "configuration": "S LINE Sportback 35 TFSI line",
+        "uniqueid": "f9991fe4-9519-4708-88ca-22f9732ee307",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -116,18 +116,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -142,14 +142,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 2
     },
     {
         "model": "Q3 Sportback",
-        "configuration": "S LINE",
-        "uniqueid": "3d8d23f8-9c06-4072-b63a-2099fee171a8",
+        "configuration": "S LINE Sportback 40 TFSI quattro line",
+        "uniqueid": "9255f653-11ca-40b0-9bd4-b750ba6b1b1c",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -165,18 +165,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -191,204 +191,8 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 3
-    },
-    {
-        "model": "Q3 Sportback",
-        "configuration": "BASIS Sportback 35 TFSI",
-        "uniqueid": "8918e13b-7dfc-41fa-8a2b-c9e63cb7eac1",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 38
-    },
-    {
-        "model": "Q3 Sportback",
-        "configuration": "BASIS Sportback 40 TFSI quattro",
-        "uniqueid": "dbf65963-0e1e-4e9f-8cb6-aa4262069e6a",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 39
-    },
-    {
-        "model": "Q3 Sportback",
-        "configuration": "S LINE Sportback 35 TFSI S line",
-        "uniqueid": "ffb754b3-9b92-41ba-a77c-238a686c9fa2",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 40
-    },
-    {
-        "model": "Q3 Sportback",
-        "configuration": "S LINE Sportback 40 TFSI quattro S line",
-        "uniqueid": "2159520f-c0e8-47bd-8aea-986c867f1f9c",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 41
     }
 ]

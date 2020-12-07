@@ -32,19 +32,19 @@
             "engine_displacement": 1.462,
             "power": 102,
             "torque": 130,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K15B"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 145,
-            "acceleration100": 0.0 
+            "acceleration100": 0.0
         },
         "id": 0
     },
@@ -81,19 +81,19 @@
             "engine_displacement": 1.462,
             "power": 102,
             "torque": 130,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K15B"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 145,
-            "acceleration100": 0.0 
+            "acceleration100": 0.0
         },
         "id": 1
     },
@@ -130,19 +130,19 @@
             "engine_displacement": 1.462,
             "power": 102,
             "torque": 130,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K15B"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 4,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 140,
-            "acceleration100": 0.0 
+            "acceleration100": 0.0
         },
         "id": 2
     },
@@ -179,19 +179,19 @@
             "engine_displacement": 1.462,
             "power": 102,
             "torque": 130,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K15B"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 4,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 140,
-            "acceleration100": 0.0 
+            "acceleration100": 0.0
         },
         "id": 3
     }

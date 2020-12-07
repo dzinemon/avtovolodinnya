@@ -46,7 +46,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 0
+        "id": 0,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -95,7 +96,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 1
+        "id": 1,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -144,7 +146,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 2
+        "id": 2,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -193,7 +196,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 3
+        "id": 3,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -242,7 +246,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 4
+        "id": 4,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -291,7 +296,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 5
+        "id": 5,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -340,7 +346,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 6
+        "id": 6,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -389,7 +396,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 7
+        "id": 7,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -438,7 +446,8 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 8
+        "id": 8,
+        "deprecated": "true"
     },
     {
         "model": "A6",
@@ -459,18 +468,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -485,9 +494,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 10
+        "id": 9
     },
     {
         "model": "A6",
@@ -508,18 +517,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -534,9 +543,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 11
+        "id": 10
     },
     {
         "model": "A6",
@@ -557,18 +566,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -583,9 +592,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 12
+        "id": 11
     },
     {
         "model": "A6",
@@ -606,18 +615,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -632,9 +641,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 13
+        "id": 12
     },
     {
         "model": "A6",
@@ -655,18 +664,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -681,9 +690,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 14
+        "id": 13
     },
     {
         "model": "A6",
@@ -704,18 +713,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -730,9 +739,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 15
+        "id": 14
     },
     {
         "model": "A6",
@@ -753,18 +762,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -779,9 +788,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 16
+        "id": 15
     },
     {
         "model": "A6",
@@ -802,18 +811,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -828,9 +837,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 17
+        "id": 16
     },
     {
         "model": "A6",
@@ -851,18 +860,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0.0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -877,8 +886,8 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 18
+        "id": 17
     }
 ]

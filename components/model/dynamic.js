@@ -101,7 +101,6 @@ function ModelDynamic(props) {
 
   useEffect(() => {
     fetch(url).then(response => {
-      // console.log(response);
       
       return response.text();
     }).then(data => {
@@ -133,21 +132,22 @@ function ModelDynamic(props) {
 
 
   useEffect(() => {
-    fetch(priceUrl).then(response => {
-      console.log(response);
-      
-      return response.text();
-    }).then(data => {
-      const currentCarPrices = JSON.parse(data);
-      const actualPrice = currentCarPrices[currentCarPrices.length - 1].price;
-      // const carsData = carsData0.filter(i => typeof i.model === 'string');
-      console.log(actualPrice)
-      setPrice(actualPrice)
-
-    }).catch(err => {
-      // Do something for an error here
-      console.log("Error Reading data " + err);
-    });
+    if (typeof uniqueid === 'string') {
+      fetch(priceUrl).then(response => {
+        // console.log(response);
+        
+        return response.text();
+      }).then(data => {
+        const currentCarPrices = JSON.parse(data);
+        const actualPrice = currentCarPrices[currentCarPrices.length - 1].price;
+        setPrice(actualPrice)
+  
+      }).catch(err => {
+        // Do something for an error here
+        console.log("Error Reading data " + err);
+      });
+    }
+    
   }, [ uniqueid ] );
 
   const parkingExpenses = parking === "free" ? 0 : parkingPrice * 12;

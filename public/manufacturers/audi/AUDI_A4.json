@@ -1,8 +1,8 @@
 [
     {
         "model": "A4",
-        "configuration": "BASIS",
-        "uniqueid": "3343d3c4-b3a2-4fa4-8241-6cdcd8783ff2",
+        "configuration": "BASIS 40 TFSI",
+        "uniqueid": "79c583ab-9329-4d20-bfcc-f3b1f96b25ee",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -18,18 +18,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -44,455 +44,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 0
     },
     {
         "model": "A4",
-        "configuration": "BASIS",
-        "uniqueid": "a7e5f744-eefc-434c-846e-200ae304dbb1",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 1
-    },
-    {
-        "model": "A4",
-        "configuration": "BASIS",
-        "uniqueid": "30249b5e-be48-48b1-aa1c-3bf5ef7f607b",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 2
-    },
-    {
-        "model": "A4",
-        "configuration": "ADVANCED",
-        "uniqueid": "54b59945-bc81-4f89-8b7c-ac2224b42ee6",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 3
-    },
-    {
-        "model": "A4",
-        "configuration": "ADVANCED",
-        "uniqueid": "ccb0aa54-487f-41e7-b313-17cca5885027",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 4
-    },
-    {
-        "model": "A4",
-        "configuration": "ADVANCED",
-        "uniqueid": "811eb1d6-cec4-4495-adff-ad75f39d815d",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 5
-    },
-    {
-        "model": "A4",
-        "configuration": "S LINE",
-        "uniqueid": "08f85565-d8a3-4e82-b27f-04a96253f036",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 6
-    },
-    {
-        "model": "A4",
-        "configuration": "S LINE",
-        "uniqueid": "27715776-1283-402d-8bc3-0b38c8a76284",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 7
-    },
-    {
-        "model": "A4",
-        "configuration": "S LINE",
-        "uniqueid": "b1a3b9ed-fe48-4a9c-afb0-22e8ff5ed289",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0.0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
-        },
-        "id": 8
-    },
-    {
-        "model": "A4",
-        "configuration": "BASIS 40 TFSI",
-        "uniqueid": "6f6ea1dc-e78f-4270-9f1f-9d22a7eedb76",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 1
-    },
-    {
-        "model": "A4",
         "configuration": "BASIS 45 TFSI quattro",
-        "uniqueid": "0abded4f-b55f-4068-9fcc-7e5c7efe87bd",
+        "uniqueid": "291257a4-c9a8-47f2-aabd-554c104aa063",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -536,12 +95,61 @@
             "maximum_speed": 0,
             "acceleration100": 0
         },
-        "id": 2
+        "id": 1
     },
     {
         "model": "A4",
         "configuration": "BASIS 40 TDI quattro",
-        "uniqueid": "37e7ef74-3337-4ba2-8246-e20033906aa4",
+        "uniqueid": "2fc91db2-a468-495d-a717-e4ac9e061337",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2
+    },
+    {
+        "model": "A4",
+        "configuration": "ADVANCED 40 TFSI advanced",
+        "uniqueid": "91a6d6cd-f7b1-47d2-a779-bf995e302b9f",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -589,8 +197,8 @@
     },
     {
         "model": "A4",
-        "configuration": "ADVANCED 40 TFSI advanced",
-        "uniqueid": "b56464af-23b3-496d-830b-1bbae26e6a1d",
+        "configuration": "ADVANCED 45 TFSI quattro advanced",
+        "uniqueid": "60fa7a93-e307-4bea-9699-50f5a90d41a0",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -638,8 +246,8 @@
     },
     {
         "model": "A4",
-        "configuration": "ADVANCED 45 TFSI quattro advanced",
-        "uniqueid": "28656f8e-1220-4083-939c-decafd01388c",
+        "configuration": "ADVANCED 40 TDI quattro advanced",
+        "uniqueid": "7104971c-0610-47fa-98b5-af9ba03213fc",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -687,8 +295,8 @@
     },
     {
         "model": "A4",
-        "configuration": "ADVANCED 40 TDI quattro advanced",
-        "uniqueid": "6a5ec47e-fa2a-4095-a7a0-2fc6850d3af6",
+        "configuration": "S LINE 40 TFSI line",
+        "uniqueid": "5b466d77-fd71-4b47-bb53-2a8f3a582a03",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -736,8 +344,8 @@
     },
     {
         "model": "A4",
-        "configuration": "S LINE 40 TFSI S line",
-        "uniqueid": "7ebf295e-2ff1-4e86-b67d-a36cd203ba60",
+        "configuration": "S LINE 45 TFSI quattro line",
+        "uniqueid": "0f587859-065a-4b9c-bddb-f0a7b06c080d",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -785,8 +393,8 @@
     },
     {
         "model": "A4",
-        "configuration": "S LINE 45 TFSI quattro S line",
-        "uniqueid": "096272f4-6d90-4265-9f1d-42688d9254a8",
+        "configuration": "S LINE 40 TDI quattro line",
+        "uniqueid": "32147892-d8b9-41a4-9344-2aa61da44d79",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -831,54 +439,5 @@
             "acceleration100": 0
         },
         "id": 8
-    },
-    {
-        "model": "A4",
-        "configuration": "S LINE 40 TDI quattro S line",
-        "uniqueid": "6d399441-258c-437f-a355-d2877bf6587a",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 9
     }
 ]

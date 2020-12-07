@@ -7,7 +7,7 @@
         "tire": {
             "radius": 16,
             "width": 215,
-            "height": 60 
+            "height": 60
         },
         "dimensions": {
             "length": 4300,
@@ -25,22 +25,22 @@
             "fuel_consumption_urban": 5.9,
             "fuel_consumption_extra_urban": 7.2,
             "fuel_consumption_combined": 5.1,
-            "co2_emissions": 0.0,  
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-5"
         },
         "engine": {
             "engine_displacement": 1.586,
             "power": 117,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -56,7 +56,7 @@
         "tire": {
             "radius": 16,
             "width": 215,
-            "height": 60 
+            "height": 60
         },
         "dimensions": {
             "length": 4300,
@@ -74,22 +74,22 @@
             "fuel_consumption_urban": 6.0,
             "fuel_consumption_extra_urban": 7.6,
             "fuel_consumption_combined": 5.1,
-            "co2_emissions": 0.0,  
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-5"
         },
         "engine": {
             "engine_displacement": 1.586,
             "power": 117,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 170,
@@ -102,10 +102,10 @@
         "configuration": "GLX",
         "uniqueid": "7eaa49a1-0a10-4178-b675-a6ac35826c00",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 16,
             "width": 215,
-            "height": 60 
+            "height": 60
         },
         "dimensions": {
             "length": 4300,
@@ -114,7 +114,7 @@
             "wheelbase": 2600,
             "front_track_width": 1535,
             "rear_track_width": 1505,
-            "overhang_ahead": 0,  
+            "overhang_ahead": 0,
             "overhang_behind": 0,
             "turning_diameter": 1.4
         },
@@ -123,22 +123,22 @@
             "fuel_consumption_urban": 6.0,
             "fuel_consumption_extra_urban": 7.6,
             "fuel_consumption_combined": 5.1,
-            "co2_emissions": 0.0,  
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-5"
         },
         "engine": {
             "engine_displacement": 1.586,
             "power": 117,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 170,
@@ -154,7 +154,7 @@
         "tire": {
             "radius": 16,
             "width": 215,
-            "height": 60  
+            "height": 60
         },
         "dimensions": {
             "length": 4300,
@@ -172,22 +172,22 @@
             "fuel_consumption_urban": 6.1,
             "fuel_consumption_extra_urban": 7.4,
             "fuel_consumption_combined": 5.3,
-            "co2_emissions": 0.0, 
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-5"
         },
         "engine": {
             "engine_displacement": 1.586,
             "power": 117,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -200,10 +200,10 @@
         "configuration": "GL",
         "uniqueid": "e3ef5de6-1315-4115-8062-0ed6d9a2c164",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 16,
             "width": 215,
-            "height": 60 
+            "height": 60
         },
         "dimensions": {
             "length": 4300,
@@ -221,22 +221,22 @@
             "fuel_consumption_urban": 6.3,
             "fuel_consumption_extra_urban": 7.8,
             "fuel_consumption_combined": 5.4,
-            "co2_emissions": 0.0,  
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-5"
         },
         "engine": {
             "engine_displacement": 1.586,
             "power": 117,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 165,

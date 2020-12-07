@@ -4,32 +4,32 @@
         "configuration": "Base",
         "uniqueid": "5dfe74ac-3b4f-4ffe-8f46-f59abaf71bb9",
         "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+       "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 123,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0, 
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -39,8 +39,8 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -53,32 +53,32 @@
         "configuration": "Life",
         "uniqueid": "2683866f-6e62-4eb0-a638-dc07f40775c1",
         "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+       "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 123,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0, 
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -88,8 +88,8 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -103,31 +103,31 @@
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
             "turning_diameter": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 123,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
+            "engine_displacement": 0, 
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -137,8 +137,8 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,
@@ -152,46 +152,46 @@
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 169,
+            "acceleration100": 11.1
         },
         "id": 3
     },
@@ -201,46 +201,46 @@
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 175,
+            "acceleration100": 11.0
         },
         "id": 4
     },
@@ -249,47 +249,47 @@
         "configuration": "Life+",
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
         "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+         "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.4,
+            "fuel_consumption_extra_urban": 3.7,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 103,
+            "emission_standard": "Evro-6" 
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461, 
+            "power": 90,
+            "torque": 220,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 167,
+            "acceleration100": 12.2
         },
         "id": 5
     },
@@ -299,46 +299,46 @@
         "uniqueid": "e7670226-cf7e-4f21-ad67-72ac4815df15",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "co2_emissions": 112,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 0.898, 
+            "power": 90,
+            "torque": 140,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 175,
+            "acceleration100": 11.0
         },
         "id": 6
     },
@@ -348,46 +348,46 @@
         "uniqueid": "e7670226-cf7e-4f21-ad67-72ac4815df15",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.4,
+            "fuel_consumption_extra_urban": 3.7,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 103,
+            "emission_standard": "Evro-6" 
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461, 
+            "power": 90,
+            "torque": 220,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 167,
+            "acceleration100": 12.2
         },
         "id": 7
     }

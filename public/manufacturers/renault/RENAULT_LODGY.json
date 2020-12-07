@@ -5,46 +5,46 @@
         "uniqueid": "a7b282d7-97bd-4dec-92bf-f267f27a6350",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4498,
+            "width": 1751,
+            "height": 1682,
+            "wheelbase": 2810,
+            "front_track_width": 1492,
+            "rear_track_width": 1478,
+            "overhang_ahead": 882,
+            "overhang_behind": 886,
+            "turning_diameter": 11.1
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.1,
+            "fuel_consumption_extra_urban": 4.1,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 118,
+            "emission_standard": "Evro-5"  
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461,
+            "power": 90,
+            "torque": 200,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 169,
+            "acceleration100": 12.4
         },
         "id": 0
     },
@@ -54,46 +54,46 @@
         "uniqueid": "5b2a7876-7591-4a3f-92c2-9bd2e2251b25",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4498,
+            "width": 1751,
+            "height": 1682,
+            "wheelbase": 2810,
+            "front_track_width": 1492,
+            "rear_track_width": 1478,
+            "overhang_ahead": 882,
+            "overhang_behind": 886,
+            "turning_diameter": 11.1
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.1,
+            "fuel_consumption_extra_urban": 4.1,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 118,
+            "emission_standard": "Evro-5"  
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461,
+            "power": 90,
+            "torque": 200,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 169,
+            "acceleration100": 12.4
         },
         "id": 1
     },
@@ -103,46 +103,46 @@
         "uniqueid": "63f82198-a677-4661-83c8-3715e04a2765",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4498,
+            "width": 1751,
+            "height": 1682,
+            "wheelbase": 2810,
+            "front_track_width": 1492,
+            "rear_track_width": 1478,
+            "overhang_ahead": 882,
+            "overhang_behind": 886,
+            "turning_diameter": 11.1
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.1,
+            "fuel_consumption_extra_urban": 4.1,
             "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "co2_emissions": 118,
+            "emission_standard": "Evro-5"  
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.461,
+            "power": 90,
+            "torque": 200,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 169,
+            "acceleration100": 12.4
         },
         "id": 2
     }

@@ -32,15 +32,15 @@
             "engine_displacement": 1.586,
             "power": 86,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -81,15 +81,15 @@
             "engine_displacement": 1.586,
             "power": 86,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -102,7 +102,7 @@
         "configuration": "GL+",
         "uniqueid": "31223950-a49e-40a1-82c8-a8eabcfde46e",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
@@ -130,15 +130,15 @@
             "engine_displacement": 1.586,
             "power": 86,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -179,15 +179,15 @@
             "engine_displacement": 1.586,
             "power": 86,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -200,7 +200,7 @@
         "configuration": "GL+",
         "uniqueid": "dabc3ab0-4b48-41a9-b0e3-544d52f88a8b",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 16,
             "width": 215,
             "height": 60
@@ -228,15 +228,15 @@
             "engine_displacement": 1.586,
             "power": 86,
             "torque": 151,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "M16A"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -249,7 +249,7 @@
         "configuration": "GL+",
         "uniqueid": "7e06ff66-7991-4b2c-8361-638717361cd2",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 17,
             "width": 215,
             "height": 55
@@ -277,15 +277,15 @@
             "engine_displacement": 1.373,
             "power": 140,
             "torque": 220,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K14C-DITC"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 200,
@@ -298,7 +298,7 @@
         "configuration": "GL+",
         "uniqueid": "3c93fb98-6e33-4703-9e3b-132cd7319fca",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 17,
             "width": 215,
             "height": 55
@@ -326,15 +326,15 @@
             "engine_displacement": 1.373,
             "power": 140,
             "torque": 220,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K14C-DITC"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 200,
@@ -347,7 +347,7 @@
         "configuration": "GLX",
         "uniqueid": "dfcef346-c206-4474-b862-c2cafcc4e1b0",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 17,
             "width": 215,
             "height": 55
@@ -375,15 +375,15 @@
             "engine_displacement": 1.373,
             "power": 140,
             "torque": 220,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K14C-DITC"
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 200,

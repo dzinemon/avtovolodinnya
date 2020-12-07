@@ -1,8 +1,8 @@
 [
     {
         "model": "Q8",
-        "configuration": "Q8",
-        "uniqueid": "1f744d1d-2a2d-4433-8dfd-0ef608f0c4d3",
+        "configuration": "Q8 55 TFSI quattro",
+        "uniqueid": "1975982c-7dec-4cf5-aa39-a74f0f4f2338",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -18,18 +18,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -44,14 +44,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 0
     },
     {
         "model": "Q8",
-        "configuration": "Q8",
-        "uniqueid": "bc06e0e9-9aca-4c16-8773-b9882f9f16da",
+        "configuration": "Q8 50 TDI quattro",
+        "uniqueid": "7a685c92-cab4-43f6-902c-1f83db03e571",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -67,18 +67,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -93,14 +93,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 1
     },
     {
         "model": "Q8",
-        "configuration": "Q8 SL",
-        "uniqueid": "2c54c872-ea6d-40b4-815d-bfdb63715c1c",
+        "configuration": "Q8 SL 55 TFSI quattro line",
+        "uniqueid": "47106ca3-a0cb-4e35-bdbd-c37f95b01343",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -116,18 +116,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -142,14 +142,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 2
     },
     {
         "model": "Q8",
-        "configuration": "Q8 SL",
-        "uniqueid": "ee2cecdd-7539-43a0-83bc-eed6bb211dae",
+        "configuration": "Q8 SL 50 TDI quattro line",
+        "uniqueid": "b6632340-ab41-4e9e-8d5d-45ed96ed3f2b",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -165,18 +165,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -191,14 +191,14 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 3
     },
     {
         "model": "Q8",
-        "configuration": "SQ8",
-        "uniqueid": "108b5a4b-3a12-45e0-bea8-2b01fa0fb0fd",
+        "configuration": "SQ8 TDI quattro",
+        "uniqueid": "e933221d-d1dd-4d11-8273-257f08490937",
         "year": 2020,
         "tire": {
             "radius": 0,
@@ -214,18 +214,18 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0,
             "power": 0,
             "torque": 0,
             "fuel_system": "",
@@ -240,253 +240,8 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0.0
+            "acceleration100": 0
         },
         "id": 4
-    },
-    {
-        "model": "Q8",
-        "configuration": "Q8 55 TFSI quattro",
-        "uniqueid": "ee9eb29c-c65b-4ce7-a846-78a1eba64fcb",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 47
-    },
-    {
-        "model": "Q8",
-        "configuration": "Q8 50 TDI quattro",
-        "uniqueid": "d9c830d7-8af9-4611-b787-5761186c332c",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 48
-    },
-    {
-        "model": "Q8",
-        "configuration": "Q8 SL 55 TFSI quattro S line",
-        "uniqueid": "6cc0b46f-6ce4-48a8-8acc-b717fd8c276d",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 49
-    },
-    {
-        "model": "Q8",
-        "configuration": "Q8 SL 50 TDI quattro S line",
-        "uniqueid": "140820cd-80a4-494b-9502-6f166bbae222",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 50
-    },
-    {
-        "model": "Q8",
-        "configuration": "SQ8 TDI quattro",
-        "uniqueid": "95b24b93-43a4-433a-9730-654772021b7b",
-        "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
-        },
-        "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
-        },
-        "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
-            "emission_standard": "Evro-6"
-        },
-        "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
-        },
-        "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
-        },
-        "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
-        },
-        "id": 51
     }
 ]

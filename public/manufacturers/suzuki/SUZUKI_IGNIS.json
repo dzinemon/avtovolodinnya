@@ -32,15 +32,15 @@
             "engine_displacement": 1.197,
             "power": 83,
             "torque": 107,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K12D"
         },
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 165,
@@ -65,7 +65,7 @@
             "wheelbase": 2435,
             "front_track_width": 1460,
             "rear_track_width": 1470,
-            "overhang_ahead": 0,  
+            "overhang_ahead": 0,
             "overhang_behind": 0,
             "turning_diameter": 4.7
         },
@@ -80,16 +80,16 @@
         "engine": {
             "engine_displacement": 1.197,
             "power": 83,
-            "torque": 107,   
-            "fuel_system": "",
+            "torque": 107,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K12D"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 155,
@@ -102,7 +102,7 @@
         "configuration": "DUALJET+SHVS",
         "uniqueid": "ebb34dbb-c7d0-461e-85ae-c0c1fe11dbfc",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 16,
             "width": 0,
             "height": 0
@@ -114,7 +114,7 @@
             "wheelbase": 2435,
             "front_track_width": 1460,
             "rear_track_width": 1470,
-            "overhang_ahead": 0,  
+            "overhang_ahead": 0,
             "overhang_behind": 0,
             "turning_diameter": 4.7
         },
@@ -129,16 +129,16 @@
         "engine": {
             "engine_displacement": 1.197,
             "power": 83,
-            "torque": 107,   
-            "fuel_system": "",
+            "torque": 107,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "K12D"
         },
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 155,

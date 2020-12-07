@@ -5,46 +5,46 @@
         "uniqueid": "92c58aac-98b2-44f8-b67c-c369e8ca6d74",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 18,
+            "width": 215,
+            "height": 50
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4275,
+            "width": 2049,
+            "height": 1535,
+            "wheelbase": 2570,
+            "front_track_width": 1525,
+            "rear_track_width": 1520,
+            "overhang_ahead": 910,
+            "overhang_behind": 795,
+            "turning_diameter": 5.7
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_tank_capacity": 48,
+            "fuel_consumption_urban": 7.2,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.1,
+            "co2_emissions": 140.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.998,
+            "power": 121,
+            "torque": 206,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
+            "maximum_speed": 187,
+            "acceleration100": 9.9
         },
         "id": 0
     },
@@ -54,46 +54,46 @@
         "uniqueid": "6e74bd8a-dc93-43a5-a003-8441d4d28465",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 18,
+            "width": 215,
+            "height": 50
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4275,
+            "width": 2049,
+            "height": 1535,
+            "wheelbase": 2570,
+            "front_track_width": 1525,
+            "rear_track_width": 1520,
+            "overhang_ahead": 910,
+            "overhang_behind": 795,
+            "turning_diameter": 5.7
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_tank_capacity": 44,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 6.1,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 206,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
+            "maximum_speed": 195,
+            "acceleration100": 9.6
         },
         "id": 1
     },
@@ -103,46 +103,46 @@
         "uniqueid": "793a3419-3b17-4b0e-a28b-781e33f82850",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 16,
+            "width": 215,
+            "height": 60
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4275,
+            "width": 2049,
+            "height": 1535,
+            "wheelbase": 2570,
+            "front_track_width": 1525,
+            "rear_track_width": 1520,
+            "overhang_ahead": 910,
+            "overhang_behind": 795,
+            "turning_diameter": 5.7
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_tank_capacity": 48,
+            "fuel_consumption_urban": 7.2,
+            "fuel_consumption_extra_urban": 5.5,
+            "fuel_consumption_combined": 6.1,
+            "co2_emissions": 140.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.998,
+            "power": 121,
+            "torque": 206,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
+            "maximum_speed": 187,
+            "acceleration100": 9.9
         },
         "id": 2
     },
@@ -152,46 +152,46 @@
         "uniqueid": "bb2f7f6c-44ad-4291-a0dc-790bdf0c953a",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 16,
+            "width": 215,
+            "height": 60
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
-            "turning_diameter": 0
+            "length": 4275,
+            "width": 2049,
+            "height": 1535,
+            "wheelbase": 2570,
+            "front_track_width": 1525,
+            "rear_track_width": 1520,
+            "overhang_ahead": 910,
+            "overhang_behind": 795,
+            "turning_diameter": 5.7
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_tank_capacity": 44,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 6.1,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.998,
+            "power": 150,
+            "torque": 206,
             "fuel_system": "",
-            "number_cylinders": 0,
+            "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0.0
+            "maximum_speed": 195,
+            "acceleration100": 9.6
         },
         "id": 3
     }
