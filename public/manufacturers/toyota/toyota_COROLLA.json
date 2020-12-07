@@ -1,0 +1,443 @@
+[
+    {
+        "model": "COROLLA",
+        "configuration": "CITY",
+        "uniqueid": "b36c4e97-b662-405f-8fa9-c56cbd655fa6",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 1540,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.0,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 139.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.2
+        },
+        "id": 0
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "CITY",
+        "uniqueid": "8659a45d-bcaa-47eb-8a60-10934ba0692a",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 1540,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.4,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 6.4,
+            "co2_emissions": 145.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 9.7
+        },
+        "id": 1
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "LIVE",
+        "uniqueid": "7e46b342-7079-4667-b425-efa1a911ae9c",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.0,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 139.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.2
+        },
+        "id": 2
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "LIVE",
+        "uniqueid": "f8adb650-a82d-4ad6-82f2-988d08713246",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.4,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 6.4,
+            "co2_emissions": 145.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 9.7
+        },
+        "id": 3
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "ACTIVE",
+        "uniqueid": "8989bb3c-e5b9-46cc-bf8a-31552350bbe7",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.0,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 139.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.2
+        },
+        "id": 4
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "ACTIVE",
+        "uniqueid": "8c1af0ed-1f9a-4309-856e-2d314899355a",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.4,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 6.4,
+            "co2_emissions": 145.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 9.7
+        },
+        "id": 5
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "ACTIVE",
+        "uniqueid": "f78038ea-1d40-4c04-9eff-9bb26319ffdf",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 43,
+            "fuel_consumption_urban": 3.8,
+            "fuel_consumption_extra_urban": 4.2,
+            "fuel_consumption_combined": 4.1,
+            "co2_emissions": 92.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.798,
+            "power": 122,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 11.0
+        },
+        "id": 6
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "STYLE",
+        "uniqueid": "e0e53ebc-4bcd-4111-bdb0-23eb8ed7e688",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 8.0,
+            "fuel_consumption_extra_urban": 5.1,
+            "fuel_consumption_combined": 6.2,
+            "co2_emissions": 139.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 132,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.2
+        },
+        "id": 7
+    },
+    {
+        "model": "COROLLA",
+        "configuration": "STYLE",
+        "uniqueid": "e9e6bdf9-ba3f-4896-967f-f119375df574",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4630,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "front_track_width": 1530,
+            "rear_track_width": 154,
+            "overhang_ahead": 935,
+            "overhang_behind": 995,
+            "turning_diameter": 5.8
+        },
+        "fuel": {
+            "fuel_tank_capacity": 43,
+            "fuel_consumption_urban": 3.8,
+            "fuel_consumption_extra_urban": 4.2,
+            "fuel_consumption_combined": 4.1,
+            "co2_emissions": 92.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.798,
+            "power": 122,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 11.0
+        },
+        "id": 8
+    }
+]
