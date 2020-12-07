@@ -1,0 +1,149 @@
+[
+    {
+        "model": "Rio_hatchback",
+        "configuration": "Comfort",
+        "uniqueid": "f1c20f2f-cb8f-4799-98a8-162b50f24918",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4065,
+            "width": 1725,
+            "height": 1460,
+            "wheelbase": 2580,
+            "front_track_width": 1518,
+            "rear_track_width": 1524,
+            "overhang_ahead": 830,
+            "overhang_behind": 655,
+            "turning_diameter": 5.1
+        },
+        "fuel": {
+            "fuel_tank_capacity": 45,
+            "fuel_consumption_urban": 6.0,
+            "fuel_consumption_extra_urban": 4.1,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.248,
+            "power": 86,
+            "torque": 121,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.9
+        },
+        "id": 0
+    },
+    {
+        "model": "Rio_hatchback",
+        "configuration": "Business",
+        "uniqueid": "87cc048a-4515-4a42-9a39-1aeb72e33362",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4065,
+            "width": 1725,
+            "height": 1460,
+            "wheelbase": 2580,
+            "front_track_width": 1518,
+            "rear_track_width": 1524,
+            "overhang_ahead": 830,
+            "overhang_behind": 655,
+            "turning_diameter": 5.1
+        },
+        "fuel": {
+            "fuel_tank_capacity": 45,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 4.9,
+            "fuel_consumption_combined": 6.1,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.368,
+            "power": 100,
+            "torque": 133,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 166,
+            "acceleration100": 13.9
+        },
+        "id": 1
+    },
+    {
+        "model": "Rio_hatchback",
+        "configuration": "Prestige",
+        "uniqueid": "000d5fbf-8683-4f53-96c7-1b95f734437c",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 195,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4065,
+            "width": 1725,
+            "height": 1460,
+            "wheelbase": 2580,
+            "front_track_width": 1518,
+            "rear_track_width": 1524,
+            "overhang_ahead": 830,
+            "overhang_behind": 655,
+            "turning_diameter": 5.1
+        },
+        "fuel": {
+            "fuel_tank_capacity": 45,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 4.9,
+            "fuel_consumption_combined": 6.1,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.368,
+            "power": 100,
+            "torque": 133,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 166,
+            "acceleration100": 13.9
+        },
+        "id": 2
+    }
+]

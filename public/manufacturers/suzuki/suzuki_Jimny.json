@@ -1,0 +1,198 @@
+[
+    {
+        "model": "Jimny",
+        "configuration": "GA.",
+        "uniqueid": "8baefbc1-d78d-4694-92e1-19f979ec8580",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 3645,
+            "width": 1645,
+            "height": 1720,
+            "wheelbase": 2250,
+            "front_track_width": 1395,
+            "rear_track_width": 1405,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 4.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 40,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 6.2,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 154.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.462,
+            "power": 102,
+            "torque": 130,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "K15B"
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 145,
+            "acceleration100": 0.0
+        },
+        "id": 0
+    },
+    {
+        "model": "Jimny",
+        "configuration": "GL.",
+        "uniqueid": "6206217d-3619-431b-af29-a319f67e8b9c",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 3645,
+            "width": 1645,
+            "height": 1720,
+            "wheelbase": 2250,
+            "front_track_width": 1395,
+            "rear_track_width": 1405,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 4.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 40,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 6.2,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 154.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.462,
+            "power": 102,
+            "torque": 130,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "K15B"
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 145,
+            "acceleration100": 0.0
+        },
+        "id": 1
+    },
+    {
+        "model": "Jimny",
+        "configuration": "GL.",
+        "uniqueid": "aa10211b-cc28-4466-861d-4ba2c6f66839",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 3645,
+            "width": 1645,
+            "height": 1720,
+            "wheelbase": 2250,
+            "front_track_width": 1395,
+            "rear_track_width": 1405,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 4.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 40,
+            "fuel_consumption_urban": 8.4,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 170.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.462,
+            "power": 102,
+            "torque": 130,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "K15B"
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 140,
+            "acceleration100": 0.0
+        },
+        "id": 2
+    },
+    {
+        "model": "Jimny",
+        "configuration": "GLX.",
+        "uniqueid": "9b6023c6-e525-469c-b14e-a9391b903b90",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 3645,
+            "width": 1645,
+            "height": 1720,
+            "wheelbase": 2250,
+            "front_track_width": 1395,
+            "rear_track_width": 1405,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 4.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 40,
+            "fuel_consumption_urban": 8.4,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 170.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.462,
+            "power": 102,
+            "torque": 130,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "K15B"
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 140,
+            "acceleration100": 0.0
+        },
+        "id": 3
+    }
+]
