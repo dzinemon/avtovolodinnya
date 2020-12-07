@@ -4,7 +4,7 @@ function CarCardImage(props) {
 
   return (
     <img alt={imageAlt}
-      className="w-full h-32 md:h-40 object-cover object-center" 
+      className="w-full h-32 md:h-40 object-contain object-center" 
       src={`${imageSrc}?nf_resize=fit&w=320&h=160`}
       >
     </img>
