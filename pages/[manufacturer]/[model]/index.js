@@ -90,7 +90,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
   const { manufacturer, model } = params
-  const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer.toUpperCase()}_${model.toUpperCase()}.json`
+  const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer}_${model.toUpperCase()}.json`
   const rawData = fs.readFileSync(reqUrl)
   const data = JSON.parse(rawData);
 
