@@ -31,16 +31,16 @@
         "engine": {
             "engine_displacement": 3.456,
             "power": 249,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 356,
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 8,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -80,16 +80,16 @@
         "engine": {
             "engine_displacement": 3.456,
             "power": 249,
-            "torque": 0,
+            "torque": 356,
             "fuel_system": "",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 8,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 180,

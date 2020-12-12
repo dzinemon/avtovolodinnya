@@ -1,0 +1,590 @@
+[
+    {
+        "model": "x-trail",
+        "configuration": "Visia",
+        "uniqueid": "aaabf4a6-1be5-4a36-8f7b-4238021d977e",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 968,
+            "overhang_behind": 952,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.1,
+            "fuel_consumption_extra_urban": 6.5,
+            "fuel_consumption_combined": 8.2,
+            "co2_emissions": 190.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 0.0
+        },
+        "id": 0
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Visia",
+        "uniqueid": "223f7435-422c-4194-95bf-dc36fab45ce7",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1005,
+            "overhang_behind": 1055,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 174.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 0.0
+        },
+        "id": 1
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Visia",
+        "uniqueid": "bb0e01b1-c6ea-48ec-9489-97c594ea6719",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1100,
+            "overhang_behind": 1020,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 6.3,
+            "fuel_consumption_extra_urban": 4.9,
+            "fuel_consumption_combined": 5.4,
+            "co2_emissions": 143.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 130,
+            "torque": 320,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 186,
+            "acceleration100": 0.0
+        },
+        "id": 2
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Acenta",
+        "uniqueid": "1af69c8c-35ac-4b90-8309-59844cd8a1f2",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1002,
+            "overhang_behind": 998,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 9.0,
+            "fuel_consumption_extra_urban": 6.1,
+            "fuel_consumption_combined": 7.1,
+            "co2_emissions": 165.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 0.0
+        },
+        "id": 3
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Acenta",
+        "uniqueid": "d0aad15b-4141-413c-ab4a-ebc8aa5448c5",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1005,
+            "overhang_behind": 1055,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 174.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 0.0
+        },
+        "id": 4
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Acenta",
+        "uniqueid": "6b42d547-9fed-4b45-95f6-d0ad14b0ce1d",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1033,
+            "overhang_behind": 1027,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.1,
+            "fuel_consumption_extra_urban": 6.8,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 192.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.488,
+            "power": 171,
+            "torque": 233,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 0.0
+        },
+        "id": 5
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Acenta",
+        "uniqueid": "18ecc832-6a71-4f6d-af98-522ebe1be8d6",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1100,
+            "overhang_behind": 1020,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 6.3,
+            "fuel_consumption_extra_urban": 4.9,
+            "fuel_consumption_combined": 5.4,
+            "co2_emissions": 143.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 130,
+            "torque": 320,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 186,
+            "acceleration100": 0.0
+        },
+        "id": 6
+    },
+    {
+        "model": "x-trail",
+        "configuration": "Acenta",
+        "uniqueid": "415ed177-fddc-4d2c-8f61-c68c74cc19cb",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1117,
+            "overhang_behind": 1003,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 5.8,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 5.1,
+            "co2_emissions": 133.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 130,
+            "torque": 320,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 0.0
+        },
+        "id": 7
+    },
+    {
+        "model": "x-trail",
+        "configuration": "N-Connecta",
+        "uniqueid": "c44ca713-0ca2-4481-a759-bcb4e7b03a12",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1033,
+            "overhang_behind": 1027,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 9.0,
+            "fuel_consumption_extra_urban": 6.0,
+            "fuel_consumption_combined": 7.1,
+            "co2_emissions": 165,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "MR20"
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "X-Tronic CVT"
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 10
+    },
+    {
+        "model": "x-trail",
+        "configuration": "N-Connecta",
+        "uniqueid": "c44ca713-0ca2-4481-a759-bcb4e7b03a12",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1033,
+            "overhang_behind": 1027,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 174,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.997,
+            "power": 144,
+            "torque": 200,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "MR20"
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "X-Tronic CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 0
+        },
+        "id": 11
+    },
+    {
+        "model": "x-trail",
+        "configuration": "N-Connecta",
+        "uniqueid": "03c93f09-3f33-49f1-a774-67856b86cc0a",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1033,
+            "overhang_behind": 1027,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.0,
+            "fuel_consumption_extra_urban": 6.8,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 192.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.488,
+            "power": 171,
+            "torque": 233,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 0.0
+        },
+        "id": 8
+    },
+    {
+        "model": "x-trail",
+        "configuration": "N-Connecta",
+        "uniqueid": "e77bced6-88d8-4570-aacf-ca8d9ed4bf40",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 225,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4690,
+            "width": 1830,
+            "height": 1740,
+            "wheelbase": 2705,
+            "front_track_width": 1575,
+            "rear_track_width": 1575,
+            "overhang_ahead": 1117,
+            "overhang_behind": 1003,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 5.8,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 5.1,
+            "co2_emissions": 133.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 130,
+            "torque": 320,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 0.0
+        },
+        "id": 9
+    }
+]

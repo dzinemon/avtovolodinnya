@@ -5,33 +5,33 @@
         "uniqueid": "3661fef2-e92b-436e-b059-536fb206a4ab",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 16,
+            "width": 205,
+            "height": 60
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4395,
+            "width": 1826,
+            "height": 1483,
+            "wheelbase": 2600,
+            "front_track_width": 1575,
+            "rear_track_width": 1573,
+            "overhang_ahead": 905,
+            "overhang_behind": 840,
             "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 7.0,
             "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.353,
+            "power": 140,
+            "torque": 242,
             "fuel_system": "",
             "number_cylinders": 0,
             "turbine": "",
@@ -43,8 +43,8 @@
             "name": ""
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 205,
+            "acceleration100": 9.2
         },
         "id": 0
     },
@@ -53,34 +53,34 @@
         "configuration": "Prestige",
         "uniqueid": "5685afff-af1e-47b0-8a8c-8bf0ddac2ca6",
         "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+          "tire": {
+            "radius": 18,
+            "width": 235,
+            "height": 45
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4395,
+            "width": 1826,
+            "height": 1483,
+            "wheelbase": 2600,
+            "front_track_width": 1575,
+            "rear_track_width": 1573,
+            "overhang_ahead": 905,
+            "overhang_behind": 840,
             "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 7.0,
             "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.353,
+            "power": 140,
+            "torque": 242,
             "fuel_system": "",
             "number_cylinders": 0,
             "turbine": "",
@@ -92,8 +92,8 @@
             "name": ""
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 205,
+            "acceleration100": 9.2
         },
         "id": 1
     },
@@ -102,34 +102,34 @@
         "configuration": "Prestige",
         "uniqueid": "a702de6a-c3d2-40c8-ac8a-b8e2469cc1c0",
         "year": 2020,
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+          "tire": {
+            "radius": 18,
+            "width": 235,
+            "height": 45
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4395,
+            "width": 1826,
+            "height": 1483,
+            "wheelbase": 2600,
+            "front_track_width": 1575,
+            "rear_track_width": 1573,
+            "overhang_ahead": 905,
+            "overhang_behind": 840,
             "turning_diameter": 0
         },
         "fuel": {
             "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0,
-            "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 5.2,
+            "fuel_consumption_combined": 7.0,
             "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.353,
+            "power": 140,
+            "torque": 242,
             "fuel_system": "",
             "number_cylinders": 0,
             "turbine": "",
@@ -141,8 +141,8 @@
             "name": ""
         },
         "speed": {
-            "maximum_speed": 0,
-            "acceleration100": 0
+            "maximum_speed": 205,
+            "acceleration100": 9.2
         },
         "id": 2
     }

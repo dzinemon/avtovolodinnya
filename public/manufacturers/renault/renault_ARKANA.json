@@ -1,0 +1,492 @@
+[
+    {
+        "model": "ARKANA",
+        "configuration": "Life",
+        "uniqueid": "f344d0b2-b755-4238-97a9-56481446bd31",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 114,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 0
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Life",
+        "uniqueid": "f344d0b2-b755-4238-97a9-56481446bd31",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 114,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 1
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Zen",
+        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 114,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 2
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Zen",
+        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 114,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 3
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Zen",
+        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 114,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 4
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Zen",
+        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.332,
+            "power": 150,
+            "torque": 250,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 5
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Intense",
+        "uniqueid": "26feeed5-2acc-4e16-9712-4b3d63bcacfb",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.332,
+            "power": 150,
+            "torque": 250,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 6
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Intense",
+        "uniqueid": "26feeed5-2acc-4e16-9712-4b3d63bcacfb",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.332,
+            "power": 150,
+            "torque": 250,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 7
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Intense +",
+        "uniqueid": "52b1c131-e1a6-4956-a96b-5059ddec9b77",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.332,
+            "power": 150,
+            "torque": 250,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 8
+    },
+    {
+        "model": "ARKANA",
+        "configuration": "Intense +",
+        "uniqueid": "52b1c131-e1a6-4956-a96b-5059ddec9b77",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4545,
+            "width": 1864,
+            "height": 1565,
+            "wheelbase": 2721,
+            "front_track_width": 1591,
+            "rear_track_width": 1586,
+            "overhang_ahead": 852,
+            "overhang_behind": 970,
+            "turning_diameter": 11.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.2,
+            "fuel_consumption_extra_urban": 5.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 161.0,
+            "emission_standard": "Evro-5"
+        },
+        "engine": {
+            "engine_displacement": 1.332,
+            "power": 150,
+            "torque": 250,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 183,
+            "acceleration100": 12.4
+        },
+        "id": 9
+    }
+]

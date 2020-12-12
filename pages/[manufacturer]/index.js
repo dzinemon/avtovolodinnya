@@ -38,6 +38,7 @@ function Manufacturer({availableModels, manufacturer}) {
                 const model = i.filename.toLowerCase().replace(`${manufacturer}_`, '')
                 const price = i.price
                 const hp = i.hp
+                const modelImagePath = i.modelImagePath
                 return (
                 <div key={idx} className="mb-2 sm:mb-0">
                   <Link href={`/${manufacturer}/${model}`}>
@@ -45,7 +46,7 @@ function Manufacturer({availableModels, manufacturer}) {
                       <CarCard
                         price={price}
                         hp={hp}
-                        image={`/manufacturers/${manufacturer}/images/${i.filename}_0.jpg`} 
+                        image={modelImagePath} 
                         modelName={`${manufacturer} ${model}`} 
                       />
                     </a>
@@ -84,13 +85,23 @@ export async function getStaticProps({ params }) {
   const availableModels = listOfFiles.map(item => {
     const currentPath = `public/manufacturers/${params.manufacturer}/${item}`
     
+    let modelImagePath = ''
+    const currentImage = `public/manufacturers/${params.manufacturer}/images/${item.replace('.json', '')}_0.jpg`
+
+    if (fs.existsSync(currentImage)) {
+      modelImagePath = currentImage.replace('public', '')
+    } else {
+      modelImagePath = `/logo@3x.png`
+    }
+
     const rawData = fs.readFileSync(currentPath)
     const data = JSON.parse(rawData)
 
     const getCurrentIdArr = data.map(j => j.uniqueid)
     let priceArray = []
+    
 
-    getCurrentIdArr.map(k => {
+    getCurrentIdArr.map(k => {      
       const currentJPath = `public/manufacturers/${params.manufacturer}/prices/${k}.json`
       function LoadCurrentPrices(filepath) {
         const currentRawJData = fs.readFileSync(currentJPath, 'utf8')
@@ -119,7 +130,8 @@ export async function getStaticProps({ params }) {
       {
         filename: item.replace('.json', ''),
         price: finalPriceString,
-        hp: finalHpString
+        hp: finalHpString,
+        modelImagePath: modelImagePath
       }
     )
   })

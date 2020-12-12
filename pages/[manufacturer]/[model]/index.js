@@ -26,7 +26,7 @@ function Model({data}) {
   const router = useRouter();
   const {model, manufacturer} = router.query;
 
-  const image = `/manufacturers/${manufacturer}/images/${manufacturer}_${model.toUpperCase()}_0.jpg`
+  const image = data[0].modelImagePath
   return (
     <GaWrapper>
       <Layout>
@@ -90,9 +90,24 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
   const { manufacturer, model } = params
+  let modelImagePath = ''
+  const currentImage = `public/manufacturers/${manufacturer}/images/${manufacturer}_${model}_0.jpg`
+
+    if (fs.existsSync(currentImage)) {
+      modelImagePath = currentImage.replace('public', '')
+    } else {
+      modelImagePath = `/logo@3x.png`
+    }
   const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer}_${model.toUpperCase()}.json`
   const rawData = fs.readFileSync(reqUrl)
+
   const data = JSON.parse(rawData);
+
+  const newData = data.forEach((item,idx) => {
+    return Object.assign(item, {modelImagePath: modelImagePath})
+  })
+
+  // const newData = Object.assign(data, {modelImagePath} )
 
   return {props: {data} }
 }
