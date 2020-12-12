@@ -65,7 +65,7 @@ export async function getStaticPaths() {
         cur = encodeURIComponent(cur.trim())
         return cur
       })
-      .map((filename) => ({model: filename.replace('.json', '').toLowerCase().replace(`${i}_`, '')}))
+      .map((filename) => ({model: filename.replace('.json', '').replace(`${i}_`, '')}))
   
 
     const availableCurrentModelsValues = Object.values(availableCurrentModels)  
@@ -83,6 +83,8 @@ export async function getStaticPaths() {
     
   })
 
+  console.log(finalPaths);
+
   return { 
     paths: finalPaths, 
     fallback: false }
@@ -90,15 +92,18 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
   const { manufacturer, model } = params
+  console.log(manufacturer)
+  console.log(model)
   let modelImagePath = ''
   const currentImage = `public/manufacturers/${manufacturer}/images/${manufacturer}_${model}_0.jpg`
 
-    if (fs.existsSync(currentImage)) {
-      modelImagePath = currentImage.replace('public', '')
-    } else {
-      modelImagePath = `/logo@3x.png`
-    }
-  const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer}_${model.toUpperCase()}.json`
+  if (fs.existsSync(currentImage)) {
+    modelImagePath = currentImage.replace('public', '')
+  } else {
+    modelImagePath = `/logo@3x.png`
+  }
+  const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer}_${model}.json`
+  console.log(reqUrl)
   const rawData = fs.readFileSync(reqUrl)
 
   const data = JSON.parse(rawData);

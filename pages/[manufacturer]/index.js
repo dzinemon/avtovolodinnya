@@ -35,7 +35,7 @@ function Manufacturer({availableModels, manufacturer}) {
           <div className="mt-10">
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:text-base text-sm gap-4 grid-2">
             {availableModels.map((i, idx) => {
-                const model = i.filename.toLowerCase().replace(`${manufacturer}_`, '')
+                const model = i.filename.replace(`${manufacturer}_`, '')
                 const price = i.price
                 const hp = i.hp
                 const modelImagePath = i.modelImagePath
