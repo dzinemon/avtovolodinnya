@@ -34,10 +34,12 @@ function Manufacturer({availableModels, manufacturer}) {
   
           <div className="mt-10">
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:text-base text-sm gap-4 grid-2">
-            {availableModels.map((i, idx) => {
+            {availableModels.sort((a,b) => {
+              return a.price[0] - b.price[0]
+            }).map((i, idx) => {
                 const model = i.filename.replace(`${manufacturer}_`, '')
-                const price = i.price
-                const hp = i.hp
+                const price = getArrayToStr(i.price)
+                const hp = getArrayToStr(i.hp)
                 const modelImagePath = i.modelImagePath
                 return (
                 <div key={idx} className="mb-2 sm:mb-0">
@@ -123,14 +125,14 @@ export async function getStaticProps({ params }) {
       return a - b
     })
 
-    const finalPriceString = getArrayToStr(priceArr);
-    const finalHpString = getArrayToStr(horsePowerArr);
+    // const finalPriceString = getArrayToStr(priceArr);
+    // const finalHpString = getArrayToStr(horsePowerArr);
 
     return (
       {
         filename: item.replace('.json', ''),
-        price: finalPriceString,
-        hp: finalHpString,
+        price: priceArr,
+        hp: horsePowerArr,
         modelImagePath: modelImagePath
       }
     )

@@ -3,7 +3,7 @@ import formatNumber from './formatNumber'
 export default function getArrayToStr(x) {
 
   if (x.length === 1) {
-    console.log(x.length === 1);
+    // console.log(x.length === 1);
     return (`${formatNumber(x[0])}`)
   }
 
