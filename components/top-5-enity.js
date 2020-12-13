@@ -1,5 +1,5 @@
 
-export default function (props) {
+export default function Entity (props) {
   return (
     <div className="my-10">
       <div className="flex flex-row justify-between items-center w-full">
