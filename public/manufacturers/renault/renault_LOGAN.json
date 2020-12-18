@@ -32,7 +32,7 @@
             "engine_displacement": 0.999,
             "power": 75,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 0.999,
             "power": 75,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -130,7 +130,7 @@
             "engine_displacement": 0.898,
             "power": 90,
             "torque": 140,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -179,7 +179,7 @@
             "engine_displacement": 0.898,
             "power": 90,
             "torque": 140,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -228,7 +228,7 @@
             "engine_displacement": 1.461,
             "power": 90,
             "torque": 220,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -277,7 +277,7 @@
             "engine_displacement": 0.898,
             "power": 90,
             "torque": 140,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -326,7 +326,7 @@
             "engine_displacement": 0.898,
             "power": 90,
             "torque": 140,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -375,7 +375,7 @@
             "engine_displacement": 1.461,
             "power": 90,
             "torque": 220,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -397,42 +397,42 @@
         "uniqueid": "65ddd05d-9ddd-41d3-a863-0a69ee2faa78",
         "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 15,
+            "width": 185,
+            "height": 65
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
-            "overhang_ahead": 0,
-            "overhang_behind": 0,
+            "length": 4346,
+            "width": 1994,
+            "height": 1517,
+            "wheelbase": 2634,
+            "front_track_width": 1496,
+            "rear_track_width": 1486,
+            "overhang_ahead": 825,
+            "overhang_behind": 894,
             "turning_diameter": 0.0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
-            "co2_emissions": 0.0,
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 7.7,
+            "fuel_consumption_extra_urban": 5.9,
+            "fuel_consumption_combined": 3.9,
+            "co2_emissions": 150.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0.0,
+            "engine_displacement": 0.999,
             "power": 0,
             "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
-            "turbine": "",
-            "code": ""
+            "fuel_system": "gas",
+            "number_cylinders": 3,
+            "turbine": "5",
+            "code": "MT"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 0,

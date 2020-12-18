@@ -32,7 +32,7 @@
             "engine_displacement": 2.199,
             "power": 200,
             "torque": 450,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 2.199,
             "power": 200,
             "torque": 450,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""

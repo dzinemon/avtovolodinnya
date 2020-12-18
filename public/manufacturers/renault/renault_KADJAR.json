@@ -30,9 +30,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 130,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -79,9 +79,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 110,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -128,9 +128,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 110,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -177,9 +177,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 130,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -226,15 +226,15 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 130,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 6,
             "name": "MT"
         },
@@ -275,9 +275,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 130,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -324,9 +324,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 110,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -373,9 +373,9 @@
         },
         "engine": {
             "engine_displacement": 0.0,
-            "power": 0,
+            "power": 110,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""

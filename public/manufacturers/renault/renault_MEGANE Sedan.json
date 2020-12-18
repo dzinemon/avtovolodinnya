@@ -32,7 +32,7 @@
             "engine_displacement": 1.598,
             "power": 115,
             "torque": 156,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 1.461,
             "power": 110,
             "torque": 260,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -130,7 +130,7 @@
             "engine_displacement": 1.598,
             "power": 115,
             "torque": 156,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -179,7 +179,7 @@
             "engine_displacement": 1.598,
             "power": 115,
             "torque": 156,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -228,7 +228,7 @@
             "engine_displacement": 1.461,
             "power": 110,
             "torque": 260,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -277,7 +277,7 @@
             "engine_displacement": 1.461,
             "power": 110,
             "torque": 260,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -326,7 +326,7 @@
             "engine_displacement": 1.461,
             "power": 110,
             "torque": 260,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -375,7 +375,7 @@
             "engine_displacement": 1.197,
             "power": 130,
             "torque": 205,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""

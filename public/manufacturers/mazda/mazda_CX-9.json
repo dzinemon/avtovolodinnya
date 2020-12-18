@@ -32,7 +32,7 @@
             "engine_displacement": 2.488,
             "power": 231,
             "torque": 420,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 2.488,
             "power": 231,
             "torque": 420,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""

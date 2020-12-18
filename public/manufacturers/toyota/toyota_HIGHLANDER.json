@@ -81,7 +81,7 @@
             "engine_displacement": 3.456,
             "power": 249,
             "torque": 356,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""

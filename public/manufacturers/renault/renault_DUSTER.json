@@ -22,8 +22,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 0.0,
-            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 149.0,
             "emission_standard": "Evro-6"
@@ -170,7 +170,7 @@
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 9.4,
-            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_extra_urban": 9.0,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 149.0,
             "emission_standard": "Evro-6"
@@ -267,8 +267,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
@@ -365,8 +365,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 149.0,
             "emission_standard": "Evro-6"
@@ -463,8 +463,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
@@ -561,8 +561,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
@@ -708,8 +708,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 152.0,
             "emission_standard": "Evro-6"
@@ -904,8 +904,8 @@
         },
         "fuel": {
             "fuel_tank_capacity": 50,
-            "fuel_consumption_urban": 4.5,
-            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
             "fuel_consumption_combined": 0.0,
             "co2_emissions": 149.0,
             "emission_standard": "Evro-6"

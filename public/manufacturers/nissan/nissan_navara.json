@@ -144,6 +144,7 @@
             "maximum_speed": 180,
             "acceleration100": 10.8
         },
-        "id": 2
+        "id": 2,
+        "deprecated": "true"
     }
 ]

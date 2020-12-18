@@ -25,7 +25,7 @@
             "fuel_consumption_urban": 9.2,
             "fuel_consumption_extra_urban": 7.2,
             "fuel_consumption_combined": 7.9,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -44,7 +44,7 @@
         },
         "speed": {
             "maximum_speed": 169,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
         "id": 0
     },
@@ -53,7 +53,7 @@
         "configuration": "ULTIMATE",
         "uniqueid": "e08484c0-84d1-443b-b6dd-99a8920126e3",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 18,
             "width": 265,
             "height": 60
@@ -74,7 +74,7 @@
             "fuel_consumption_urban": 9.9,
             "fuel_consumption_extra_urban": 7.8,
             "fuel_consumption_combined": 8.6,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -93,7 +93,7 @@
         },
         "speed": {
             "maximum_speed": 177,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
         "id": 1
     },
@@ -102,7 +102,7 @@
         "configuration": "INTENSE",
         "uniqueid": "cda87081-a958-440b-a073-60f9fe2e06e6",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 18,
             "width": 265,
             "height": 60
@@ -123,7 +123,7 @@
             "fuel_consumption_urban": 9.2,
             "fuel_consumption_extra_urban": 7.2,
             "fuel_consumption_combined": 7.9,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -142,7 +142,7 @@
         },
         "speed": {
             "maximum_speed": 173,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
         "id": 2
     }

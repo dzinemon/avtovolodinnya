@@ -32,7 +32,7 @@
             "engine_displacement": 1.998,
             "power": 121,
             "torque": 206,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -81,13 +81,13 @@
             "engine_displacement": 1.998,
             "power": 150,
             "torque": 206,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 6,
             "name": "AT"
         },
@@ -130,7 +130,7 @@
             "engine_displacement": 1.998,
             "power": 121,
             "torque": 206,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -179,7 +179,7 @@
             "engine_displacement": 1.998,
             "power": 150,
             "torque": 206,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""

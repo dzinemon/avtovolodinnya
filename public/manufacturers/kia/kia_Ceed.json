@@ -32,7 +32,7 @@
             "engine_displacement": 1.591,
             "power": 128,
             "torque": 155,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 1.591,
             "power": 128,
             "torque": 155,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""

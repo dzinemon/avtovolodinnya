@@ -179,7 +179,7 @@
             "engine_displacement": 1.461,
             "power": 90,
             "torque": 200,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""

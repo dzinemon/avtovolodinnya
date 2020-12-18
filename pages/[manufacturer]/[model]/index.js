@@ -83,7 +83,7 @@ export async function getStaticPaths() {
     
   })
 
-  console.log(finalPaths);
+  // console.log(finalPaths);
 
   return { 
     paths: finalPaths, 

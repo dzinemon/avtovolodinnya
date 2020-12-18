@@ -32,7 +32,7 @@
             "engine_displacement": 0.998,
             "power": 67,
             "torque": 95,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 1.248,
             "power": 84,
             "torque": 121,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -130,7 +130,7 @@
             "engine_displacement": 1.248,
             "power": 84,
             "torque": 121,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -179,7 +179,7 @@
             "engine_displacement": 1.248,
             "power": 84,
             "torque": 121,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""

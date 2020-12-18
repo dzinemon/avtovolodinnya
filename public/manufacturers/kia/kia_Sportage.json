@@ -32,7 +32,7 @@
             "engine_displacement": 1.591,
             "power": 132,
             "torque": 160.8,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -81,7 +81,7 @@
             "engine_displacement": 1.591,
             "power": 132,
             "torque": 160.8,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -130,7 +130,7 @@
             "engine_displacement": 1.591,
             "power": 132,
             "torque": 160.8,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -179,7 +179,7 @@
             "engine_displacement": 1.591,
             "power": 132,
             "torque": 160.8,
-            "fuel_system": "",
+            "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -228,7 +228,7 @@
             "engine_displacement": 1.598,
             "power": 115,
             "torque": 280,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -277,7 +277,7 @@
             "engine_displacement": 1.598,
             "power": 136,
             "torque": 320,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -326,7 +326,7 @@
             "engine_displacement": 1.598,
             "power": 136,
             "torque": 320,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -375,7 +375,7 @@
             "engine_displacement": 1.995,
             "power": 185,
             "torque": 400,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -424,7 +424,7 @@
             "engine_displacement": 1.995,
             "power": 185,
             "torque": 400,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""
@@ -473,7 +473,7 @@
             "engine_displacement": 1.995,
             "power": 185,
             "torque": 400,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""

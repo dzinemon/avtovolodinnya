@@ -35,7 +35,7 @@
             "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
-            "code": ""
+            "code": "CVT"
         },
         "transmission": {
             "transmission": "front-wheel drive",
@@ -81,7 +81,7 @@
             "engine_displacement": 1.798,
             "power": 122,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -89,7 +89,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 170,
@@ -130,7 +130,7 @@
             "engine_displacement": 1.987,
             "power": 135,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -138,7 +138,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 180,
@@ -179,7 +179,7 @@
             "engine_displacement": 1.987,
             "power": 184,
             "torque": 0,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -187,7 +187,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 180,

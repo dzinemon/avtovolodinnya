@@ -417,7 +417,7 @@
             "fuel_consumption_urban": 9.0,
             "fuel_consumption_extra_urban": 6.0,
             "fuel_consumption_combined": 7.1,
-            "co2_emissions": 165,
+            "co2_emissions": 165.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -436,9 +436,9 @@
         },
         "speed": {
             "maximum_speed": 0,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 10
+        "id": 8
     },
     {
         "model": "x-trail",
@@ -466,7 +466,7 @@
             "fuel_consumption_urban": 9.4,
             "fuel_consumption_extra_urban": 6.4,
             "fuel_consumption_combined": 7.5,
-            "co2_emissions": 174,
+            "co2_emissions": 174.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -485,9 +485,9 @@
         },
         "speed": {
             "maximum_speed": 180,
-            "acceleration100": 0
+            "acceleration100": 0.0
         },
-        "id": 11
+        "id": 9
     },
     {
         "model": "x-trail",
@@ -536,7 +536,7 @@
             "maximum_speed": 190,
             "acceleration100": 0.0
         },
-        "id": 8
+        "id": 10
     },
     {
         "model": "x-trail",
@@ -585,6 +585,6 @@
             "maximum_speed": 180,
             "acceleration100": 0.0
         },
-        "id": 9
+        "id": 11
     }
 ]

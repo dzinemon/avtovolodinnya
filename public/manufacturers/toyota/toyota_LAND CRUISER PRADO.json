@@ -31,16 +31,16 @@
         "engine": {
             "engine_displacement": 2.755,
             "power": 200,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 500,
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -80,16 +80,16 @@
         "engine": {
             "engine_displacement": 3.956,
             "power": 282,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 387,
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -129,16 +129,16 @@
         "engine": {
             "engine_displacement": 2.755,
             "power": 200,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 500,
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "At"
         },
         "speed": {
             "maximum_speed": 175,
@@ -178,16 +178,16 @@
         "engine": {
             "engine_displacement": 3.956,
             "power": 282,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 387,
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -227,16 +227,16 @@
         "engine": {
             "engine_displacement": 2.755,
             "power": 200,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 500,
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -276,16 +276,16 @@
         "engine": {
             "engine_displacement": 3.956,
             "power": 282,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 387,
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -325,16 +325,16 @@
         "engine": {
             "engine_displacement": 2.755,
             "power": 200,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 500,
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -374,16 +374,16 @@
         "engine": {
             "engine_displacement": 3.956,
             "power": 282,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 387,
+            "fuel_system": "petrol",
             "number_cylinders": 6,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -423,16 +423,16 @@
         "engine": {
             "engine_displacement": 2.755,
             "power": 200,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 500,
+            "fuel_system": "diesel",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
         },
         "speed": {
             "maximum_speed": 175,

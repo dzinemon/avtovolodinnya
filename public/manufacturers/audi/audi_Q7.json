@@ -1,0 +1,296 @@
+[
+    {
+        "model": "Q7",
+        "configuration": "BASIS 55 TFSI quattro",
+        "uniqueid": "937f1382-2ccc-4844-9d49-dbbf97733db1",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 255,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 5063,
+            "width": 1970,
+            "height": 1741,
+            "wheelbase": 2994,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 12.5
+        },
+        "fuel": {
+            "fuel_tank_capacity": 85,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 8.9,
+            "co2_emissions": 204.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.995,
+            "power": 340,
+            "torque": 500,
+            "fuel_system": "",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.9
+        },
+        "id": 0
+    },
+    {
+        "model": "Q7",
+        "configuration": "BASIS 50 TDI quattro",
+        "uniqueid": "11f47fad-9e6d-4d2f-8d07-6ca5f7076778",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 255,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 5052,
+            "width": 2212,
+            "height": 1741,
+            "wheelbase": 2994,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 12.5
+        },
+        "fuel": {
+            "fuel_tank_capacity": 75,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 199.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.967,
+            "power": 286,
+            "torque": 600,
+            "fuel_system": "",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 241,
+            "acceleration100": 6.5
+        },
+        "id": 1
+    },
+    {
+        "model": "Q7",
+        "configuration": "S LINE 55 TFSI quattro line",
+        "uniqueid": "ac871870-4832-432a-8ae1-570b5684c384",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 255,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 5063,
+            "width": 1970,
+            "height": 1741,
+            "wheelbase": 2994,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 12.5
+        },
+        "fuel": {
+            "fuel_tank_capacity": 85,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 8.9,
+            "co2_emissions": 204.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.995,
+            "power": 340,
+            "torque": 500,
+            "fuel_system": "",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.9
+        },
+        "id": 2
+    },
+    {
+        "model": "Q7",
+        "configuration": "S LINE 50 TDI quattro line",
+        "uniqueid": "57e4ba1b-2186-4c95-8f06-67bf48c1bf55",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 255,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 5052,
+            "width": 2212,
+            "height": 1741,
+            "wheelbase": 2994,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 12.5
+        },
+        "fuel": {
+            "fuel_tank_capacity": 75,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 199.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.967,
+            "power": 286,
+            "torque": 600,
+            "fuel_system": "",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 241,
+            "acceleration100": 6.5
+        },
+        "id": 3
+    },
+    {
+        "model": "Q7",
+        "configuration": "SQ7 TDI quattro",
+        "uniqueid": "8d38ffef-cda1-4468-b450-684863f865ea",
+        "year": 2020,
+        "tire": {
+            "radius": 20,
+            "width": 285,
+            "height": 45
+        },
+        "dimensions": {
+            "length": 5063,
+            "width": 2212,
+            "height": 1741,
+            "wheelbase": 2995,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 85,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.4,
+            "co2_emissions": 194.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.956,
+            "power": 435,
+            "torque": 900,
+            "fuel_system": "",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 4.8
+        },
+        "id": 4
+    },
+    {
+        "model": "Q7",
+        "configuration": "SQ7 TFSI quattro",
+        "uniqueid": "21ff7d98-53b2-4765-b061-e7adbec84031",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 5
+    }
+]

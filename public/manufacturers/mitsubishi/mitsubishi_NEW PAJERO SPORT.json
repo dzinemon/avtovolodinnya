@@ -25,7 +25,7 @@
             "fuel_consumption_urban": 8.7,
             "fuel_consumption_extra_urban": 6.7,
             "fuel_consumption_combined": 7.4,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -53,7 +53,7 @@
         "configuration": "INTENSE",
         "uniqueid": "694dbeee-1e96-496e-a93f-dd8285a648f2",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 18,
             "width": 265,
             "height": 60
@@ -74,7 +74,7 @@
             "fuel_consumption_urban": 8.9,
             "fuel_consumption_extra_urban": 7.0,
             "fuel_consumption_combined": 8.0,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -95,14 +95,15 @@
             "maximum_speed": 180,
             "acceleration100": 12.3
         },
-        "id": 1
+        "id": 1,
+        "deprecated": "true"
     },
     {
         "model": "NEW PAJERO SPORT",
         "configuration": "ULTIMATE",
         "uniqueid": "e2d20c98-cdc6-4ae6-9fa6-8cf724bfff1f",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 18,
             "width": 265,
             "height": 60
@@ -123,14 +124,14 @@
             "fuel_consumption_urban": 8.9,
             "fuel_consumption_extra_urban": 7.0,
             "fuel_consumption_combined": 8.0,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
             "engine_displacement": 2.442,
             "power": 181,
             "torque": 430,
-            "fuel_system": "",
+            "fuel_system": "diesel",
             "number_cylinders": 0,
             "turbine": "",
             "code": ""

@@ -18,14 +18,14 @@
             "rear_track_width": 1540,
             "overhang_ahead": 990,
             "overhang_behind": 1035,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 63,
             "fuel_consumption_urban": 9.6,
             "fuel_consumption_extra_urban": 6.4,
             "fuel_consumption_combined": 7.5,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -40,7 +40,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 193,
@@ -53,7 +53,7 @@
         "configuration": "INSTYLE",
         "uniqueid": "d8e48c87-0b91-4621-ae71-fb4f91ddec62",
         "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 18,
             "width": 225,
             "height": 55
@@ -67,18 +67,18 @@
             "rear_track_width": 1540,
             "overhang_ahead": 990,
             "overhang_behind": 1035,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
             "fuel_consumption_urban": 10.4,
             "fuel_consumption_extra_urban": 6.8,
             "fuel_consumption_combined": 8.1,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 2.360,
+            "engine_displacement": 2.36,
             "power": 167,
             "torque": 222,
             "fuel_system": "petrol",
@@ -87,9 +87,9 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "all-wheel drive", 
+            "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 198,
@@ -116,18 +116,18 @@
             "rear_track_width": 1540,
             "overhang_ahead": 990,
             "overhang_behind": 1035,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
             "fuel_consumption_urban": 10.4,
             "fuel_consumption_extra_urban": 6.8,
             "fuel_consumption_combined": 8.1,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 2.360,
+            "engine_displacement": 2.36,
             "power": 167,
             "torque": 222,
             "fuel_system": "petrol",
@@ -136,9 +136,9 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "all-wheel drive", 
+            "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 198,
@@ -165,14 +165,14 @@
             "rear_track_width": 1540,
             "overhang_ahead": 990,
             "overhang_behind": 1035,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 63,
             "fuel_consumption_urban": 9.6,
             "fuel_consumption_extra_urban": 6.4,
             "fuel_consumption_combined": 7.5,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -185,9 +185,9 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive", 
+            "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 193,
@@ -214,14 +214,14 @@
             "rear_track_width": 1540,
             "overhang_ahead": 990,
             "overhang_behind": 1035,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
             "fuel_consumption_urban": 9.9,
             "fuel_consumption_extra_urban": 6.6,
             "fuel_consumption_combined": 7.8,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -236,7 +236,7 @@
         "transmission": {
             "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 188,

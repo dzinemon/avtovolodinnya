@@ -18,14 +18,14 @@
             "rear_track_width": 1545,
             "overhang_ahead": 955,
             "overhang_behind": 780,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 63,
             "fuel_consumption_urban": 9.2,
             "fuel_consumption_extra_urban": 6.2,
             "fuel_consumption_combined": 7.3,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -38,7 +38,7 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive", 
+            "transmission": "front-wheel drive",
             "count": 8,
             "name": "CVT"
         },
@@ -53,7 +53,7 @@
         "configuration": "ULTIMATE",
         "uniqueid": "a852df79-c943-4a46-8322-85f53bdbcb86",
         "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 18,
             "width": 255,
             "height": 55
@@ -67,14 +67,14 @@
             "rear_track_width": 1545,
             "overhang_ahead": 955,
             "overhang_behind": 780,
-            "turning_diameter": 0
+            "turning_diameter": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
             "fuel_consumption_urban": 9.8,
             "fuel_consumption_extra_urban": 6.5,
             "fuel_consumption_combined": 7.7,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -87,7 +87,7 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "all-wheel drive", 
+            "transmission": "all-wheel drive",
             "count": 8,
             "name": "CVT"
         },

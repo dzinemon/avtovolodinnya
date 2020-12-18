@@ -31,7 +31,7 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
+            "torque": 203,
             "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
@@ -40,7 +40,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 6,
-            "name": ""
+            "name": "MT"
         },
         "speed": {
             "maximum_speed": 190,
@@ -80,7 +80,7 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
+            "torque": 203,
             "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
@@ -129,8 +129,8 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 203,
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -138,7 +138,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 190,
@@ -178,16 +178,16 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 203,
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 190,
@@ -227,14 +227,14 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 218,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": ""
         },
@@ -276,8 +276,8 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 222,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -325,16 +325,16 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 203,
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 190,
@@ -374,8 +374,8 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 218,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -423,14 +423,14 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 222,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": ""
         },
@@ -472,16 +472,16 @@
         "engine": {
             "engine_displacement": 1.987,
             "power": 173,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 203,
+            "fuel_system": "petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
             "maximum_speed": 190,
@@ -521,14 +521,14 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 222,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": ""
         },
@@ -570,8 +570,8 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 218,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -619,14 +619,14 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 222,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": ""
         },
@@ -668,8 +668,8 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 218,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
@@ -717,14 +717,14 @@
         "engine": {
             "engine_displacement": 2.487,
             "power": 222,
-            "torque": 0,
-            "fuel_system": "",
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 4,
             "turbine": "",
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive",
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": ""
         },

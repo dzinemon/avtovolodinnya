@@ -32,7 +32,7 @@
             "engine_displacement": 1.490,
             "power": 92,
             "torque": 120,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -40,7 +40,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -81,7 +81,7 @@
             "engine_displacement": 1.490,
             "power": 92,
             "torque": 120,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -89,7 +89,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -130,7 +130,7 @@
             "engine_displacement": 1.490,
             "power": 92,
             "torque": 120,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -138,7 +138,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 175,
@@ -179,7 +179,7 @@
             "engine_displacement": 1.490,
             "power": 92,
             "torque": 120,
-            "fuel_system": "",
+            "fuel_system": "hybrid_petrol",
             "number_cylinders": 3,
             "turbine": "",
             "code": ""
@@ -187,7 +187,7 @@
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "e-CVT"
         },
         "speed": {
             "maximum_speed": 175,

@@ -25,11 +25,11 @@
             "fuel_consumption_urban": 7.4,
             "fuel_consumption_extra_urban": 4.9,
             "fuel_consumption_combined": 5.8,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.590,
+            "engine_displacement": 1.59,
             "power": 117,
             "torque": 154,
             "fuel_system": "petrol",
@@ -38,7 +38,7 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "front-wheel drive", 
+            "transmission": "front-wheel drive",
             "count": 0,
             "name": "MT"
         },
@@ -53,7 +53,7 @@
         "configuration": "INSTYLE",
         "uniqueid": "ce42b05b-b6ce-4aa1-bebe-591c06a2588a",
         "year": 2020,
-      "tire": {
+        "tire": {
             "radius": 18,
             "width": 225,
             "height": 55
@@ -74,7 +74,7 @@
             "fuel_consumption_urban": 10.0,
             "fuel_consumption_extra_urban": 6.8,
             "fuel_consumption_combined": 7.9,
-            "co2_emissions": 0,
+            "co2_emissions": 0.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -87,7 +87,7 @@
             "code": ""
         },
         "transmission": {
-            "transmission": "all-wheel drive", 
+            "transmission": "all-wheel drive",
             "count": 0,
             "name": "CVT"
         },
