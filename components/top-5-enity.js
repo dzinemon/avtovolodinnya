@@ -1,7 +1,7 @@
 
 export default function Entity (props) {
   return (
-    <div className="my-10">
+    <div className="my-10" key={`pos-${props.pos}`}>
       <div className="flex flex-row justify-between items-center w-full">
         <div className="w-1/12 font-bold text-4xl">{props.pos}.</div>
         <div className="w-8/12 ">
