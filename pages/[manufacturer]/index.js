@@ -36,7 +36,8 @@ function Manufacturer({availableModels, manufacturer}) {
             <div className="grid grid-cols-2 sm:grid-cols-3 sm:text-base text-sm gap-4 grid-2">
             {availableModels.sort((a,b) => {
               return a.price[0] - b.price[0]
-            }).map((i, idx) => {
+            })
+              .map((i, idx) => {
                 const model = i.filename.replace(`${manufacturer}_`, '')
                 const price = getArrayToStr(i.price)
                 const hp = getArrayToStr(i.hp)
@@ -84,7 +85,7 @@ export async function getStaticProps({ params }) {
     .filter(i => i.indexOf('.DS_Store') === -1)
     .filter(i => i.includes('json'))
 
-  const availableModels = listOfFiles.map(item => {
+  const availableModels = listOfFiles.reduce((acc, item) => {
     const currentPath = `public/manufacturers/${params.manufacturer}/${item}`
     
     let modelImagePath = ''
@@ -99,44 +100,50 @@ export async function getStaticProps({ params }) {
     const rawData = fs.readFileSync(currentPath)
     const data = JSON.parse(rawData)
 
-    const getCurrentIdArr = data.map(j => j.uniqueid)
-    let priceArray = []
-    
+    const getCurrentIdArr = data.filter(j => !j.deprecated).map(j => j.uniqueid)
 
-    getCurrentIdArr.map(k => {      
-      const currentJPath = `public/manufacturers/${params.manufacturer}/prices/${k}.json`
-      function LoadCurrentPrices(filepath) {
-        const currentRawJData = fs.readFileSync(currentJPath, 'utf8')
-        const currentJData = JSON.parse(currentRawJData)
-        const currentJPrice = currentJData[currentJData.length - 1].price
-        priceArray.push(currentJPrice)
-      }
+    console.log(`getCurrentIdArr`)
+    console.log(getCurrentIdArr.length)
+
+    if (getCurrentIdArr.length > 0) {
+      let priceArray = []
+
+      getCurrentIdArr.map(k => {      
+        const currentJPath = `public/manufacturers/${params.manufacturer}/prices/${k}.json`
+        function LoadCurrentPrices(filepath) {
+          const currentRawJData = fs.readFileSync(currentJPath, 'utf8')
+          const currentJData = JSON.parse(currentRawJData)
+          const currentJPrice = currentJData[currentJData.length - 1].price
+          priceArray.push(currentJPrice)
+        }
+        
+        LoadCurrentPrices(currentJPath)
+      })
+
+      const priceArr = priceArray.filter(i => typeof i !== 'undefined').sort((a, b) => {
+        return a - b
+      })
       
-      LoadCurrentPrices(currentJPath)
-    })
+      const horsePowerArr = data.map(j => {
+        return j.engine.power
+      }).filter(i => typeof i !== 'undefined').sort((a, b) => {
+        return a - b
+      })
 
-    const priceArr = priceArray.filter(i => typeof i !== 'undefined').sort((a, b) => {
-      return a - b
-    })
-    
-    const horsePowerArr = data.map(j => {
-      return j.engine.power
-    }).filter(i => typeof i !== 'undefined').sort((a, b) => {
-      return a - b
-    })
+      // const finalPriceString = getArrayToStr(priceArr);
+      // const finalHpString = getArrayToStr(horsePowerArr);
 
-    // const finalPriceString = getArrayToStr(priceArr);
-    // const finalHpString = getArrayToStr(horsePowerArr);
-
-    return (
-      {
+      return [...acc, {
         filename: item.replace('.json', ''),
         price: priceArr,
         hp: horsePowerArr,
         modelImagePath: modelImagePath
-      }
-    )
-  })
+      }]
+        
+      
+    }
+    return acc     
+  },[])
 
   return {
     props: {
