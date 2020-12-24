@@ -178,23 +178,23 @@ function ModelDynamic(props) {
 
 
   function updateCar(el) {
-    let updatedCar = cars.filter(i => typeof i.model === 'string');
-    setModel(updatedCar[el].model);
-    setAFC(updatedCar[el].fuel.fuel_consumption_combined);
-    setConfiguration(updatedCar[el].configuration);
-    setDesignation(updatedCar[el].designation);
-    setPrice(updatedCar[el].price);
-    setHorsepower(updatedCar[el].engine.power);
-    setUniqueid(updatedCar[el].uniqueid);
+    let updatedCar = cars.filter(i => typeof i.model === 'string').filter(i => i.uniqueid === el);
+    setModel(updatedCar[0].model);
+    setAFC(updatedCar[0].fuel.fuel_consumption_combined);
+    setConfiguration(updatedCar[0].configuration);
+    setDesignation(updatedCar[0].designation);
+    setPrice(updatedCar[0].price);
+    setHorsepower(updatedCar[0].engine.power);
+    setUniqueid(updatedCar[0].uniqueid);
 
-    if (updatedCar[el].fuel === 'petrol' || updatedCar[el].fuel === 'hybrid') {
+    if (updatedCar[0].fuel === 'petrol' || updatedCar[0].fuel === 'hybrid') {
       setFuel('petrol');
     } else {
       setFuel('diesel');
     }
 
-    if (updatedCar[el].hasOwnProperty('tire')) {
-      setWheelSize(updatedCar[el].tire.radius);
+    if (updatedCar[0].hasOwnProperty('tire')) {
+      setWheelSize(updatedCar[0].tire.radius);
     } 
   }
   // tax
