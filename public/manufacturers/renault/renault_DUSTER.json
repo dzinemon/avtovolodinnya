@@ -1,0 +1,933 @@
+[
+    {
+        "model": "DUSTER",
+        "configuration": "Base",
+        "uniqueid": "7601181e-2dd8-470b-bc85-763870ca2dec",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 149.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 11.9
+        },
+        "id": 0
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Life",
+        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.5,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 120.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 171,
+            "acceleration100": 11.9
+        },
+        "id": 1
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Life",
+        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 122.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 158,
+            "acceleration100": 11.9
+        },
+        "id": 2
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Life",
+        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 149.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 11.9
+        },
+        "id": 3
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Life",
+        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.9,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 169,
+            "acceleration100": 11.9
+        },
+        "id": 4
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Life",
+        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.9
+        },
+        "id": 5
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Zen",
+        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 122.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 158,
+            "acceleration100": 11.9
+        },
+        "id": 6
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Zen",
+        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 149.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 11.9
+        },
+        "id": 7
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Zen",
+        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.9,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 169,
+            "acceleration100": 11.9
+        },
+        "id": 8
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Zen",
+        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.9
+        },
+        "id": 9
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Zen",
+        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.5,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 120.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 171,
+            "acceleration100": 11.9
+        },
+        "id": 10
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Intense",
+        "uniqueid": "b657c566-7a43-41e4-9851-c9e7e1e7896b",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.9
+        },
+        "id": 11
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Intense",
+        "uniqueid": "b657c566-7a43-41e4-9851-c9e7e1e7896b",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.5,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 120.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 171,
+            "acceleration100": 11.9
+        },
+        "id": 12
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Intense",
+        "uniqueid": "b657c566-7a43-41e4-9851-c9e7e1e7896b",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.9,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 169,
+            "acceleration100": 11.9
+        },
+        "id": 13
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Ultramarine",
+        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 10.6,
+            "fuel_consumption_extra_urban": 9.3,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.9
+        },
+        "id": 14
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Ultramarine",
+        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.9,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 169,
+            "acceleration100": 11.9
+        },
+        "id": 15
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Ultramarine",
+        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 122.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 158,
+            "acceleration100": 11.9
+        },
+        "id": 16
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Ultramarine",
+        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.5,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 120.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 110,
+            "torque": 260,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 171,
+            "acceleration100": 11.9
+        },
+        "id": 17
+    },
+    {
+        "model": "DUSTER",
+        "configuration": "Ultramarine",
+        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "year": 2020,
+        "tire": {
+            "radius": 16,
+            "width": 215,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4341,
+            "width": 1804,
+            "height": 1693,
+            "wheelbase": 2673,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 842,
+            "overhang_behind": 826,
+            "turning_diameter": 10.14
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 9.4,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 149.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.598,
+            "power": 115,
+            "torque": 156,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 11.9
+        },
+        "id": 18
+    }
+]

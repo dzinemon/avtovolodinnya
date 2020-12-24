@@ -1,0 +1,198 @@
+[
+    {
+        "model": "LAND CRUISER 200",
+        "configuration": "ELEGANCE",
+        "uniqueid": "83991809-b16f-4751-84ac-98ef355a0465",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4985,
+            "width": 1980,
+            "height": 1950,
+            "wheelbase": 2850,
+            "front_track_width": 1650,
+            "rear_track_width": 1645,
+            "overhang_ahead": 925,
+            "overhang_behind": 1175,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 93,
+            "fuel_consumption_urban": 18.0,
+            "fuel_consumption_extra_urban": 10.7,
+            "fuel_consumption_combined": 13.4,
+            "co2_emissions": 309.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 4.608,
+            "power": 309,
+            "torque": 439,
+            "fuel_system": "petrol",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 205,
+            "acceleration100": 8.6
+        },
+        "id": 0
+    },
+    {
+        "model": "LAND CRUISER 200",
+        "configuration": "ELEGANCE",
+        "uniqueid": "addaaad5-d448-4f95-9141-fbbc8ed2610b",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4985,
+            "width": 1980,
+            "height": 1950,
+            "wheelbase": 2850,
+            "front_track_width": 1650,
+            "rear_track_width": 1645,
+            "overhang_ahead": 925,
+            "overhang_behind": 1175,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 93,
+            "fuel_consumption_urban": 11.9,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 9.9,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 4.461,
+            "power": 249,
+            "torque": 650,
+            "fuel_system": "diesel",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 8.9
+        },
+        "id": 1
+    },
+    {
+        "model": "LAND CRUISER 200",
+        "configuration": "EXECUTIVE LOUNGE",
+        "uniqueid": "553e7557-bc89-4979-a795-628bd2837ecb",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4985,
+            "width": 1980,
+            "height": 1950,
+            "wheelbase": 2850,
+            "front_track_width": 1650,
+            "rear_track_width": 1645,
+            "overhang_ahead": 925,
+            "overhang_behind": 1175,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 93,
+            "fuel_consumption_urban": 18.0,
+            "fuel_consumption_extra_urban": 10.7,
+            "fuel_consumption_combined": 13.4,
+            "co2_emissions": 309.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 4.608,
+            "power": 309,
+            "torque": 439,
+            "fuel_system": "petrol",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 205,
+            "acceleration100": 8.6
+        },
+        "id": 2
+    },
+    {
+        "model": "LAND CRUISER 200",
+        "configuration": "EXECUTIVE LOUNGE",
+        "uniqueid": "c7948c87-0e96-444a-859c-3cf073040dd2",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4985,
+            "width": 1980,
+            "height": 1950,
+            "wheelbase": 2850,
+            "front_track_width": 1650,
+            "rear_track_width": 1645,
+            "overhang_ahead": 925,
+            "overhang_behind": 1175,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 93,
+            "fuel_consumption_urban": 11.5,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 9.9,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 4.461,
+            "power": 249,
+            "torque": 650,
+            "fuel_system": "diesel",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 8.9
+        },
+        "id": 3
+    }
+]

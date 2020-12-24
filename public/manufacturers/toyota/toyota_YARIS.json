@@ -1,0 +1,198 @@
+[
+    {
+        "model": "YARIS",
+        "configuration": "ACTIVE",
+        "uniqueid": "5927be65-77ef-486a-b987-276183de8ac6",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 3940,
+            "width": 1745,
+            "height": 1500,
+            "wheelbase": 2560,
+            "front_track_width": 1530,
+            "rear_track_width": 1530,
+            "overhang_ahead": 790,
+            "overhang_behind": 590,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 2.7,
+            "fuel_consumption_extra_urban": 3.5,
+            "fuel_consumption_combined": 3.1,
+            "co2_emissions": 71,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.490,
+            "power": 92,
+            "torque": 120,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.7
+        },
+        "id": 0
+    },
+    {
+        "model": "YARIS",
+        "configuration": "ELEGANT",
+        "uniqueid": "828bf4b8-f01d-4344-9e3f-7efef522e521",
+        "year": 2020,
+         "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 3940,
+            "width": 1745,
+            "height": 1500,
+            "wheelbase": 2560,
+            "front_track_width": 1530,
+            "rear_track_width": 1530,
+            "overhang_ahead": 790,
+            "overhang_behind": 590,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 2.7,
+            "fuel_consumption_extra_urban": 3.5,
+            "fuel_consumption_combined": 3.1,
+            "co2_emissions": 71,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.490,
+            "power": 92,
+            "torque": 120,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.7
+        },
+        "id": 1
+    },
+    {
+        "model": "YARIS",
+        "configuration": "STYLE",
+        "uniqueid": "012d45c3-548a-4ee9-b0ad-0a8848762ff5",
+        "year": 2020,
+       "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 3940,
+            "width": 1745,
+            "height": 1500,
+            "wheelbase": 2560,
+            "front_track_width": 1530,
+            "rear_track_width": 1530,
+            "overhang_ahead": 790,
+            "overhang_behind": 590,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 2.7,
+            "fuel_consumption_extra_urban": 3.5,
+            "fuel_consumption_combined": 3.1,
+            "co2_emissions": 71,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.490,
+            "power": 92,
+            "torque": 120,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.7
+        },
+        "id": 2
+    },
+    {
+        "model": "YARIS",
+        "configuration": "PREMIERE EDITION",
+        "uniqueid": "d36f22de-8d5a-4ec5-83a8-00e4e4f873c3",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 3940,
+            "width": 1745,
+            "height": 1500,
+            "wheelbase": 2560,
+            "front_track_width": 1530,
+            "rear_track_width": 1530,
+            "overhang_ahead": 790,
+            "overhang_behind": 590,
+            "turning_diameter": 5.2
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 2.7,
+            "fuel_consumption_extra_urban": 3.5,
+            "fuel_consumption_combined": 3.1,
+            "co2_emissions": 71,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.490,
+            "power": 92,
+            "torque": 120,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.7
+        },
+        "id": 3
+    }
+]

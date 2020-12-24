@@ -1,0 +1,349 @@
+[
+    {
+        "model": "CAMRY",
+        "configuration": "COMFORT",
+        "uniqueid": "cc0cff69-2dc3-44a6-89ff-b32a14570089",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.5,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 187.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.494,
+            "power": 181,
+            "torque": 231,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 9.7
+        },
+        "id": 0
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "ELEGANCE",
+        "uniqueid": "9bba8400-be90-4fe7-94d9-f0d0007bc07c",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 215,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.5,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 187.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.494,
+            "power": 181,
+            "torque": 231,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 9.7
+        },
+        "id": 1
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "PRESTIGE",
+        "uniqueid": "f0977925-8476-4729-ba71-dddcf2c3c641",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.5,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 187.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.494,
+            "power": 181,
+            "torque": 231,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 9.7
+        },
+        "id": 2
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "PRESTIGE HYBRID",
+        "uniqueid": "ab47756e-0673-41a9-88a2-755272a1a6e8",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.2,
+            "fuel_consumption_extra_urban": 4.4,
+            "fuel_consumption_combined": 4.5,
+            "co2_emissions": 103.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.3
+        },
+        "id": 3,
+        "deprecated": "true"
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "PREMIUM",
+        "uniqueid": "f0ca1949-eec5-45a1-a39f-905025954d9e",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 11.5,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 8.3,
+            "co2_emissions": 187.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.494,
+            "power": 181,
+            "torque": 231,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 210,
+            "acceleration100": 9.7
+        },
+        "id": 4,
+        "deprecated": "true"
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "PREMIUM",
+        "uniqueid": "ca90181d-6cad-4d01-9024-0c810561b659",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 234,
+            "height": 45
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 60,
+            "fuel_consumption_urban": 12.5,
+            "fuel_consumption_extra_urban": 6.4,
+            "fuel_consumption_combined": 8.7,
+            "co2_emissions": 197.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.456,
+            "power": 302,
+            "torque": 356,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 8,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 220,
+            "acceleration100": 7.7
+        },
+        "id": 5,
+        "deprecated": "true"
+    },
+    {
+        "model": "CAMRY",
+        "configuration": "PREMIUM HYBRID",
+        "uniqueid": "b2e0958c-4062-4513-b6c9-01e12862eea4",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 234,
+            "height": 45
+        },
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "front_track_width": 1590,
+            "rear_track_width": 1610,
+            "overhang_ahead": 975,
+            "overhang_behind": 1085,
+            "turning_diameter": 2.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.2,
+            "fuel_consumption_extra_urban": 4.4,
+            "fuel_consumption_combined": 4.2,
+            "co2_emissions": 103.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "e-CVT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.3
+        },
+        "id": 6,
+        "deprecated": "true"
+    }
+]

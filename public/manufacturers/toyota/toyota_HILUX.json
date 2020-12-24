@@ -1,0 +1,247 @@
+[
+    {
+        "model": "HILUX",
+        "configuration": "BUSINESS",
+        "uniqueid": "833bf04b-8a2f-4b03-ab39-7f737bbc39a8",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5325,
+            "width": 1855,
+            "height": 1815,
+            "wheelbase": 3085,
+            "front_track_width": 1540,
+            "rear_track_width": 1550,
+            "overhang_ahead": 985,
+            "overhang_behind": 1255,
+            "turning_diameter": 6.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 80,
+            "fuel_consumption_urban": 8.8,
+            "fuel_consumption_extra_urban": 6.6,
+            "fuel_consumption_combined": 7.4,
+            "co2_emissions": 196.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.393,
+            "power": 150,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 13.3
+        },
+        "id": 0
+    },
+    {
+        "model": "HILUX",
+        "configuration": "COMFORT",
+        "uniqueid": "320adfdc-930d-43b7-a807-75ba5d07e9c2",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5325,
+            "width": 1855,
+            "height": 1815,
+            "wheelbase": 3085,
+            "front_track_width": 1540,
+            "rear_track_width": 1550,
+            "overhang_ahead": 985,
+            "overhang_behind": 1255,
+            "turning_diameter": 6.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 80,
+            "fuel_consumption_urban": 8.8,
+            "fuel_consumption_extra_urban": 6.6,
+            "fuel_consumption_combined": 7.4,
+            "co2_emissions": 196.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.393,
+            "power": 150,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.8
+        },
+        "id": 1
+    },
+    {
+        "model": "HILUX",
+        "configuration": "COMFORT",
+        "uniqueid": "d7d1bbab-c88f-4c01-b83f-09de32a894a1",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5325,
+            "width": 1855,
+            "height": 1815,
+            "wheelbase": 3085,
+            "front_track_width": 1540,
+            "rear_track_width": 1550,
+            "overhang_ahead": 985,
+            "overhang_behind": 1255,
+            "turning_diameter": 6.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 80,
+            "fuel_consumption_urban": 9.5,
+            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.393,
+            "power": 150,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 170,
+            "acceleration100": 12.8
+        },
+        "id": 2
+    },
+    {
+        "model": "HILUX",
+        "configuration": "PREMIUM",
+        "uniqueid": "95abdec8-6fba-41be-a9ea-7962f8b94912",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5325,
+            "width": 1855,
+            "height": 1815,
+            "wheelbase": 3085,
+            "front_track_width": 1540,
+            "rear_track_width": 1550,
+            "overhang_ahead": 985,
+            "overhang_behind": 1255,
+            "turning_diameter": 6.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 80,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_combined": 8.0,
+            "co2_emissions": 209.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 204,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 10.8
+        },
+        "id": 3
+    },
+    {
+        "model": "HILUX",
+        "configuration": "LEGEND",
+        "uniqueid": "43142480-229a-4f30-8acc-f562f41be383",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5325,
+            "width": 1900,
+            "height": 1815,
+            "wheelbase": 3085,
+            "front_track_width": 1540,
+            "rear_track_width": 1550,
+            "overhang_ahead": 985,
+            "overhang_behind": 1255,
+            "turning_diameter": 6.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 80,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_combined": 8.0,
+            "co2_emissions": 209.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 204,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 10.8
+        },
+        "id": 4
+    }
+]

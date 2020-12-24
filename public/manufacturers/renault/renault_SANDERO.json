@@ -1,0 +1,296 @@
+[
+    {
+        "model": "SANDERO",
+        "configuration": "Base",
+        "uniqueid": "5dfe74ac-3b4f-4ffe-8f46-f59abaf71bb9",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.0,
+            "power": 75,
+            "torque": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
+    },
+    {
+        "model": "SANDERO",
+        "configuration": "Life+",
+        "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.0,
+            "power": 75,
+            "torque": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
+    },
+    {
+        "model": "SANDERO",
+        "configuration": "Life+",
+        "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 112.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.898,
+            "power": 90,
+            "torque": 140,
+            "fuel_system": "petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 169,
+            "acceleration100": 11.1
+        },
+        "id": 3
+    },
+    {
+        "model": "SANDERO",
+        "configuration": "Life+",
+        "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 5.7,
+            "fuel_consumption_extra_urban": 4.6,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 112.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.898,
+            "power": 90,
+            "torque": 140,
+            "fuel_system": "petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 5,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 11.0
+        },
+        "id": 4
+    },
+    {
+        "model": "SANDERO",
+        "configuration": "Life+",
+        "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 4.4,
+            "fuel_consumption_extra_urban": 3.7,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 103.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 90,
+            "torque": 220,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 167,
+            "acceleration100": 12.2
+        },
+        "id": 5
+    },
+    {
+        "model": "SANDERO",
+        "configuration": "Life+ з ГБО",
+        "uniqueid": "ea1c1eb2-1bac-4e15-a832-b5cdf467407c",
+        "year": 2020,
+       "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 65
+        },
+        "dimensions": {
+            "length": 4057,
+            "width": 1005,
+            "height": 1523,
+            "wheelbase": 2589,
+            "front_track_width": 1497,
+            "rear_track_width": 1486,
+            "overhang_ahead": 827,
+            "overhang_behind": 653,
+            "turning_diameter": 10.57
+        },
+        "fuel": {
+            "fuel_tank_capacity": 50,
+            "fuel_consumption_urban": 6.7,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 123.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.461,
+            "power": 90,
+            "torque": 220,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 8
+    }
+]

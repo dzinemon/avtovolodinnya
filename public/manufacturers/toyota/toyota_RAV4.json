@@ -1,0 +1,737 @@
+[
+    {
+        "model": "RAV4",
+        "configuration": "LIVE",
+        "uniqueid": "62ed6fcd-73df-49da-8be2-54c705dfd0ce",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 0,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 8.6,
+            "fuel_consumption_extra_urban": 5.7,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 155.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "M20A-FKS"
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "MT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 9.8
+        },
+        "id": 0
+    },
+    {
+        "model": "RAV4",
+        "configuration": "LIVE",
+        "uniqueid": "3caa1a0a-7208-46fb-bc4e-c7698bfb49a1",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 0,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 7.8,
+            "fuel_consumption_extra_urban": 5.7,
+            "fuel_consumption_combined": 6.5,
+            "co2_emissions": 178.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": "M20A-FKS"
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.7
+        },
+        "id": 1
+    },
+    {
+        "model": "RAV4",
+        "configuration": "ACTIVE",
+        "uniqueid": "c093e1ae-d1b1-445c-bd2f-e22327424572",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 7.8,
+            "fuel_consumption_extra_urban": 5.7,
+            "fuel_consumption_combined": 6.5,
+            "co2_emissions": 147.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 10.7
+        },
+        "id": 2
+    },
+    {
+        "model": "RAV4",
+        "configuration": "ACTIVE",
+        "uniqueid": "90a9388c-75cb-4b90-8d49-c38bd768dadd",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 5.8,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 153.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 11.0
+        },
+        "id": 3
+    },
+    {
+        "model": "RAV4",
+        "configuration": "ACTIVE",
+        "uniqueid": "38a6538d-b6fd-437d-83e6-d9e658060d7f",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.7,
+            "fuel_consumption_combined": 4.7,
+            "co2_emissions": 107.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.4
+        },
+        "id": 4
+    },
+    {
+        "model": "RAV4",
+        "configuration": "ACTIVE",
+        "uniqueid": "86119a32-4a03-4ef2-ae0f-4e64dda0e91d",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 5.0,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 109.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 222,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.1
+        },
+        "id": 5
+    },
+    {
+        "model": "RAV4",
+        "configuration": "LOUNGE",
+        "uniqueid": "6ccb078c-717b-46ab-a24a-cde7ebf1125e",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 5.8,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 153.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 11.0
+        },
+        "id": 6
+    },
+    {
+        "model": "RAV4",
+        "configuration": "LOUNGE",
+        "uniqueid": "62d7e1ce-2b63-4b37-b658-711bab61195b",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.7,
+            "fuel_consumption_combined": 4.7,
+            "co2_emissions": 107.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.4
+        },
+        "id": 7
+    },
+    {
+        "model": "RAV4",
+        "configuration": "LOUNGE",
+        "uniqueid": "f6627f77-f1de-4c67-a4d2-85fc08a37fc7",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 5.0,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 109.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 222,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.1
+        },
+        "id": 8
+    },
+    {
+        "model": "RAV4",
+        "configuration": "PREMIUM",
+        "uniqueid": "962dbb9b-0ac6-4a55-a849-5e497c9640d3",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 8.2,
+            "fuel_consumption_extra_urban": 5.8,
+            "fuel_consumption_combined": 5.7,
+            "co2_emissions": 153.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.987,
+            "power": 173,
+            "torque": 203,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": "CVT"
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 11.0
+        },
+        "id": 9
+    },
+    {
+        "model": "RAV4",
+        "configuration": "PREMIUM",
+        "uniqueid": "116078dd-46e1-4f25-90f1-c57feca77152",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 5.0,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 109.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 222,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.1
+        },
+        "id": 10
+    },
+    {
+        "model": "RAV4",
+        "configuration": "STYLE",
+        "uniqueid": "05b72210-1268-4692-ae02-dd41b2e2f518",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.7,
+            "fuel_consumption_combined": 4.7,
+            "co2_emissions": 107.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.4
+        },
+        "id": 11
+    },
+    {
+        "model": "RAV4",
+        "configuration": "STYLE",
+        "uniqueid": "e6e2adfd-1922-4675-8233-f1dd49bdf3a4",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 5.0,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 109.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 222,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.1
+        },
+        "id": 12
+    },
+    {
+        "model": "RAV4",
+        "configuration": "BLACK",
+        "uniqueid": "bd3ffbea-2d28-4342-a9f4-135949af0031",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 4.8,
+            "fuel_consumption_extra_urban": 4.7,
+            "fuel_consumption_combined": 4.7,
+            "co2_emissions": 107.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 218,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.4
+        },
+        "id": 13
+    },
+    {
+        "model": "RAV4",
+        "configuration": "BLACK",
+        "uniqueid": "3e92e05b-5c33-45fe-9092-091fd2e3d282",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4600,
+            "width": 1855,
+            "height": 1685,
+            "wheelbase": 2690,
+            "front_track_width": 1610,
+            "rear_track_width": 1640,
+            "overhang_ahead": 910,
+            "overhang_behind": 1000,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 55,
+            "fuel_consumption_urban": 5.0,
+            "fuel_consumption_extra_urban": 4.8,
+            "fuel_consumption_combined": 4.8,
+            "co2_emissions": 109.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.487,
+            "power": 222,
+            "torque": 221,
+            "fuel_system": "hybrid_petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 8.1
+        },
+        "id": 14
+    }
+]

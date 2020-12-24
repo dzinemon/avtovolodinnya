@@ -1,0 +1,198 @@
+[
+    {
+        "model": "Picanto",
+        "configuration": "Comfort",
+        "uniqueid": "43a74d06-346f-4df9-ab9b-8c7fae252da3",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 3595,
+            "width": 1595,
+            "height": 1495,
+            "wheelbase": 2400,
+            "front_track_width": 1393,
+            "rear_track_width": 1403,
+            "overhang_ahead": 675,
+            "overhang_behind": 520,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 35,
+            "fuel_consumption_urban": 5.6,
+            "fuel_consumption_extra_urban": 3.7,
+            "fuel_consumption_combined": 4.4,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.998,
+            "power": 67,
+            "torque": 95,
+            "fuel_system": "petrol",
+            "number_cylinders": 3,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 161,
+            "acceleration100": 14.3
+        },
+        "id": 0
+    },
+    {
+        "model": "Picanto",
+        "configuration": "Prestige",
+        "uniqueid": "d4331d58-f160-4a55-9399-79c179a678ba",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 3595,
+            "width": 1595,
+            "height": 1495,
+            "wheelbase": 2400,
+            "front_track_width": 1393,
+            "rear_track_width": 1403,
+            "overhang_ahead": 675,
+            "overhang_behind": 520,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 35,
+            "fuel_consumption_urban": 7.0,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 5.4,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.248,
+            "power": 84,
+            "torque": 121,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 161,
+            "acceleration100": 13.7
+        },
+        "id": 1
+    },
+    {
+        "model": "Picanto",
+        "configuration": "GTLINE",
+        "uniqueid": "baf364f9-65ed-48ac-aeb4-ac4a915bcdb9",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 3595,
+            "width": 1595,
+            "height": 1495,
+            "wheelbase": 2400,
+            "front_track_width": 1393,
+            "rear_track_width": 1403,
+            "overhang_ahead": 675,
+            "overhang_behind": 520,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 35,
+            "fuel_consumption_urban": 7.0,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 5.4,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.248,
+            "power": 84,
+            "torque": 121,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 161,
+            "acceleration100": 13.7
+        },
+        "id": 2
+    },
+    {
+        "model": "Picanto",
+        "configuration": "XLINE",
+        "uniqueid": "9457e2d3-9070-4a6c-84c5-ad84e75a54e6",
+        "year": 2020,
+        "tire": {
+            "radius": 15,
+            "width": 185,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 3595,
+            "width": 1595,
+            "height": 1495,
+            "wheelbase": 2400,
+            "front_track_width": 1393,
+            "rear_track_width": 1403,
+            "overhang_ahead": 675,
+            "overhang_behind": 520,
+            "turning_diameter": 4.7
+        },
+        "fuel": {
+            "fuel_tank_capacity": 35,
+            "fuel_consumption_urban": 7.0,
+            "fuel_consumption_extra_urban": 4.5,
+            "fuel_consumption_combined": 5.4,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.248,
+            "power": 84,
+            "torque": 121,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 4,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 161,
+            "acceleration100": 13.7
+        },
+        "id": 3
+    }
+]

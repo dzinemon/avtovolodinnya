@@ -1,0 +1,443 @@
+[
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "COMFORT",
+        "uniqueid": "85a53115-dc8b-4b4e-bb72-fc0f0fc0d6cf",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 200,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.9
+        },
+        "id": 0
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "COMFORT+",
+        "uniqueid": "8654f7c9-f30d-40c2-a31f-a02f0d2cbe29",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1605,
+            "rear_track_width": 1605,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 15.5,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 11.4,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.956,
+            "power": 282,
+            "torque": 387,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 8.8
+        },
+        "id": 1
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "ELEGANCE",
+        "uniqueid": "0dd6d3c0-8d25-4f99-810f-079bd98727fa",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 200,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "At"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.9
+        },
+        "id": 2
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PRESTIGE",
+        "uniqueid": "a5b6329d-a7ec-4a98-921c-1d50b9292b4a",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 15.5,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 11.4,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.956,
+            "power": 282,
+            "torque": 387,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 8.8
+        },
+        "id": 3
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PRESTIGE",
+        "uniqueid": "81fb05a2-ad03-4669-84bf-8dac3ce1d08e",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 200,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.9
+        },
+        "id": 4
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PRESTIGE+",
+        "uniqueid": "d59c4e7a-df3c-477e-a974-42d5c8a945fd",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1605,
+            "rear_track_width": 1605,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 15.5,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 11.4,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.956,
+            "power": 282,
+            "torque": 387,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 8.8
+        },
+        "id": 5
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PRESTIGE+",
+        "uniqueid": "987ac575-ef2f-4c6b-a9cd-bc5be9180ece",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1605,
+            "rear_track_width": 1605,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 200,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.9
+        },
+        "id": 6
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PREMIUM",
+        "uniqueid": "fe372007-1e78-42ac-8584-caa272ba9b03",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 15.5,
+            "fuel_consumption_extra_urban": 9.0,
+            "fuel_consumption_combined": 11.4,
+            "co2_emissions": 261.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.956,
+            "power": 282,
+            "torque": 387,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 8.8
+        },
+        "id": 7
+    },
+    {
+        "model": "LAND CRUISER PRADO",
+        "configuration": "PREMIUM",
+        "uniqueid": "b189fbdd-677c-46c0-b3b4-31e44f03f503",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4840,
+            "width": 1885,
+            "height": 1845,
+            "wheelbase": 2790,
+            "front_track_width": 1585,
+            "rear_track_width": 1585,
+            "overhang_ahead": 975,
+            "overhang_behind": 1075,
+            "turning_diameter": 5.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 87,
+            "fuel_consumption_urban": 9.6,
+            "fuel_consumption_extra_urban": 6.9,
+            "fuel_consumption_combined": 7.9,
+            "co2_emissions": 208.0,
+            "emission_standard": "Euro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.755,
+            "power": 200,
+            "torque": 500,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 175,
+            "acceleration100": 9.9
+        },
+        "id": 8
+    }
+]

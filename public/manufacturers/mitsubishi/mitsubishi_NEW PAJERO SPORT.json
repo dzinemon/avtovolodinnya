@@ -1,0 +1,150 @@
+[
+    {
+        "model": "NEW PAJERO SPORT",
+        "configuration": "INTENSE",
+        "uniqueid": "de853268-8c12-49ff-8f2f-19c6c3dfb404",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 265,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4825,
+            "width": 1815,
+            "height": 1835,
+            "wheelbase": 2800,
+            "front_track_width": 1520,
+            "rear_track_width": 1515,
+            "overhang_ahead": 900,
+            "overhang_behind": 1125,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 68,
+            "fuel_consumption_urban": 8.7,
+            "fuel_consumption_extra_urban": 6.7,
+            "fuel_consumption_combined": 7.4,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.442,
+            "power": 181,
+            "torque": 430,
+            "fuel_system": "diesel",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 6,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 11.4
+        },
+        "id": 0
+    },
+    {
+        "model": "NEW PAJERO SPORT",
+        "configuration": "INTENSE",
+        "uniqueid": "694dbeee-1e96-496e-a93f-dd8285a648f2",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 265,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4825,
+            "width": 1815,
+            "height": 1805,
+            "wheelbase": 2800,
+            "front_track_width": 1520,
+            "rear_track_width": 1515,
+            "overhang_ahead": 900,
+            "overhang_behind": 1125,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 68,
+            "fuel_consumption_urban": 8.9,
+            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_combined": 8.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.442,
+            "power": 181,
+            "torque": 430,
+            "fuel_system": "diesel",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 8,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 12.3
+        },
+        "id": 1,
+        "deprecated": "true"
+    },
+    {
+        "model": "NEW PAJERO SPORT",
+        "configuration": "ULTIMATE",
+        "uniqueid": "e2d20c98-cdc6-4ae6-9fa6-8cf724bfff1f",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 265,
+            "height": 60
+        },
+        "dimensions": {
+            "length": 4825,
+            "width": 1815,
+            "height": 1835,
+            "wheelbase": 2800,
+            "front_track_width": 1520,
+            "rear_track_width": 1515,
+            "overhang_ahead": 900,
+            "overhang_behind": 1125,
+            "turning_diameter": 5.6
+        },
+        "fuel": {
+            "fuel_tank_capacity": 68,
+            "fuel_consumption_urban": 8.9,
+            "fuel_consumption_extra_urban": 7.0,
+            "fuel_consumption_combined": 8.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.442,
+            "power": 181,
+            "torque": 430,
+            "fuel_system": "diesel",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 8,
+            "name": "AT"
+        },
+        "speed": {
+            "maximum_speed": 180,
+            "acceleration100": 12.3
+        },
+        "id": 2
+    }
+]
