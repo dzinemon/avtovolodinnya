@@ -1,0 +1,273 @@
+[
+  {
+    "manufacturer": "kia",
+    "descriptione": [
+        "Kia Picanto - одна з найдоступніших машин, яку можна купити за гроші. Це стосується всього, починаючи з роздрібної ціни, закінчуючи пальним та іншими витратними матеріалами",
+        "Picanto є гідним виконавцем водійських цінностей, а низькі ціни за це авто означають, що гроші, які ви втратите, порівняно невеликі у порівнянні з автомобілями цього класу."
+    ],
+    "model": "Picanto",
+    "configuration": "Comfort",
+    "uniqueid": "43a74d06-346f-4df9-ab9b-8c7fae252da3",
+    "year": 2020,
+    "tire": {
+        "radius": 15,
+        "width": 185,
+        "height": 55
+    },
+    "dimensions": {
+        "length": 3595,
+        "width": 1595,
+        "height": 1495,
+        "wheelbase": 2400,
+        "front_track_width": 1393,
+        "rear_track_width": 1403,
+        "overhang_ahead": 675,
+        "overhang_behind": 520,
+        "turning_diameter": 4.7
+    },
+    "fuel": {
+        "fuel_tank_capacity": 35,
+        "fuel_consumption_urban": 5.6,
+        "fuel_consumption_extra_urban": 3.7,
+        "fuel_consumption_combined": 4.4,
+        "co2_emissions": 0.0,
+        "emission_standard": "Evro-6"
+    },
+    "engine": {
+        "engine_displacement": 0.998,
+        "power": 67,
+        "torque": 95,
+        "fuel_system": "petrol",
+        "number_cylinders": 3,
+        "turbine": "",
+        "code": ""
+    },
+    "transmission": {
+        "transmission": "front-wheel drive",
+        "count": 4,
+        "name": "AT"
+    },
+    "speed": {
+        "maximum_speed": 161,
+        "acceleration100": 14.3
+    },
+    "id": 0
+},
+{
+"manufacturer": "citroen",
+"descriptione": [
+    "Citroen спробував втілити одну з основних цінностей бренду в C3: комфорт.",
+    "Це розумний вибір для покупців, котрі хочуть мати привабливий на вигляд маленький автомобіль за вигідною ціною.",
+    "Унікальний стиль C3 означає, що він пропонує щось суттєво інше для своїх конкурентів класу."
+],
+  "model": "C3",
+  "configuration": "FEEL",
+  "uniqueid": "54cf6337-9cde-4f9b-9779-e75a7f03edcc",
+  "year": 2020,
+  "tire": {
+      "radius": 16,
+      "width": 205,
+      "height": 55
+  },
+  "dimensions": {
+      "length": 3996,
+      "width": 1749,
+      "height": 1474,
+      "wheelbase": 2539,
+      "front_track_width": 1471,
+      "rear_track_width": 1471,
+      "overhang_ahead": 648,
+      "overhang_behind": 809,
+      "turning_diameter": 0
+  },
+  "fuel": {
+      "fuel_tank_capacity": 45,
+      "fuel_consumption_urban": 5.7,
+      "fuel_consumption_extra_urban": 4.1,
+      "fuel_consumption_combined": 4.7,
+      "co2_emissions": 109,
+      "emission_standard": "Evro-6"
+  },
+  "engine": {
+      "engine_displacement": 1.199,
+      "power": 82,
+      "torque": 0,
+      "fuel_system": "petrol",
+      "number_cylinders": 0,
+      "turbine": "",
+      "code": ""
+  },
+  "transmission": {
+      "transmission": "front-wheel drive",
+      "count": 5,
+      "name": "MT"
+  },
+  "speed": {
+      "maximum_speed": 168,
+      "acceleration100": 13.0
+  },
+  "id": 0
+},
+{
+"manufacturer": "kia",
+"descriptione": [
+    "Kia Rio модель четвертого покоління, він має еволюційний дизайн зсередини та зовні, пропонує високі характеристики та ефективність."
+],
+  "model": "Rio_hatchback",
+  "configuration": "Comfort",
+  "uniqueid": "f1c20f2f-cb8f-4799-98a8-162b50f24918",
+  "year": 2020,
+  "tire": {
+      "radius": 15,
+      "width": 185,
+      "height": 65
+  },
+  "dimensions": {
+      "length": 4065,
+      "width": 1725,
+      "height": 1460,
+      "wheelbase": 2580,
+      "front_track_width": 1518,
+      "rear_track_width": 1524,
+      "overhang_ahead": 830,
+      "overhang_behind": 655,
+      "turning_diameter": 5.1
+  },
+  "fuel": {
+      "fuel_tank_capacity": 45,
+      "fuel_consumption_urban": 6.0,
+      "fuel_consumption_extra_urban": 4.1,
+      "fuel_consumption_combined": 4.8,
+      "co2_emissions": 0.0,
+      "emission_standard": "Evro-6"
+  },
+  "engine": {
+      "engine_displacement": 1.248,
+      "power": 86,
+      "torque": 121,
+      "fuel_system": "petrol",
+      "number_cylinders": 0,
+      "turbine": "",
+      "code": ""
+  },
+  "transmission": {
+      "transmission": "front-wheel drive",
+      "count": 5,
+      "name": "MT"
+  },
+  "speed": {
+      "maximum_speed": 170,
+      "acceleration100": 12.9
+  },
+  "id": 0
+},
+{
+"manufacturer": "citroen",
+"descriptione": [
+    "Сitroen C-Elysee доступний транспортний засіб, який визначається масами невибагливих клієнтів",
+    "Автомобіль порівняно легкий, і зі своїми двигуном забезпечує транспортний засіб достатньою потужністю."
+],
+  "model": "C-ELYSEE",
+  "configuration": "FEEL",
+  "uniqueid": "c3e2926e-0596-422c-bd43-50271db88d79",
+  "year": 2020,
+   "tire": {
+      "radius": 15,
+      "width": 185,
+      "height": 65
+  },
+  "dimensions": {
+      "length": 4419,
+      "width": 1748,
+      "height": 1466,
+      "wheelbase": 0,
+      "front_track_width": 0,
+      "rear_track_width": 0,
+      "overhang_ahead": 0,
+      "overhang_behind": 0,
+      "turning_diameter": 0
+  },
+  "fuel": {
+      "fuel_tank_capacity": 50,
+      "fuel_consumption_urban": 6.0,
+      "fuel_consumption_extra_urban": 4.3,
+      "fuel_consumption_combined": 4.9,
+      "co2_emissions": 114,
+      "emission_standard": "Evro-6"
+  },
+  "engine": {
+      "engine_displacement": 1.560,
+      "power": 59,
+      "torque": 0,
+      "fuel_system": "petrol",
+      "number_cylinders": 0,
+      "turbine": "",
+      "code": ""
+  },
+  "transmission": {
+      "transmission": "front-wheel drive",
+      "count": 5,
+      "name": "MT"
+  },
+  "speed": {
+      "maximum_speed": 160,
+      "acceleration100": 12.9
+  },
+  "id": 0
+},
+{
+"manufacturer": "suzuki",
+"descriptione": [
+    "Suzuki SX4 не є найочевиднішим суперником у своєму сегменті, але нехай це не заважає вам, це авто варте вашої уваги.",
+    "SX4 може запропонувати багато, з низькими експлуатаційними витратами, розумною надійністю та щедрими комплектаціями.",
+    "Відсутність місця на задніх сидіннях - це, мабуть, найбільший мінус володіння Suzuki SX4, але якщо це не проблема для вас і ви хочете позашляховик середнього розміру, Suzuki SX4 може бути саме тим, що вам потрібно.",
+    "Двигуна 1,6 л (117 л.с.) достатньо для щоденної їзди."
+],
+  "model": "SX4",
+  "configuration": "GL",
+  "uniqueid": "a1fc56bf-a547-4379-a740-6ab45ff85eb3",
+  "tire": {
+      "radius": 16,
+      "width": 215,
+      "height": 60
+  },
+  "dimensions": {
+      "length": 4300,
+      "width": 1765,
+      "height": 1585,
+      "wheelbase": 2600,
+      "front_track_width": 1535,
+      "rear_track_width": 1505,
+      "overhang_ahead": 0,
+      "overhang_behind": 0,
+      "turning_diameter": 1.4
+  },
+  "fuel": {
+      "fuel_tank_capacity": 47,
+      "fuel_consumption_urban": 5.9,
+      "fuel_consumption_extra_urban": 7.2,
+      "fuel_consumption_combined": 5.1,
+      "co2_emissions": 0.0,
+      "emission_standard": "Evro-5"
+  },
+  "engine": {
+      "engine_displacement": 1.586,
+      "power": 117,
+      "torque": 151,
+      "fuel_system": "petrol",
+      "number_cylinders": 4,
+      "turbine": "",
+      "code": "M16A"
+  },
+  "transmission": {
+      "transmission": "front-wheel drive",
+      "count": 5,
+      "name": "MT"
+  },
+  "speed": {
+      "maximum_speed": 180,
+      "acceleration100": 11.0
+  },
+  "id": 0
+}
+]

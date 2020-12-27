@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import fs from 'fs'
+
 import Seo from "../components/seo";
 import Nav from "../components/nav";
 
@@ -8,7 +10,7 @@ import Footer from "../components/footer";
 
 import CarEntity from '../components/top-5-enity'
 
-function TopFive() {
+function TopFive({data}) {
   return (
     <GaWrapper>
       <Seo />
@@ -28,12 +30,14 @@ function TopFive() {
           </div>
           <div className="absolute inset-0">
             <div className="xl:container mx-auto my-4 px-4">
-              <h1 className="text-3xl sm:text-5xl relative z-10 font-bold py-4 sm:py-10">
+              <h1 
+              style={{ backgroundColor: "rgba(49, 130, 206, 0.65)" }}
+              className="text-3xl sm:text-5xl relative z-10 font-bold py-2 px-2">
                 <span
-                  style={{ backgroundColor: "rgba(49, 130, 206, 0.65)" }}
-                  className="text-white px-4 py-2"
+                  
+                  className="text-white"
                 >
-                  Топ 5 авто under 25000 USD
+                  Топ 5 найекономічніших авто з бензиновими двигунами
                 </span>
               </h1>
             </div>
@@ -45,28 +49,34 @@ function TopFive() {
           <a className="text-gray-700 hover:text-gray-500" href="/">
             Головна
           </a>
-          <span className="text-gray-400"> / </span>
+          {/* <span className="text-gray-400"> / </span>
           <a className="text-gray-700 hover:text-gray-500 capitalize" href="">
             Топ 5 обзоры
-          </a>
+          </a> */}
           <span className="text-gray-400"> / </span>
-          <span className="text-gray-700 capitalize">Топ 5 авто under 25000 USD</span>
+          <span className="text-gray-700 capitalize">Самі економічні автомобілі з бензиновими двигунами</span>
         </div>
       </div>
       <div className="xl:container mx-auto my-4 px-4 sm:text-xs text-sm">
-        Опубликовано: <strong>Avtovolodinnya</strong> | <strong>12/12/2020</strong> 
+        Опубликовано: <strong>Avtovolodinnya</strong> | <strong>25/12/2020</strong> 
       </div>
       <main className="my-6 sm:my-10">
         <div className="xl:container mx-auto my-4 px-4 flex flex-wrap">
           <div className="sm:w-8/12">
-          <p className="my-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Senectus et netus et malesuada fames. A cras semper auctor neque vitae tempus. Viverra ipsum nunc aliquet bibendum. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Risus ultricies tristique nulla aliquet enim tortor. Eros donec ac odio tempor orci dapibus ultrices. Egestas congue quisque egestas diam in.</p>
-          <p className="my-4">Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Elit eget gravida cum sociis natoque penatibus et. Nibh mauris cursus mattis molestie a iaculis. Gravida arcu ac tortor dignissim convallis aenean et. A lacus vestibulum sed arcu non odio euismod lacinia at. Quisque non tellus orci ac auctor. Venenatis cras sed felis eget velit. Purus viverra accumsan in nisl. Non nisi est sit amet facilisis magna etiam tempor orci. .</p>
+          <p className="my-4">
+            Багато водіїв хочуть заощадити паливо при покупці автомобіля. Значення споживання базуються на стандартних методах вимірювання на випробувальний стенд.
+          </p>
+          <p className="my-4">
+            На avtovolodinnya.com ми зібрали значення споживання палива для 5 найекономічніших авто з бензиновими двигунами (витрата на 100 кілометрів у змішаному циклі).
+          </p>
           {
-            [1,2,3,4,5]
-              .sort( (a,b) => b-a)
-              .map((i, idx) => {
+            data.map((i, idx) => {
                 return (
-                  <CarEntity pos={i} />
+                  <div className="my-5" key={`top5-car-${idx}`}>
+                    <CarEntity pos={++idx} car={i} />
+                    
+                  </div>
+                    
                 )
               })
           }
@@ -74,7 +84,10 @@ function TopFive() {
           </div>
           <div className="sm:w-4/12 my-4 pl-10">
             <p>
-              <strong>Contact us</strong>
+              <a 
+                className="text-blue-600 hover:text-blue-400"
+                href="mailto:avtovolodinnya@gmail.com"><strong>Contact us</strong></a>
+              
             </p>
           </div>
 
@@ -85,6 +98,36 @@ function TopFive() {
       <Footer />
     </GaWrapper>
   );
+}
+
+
+
+export async function getStaticProps(context) {
+
+
+  const url = `public/top5.json`
+  const rawData = fs.readFileSync(url)
+
+  const data = JSON.parse(rawData)
+
+  //read price
+  const getPrice = data.map(i => {
+    const idsh = i.uniqueid
+
+    const priceUrl = `public/manufacturers/${i.manufacturer}/prices/${i.uniqueid}.json`
+
+    const currentRawJData = fs.readFileSync(priceUrl, 'utf8')
+    const currentJData = JSON.parse(currentRawJData)
+    const currentJPrice = currentJData[currentJData.length - 1].price
+
+    return {...i, price: currentJPrice}
+  })
+
+  return {
+    props: {
+      data: getPrice
+    }, // will be passed to the page component as props
+  }
 }
 
 export default TopFive;
