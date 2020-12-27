@@ -6,12 +6,12 @@ export default function Entity (props) {
 
   return (
     <div className="my-10" key={`pos-${pos}`}>
-      <div className="flex flex-row justify-start items-center w-full">
-        <div className="w-1/12 font-bold text-4xl">{pos}.</div>
+      <div className="flex flex-row flex-wrap justify-start items-center w-full">
+        <div className="w-1/12 font-bold text-2xl sm:text-4xl">{pos}.</div>
         <div className="w-auto ">
-          <h2 className="text-4xl w-auto capitalize">{car.manufacturer} {car.model.replace('_', ' ')} {car.configuration} {car.engine.engine_dispalcement}</h2> 
+          <h2 className="text-xl sm:text-4xl w-auto capitalize">{car.manufacturer} {car.model.replace('_', ' ')} {car.configuration} {car.engine.engine_dispalcement}</h2> 
         </div>
-        <div className="w-auto text-gray-700 pl-2 text-2xl font-semibold">(Витрата: {car.fuel.fuel_consumption_combined} л) </div>
+        <div className="sm:w-auto w-full text-gray-700 pl-2 text-md sm:text-2xl font-semibold">(Витрата: {car.fuel.fuel_consumption_combined} л) </div>
         {/* <a href={`/${car.manufacturer}/${car.model}/`} className="text-blue-600 w-3/12 font-semibold">Більше </a> */}
       </div>
 
@@ -24,7 +24,7 @@ export default function Entity (props) {
         <li>Витрата пального: {car.fuel.fuel_consumption_combined} л/100км</li>
         <li>Потужність: {car.engine.power} к.с.</li>
         <li>Acceleration 0-100: {car.speed.acceleration100} сек</li>
-        <li>Двигатель: {Number(car.engine.engine_displacement).toFixed(1)}л </li>
+        <li>Двигун: {Number(car.engine.engine_displacement).toFixed(1)}л </li>
         <li>Трансмісія: {car.transmission.count}{car.transmission.name}</li>
       </ul>
       

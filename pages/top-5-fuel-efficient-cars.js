@@ -13,7 +13,11 @@ import CarEntity from '../components/top-5-enity'
 function TopFive({data}) {
   return (
     <GaWrapper>
-      <Seo />
+      <Seo 
+        title={`Топ 5 найекономічніших авто з бензиновими двигунами`}
+        description={`Найекономічніші авто з витратою на 100 кілометрів у змішаному циклі від Kia, Citroen та Suzuki`}
+        currentPath={`top-5-fuel-efficient-cars`}
+      />
       <Nav />
 
       <div className="xl:container mx-auto">
@@ -63,12 +67,14 @@ function TopFive({data}) {
       <main className="my-6 sm:my-10">
         <div className="xl:container mx-auto my-4 px-4 flex flex-wrap">
           <div className="sm:w-8/12">
-          <p className="my-4">
-            Багато водіїв хочуть заощадити паливо при покупці автомобіля. Значення споживання базуються на стандартних методах вимірювання на випробувальний стенд.
-          </p>
-          <p className="my-4">
-            На avtovolodinnya.com ми зібрали значення споживання палива для 5 найекономічніших авто з бензиновими двигунами (витрата на 100 кілометрів у змішаному циклі).
-          </p>
+          <div className="px-3 py-2 rounded-lg bg-gray-100 border border-gray-300">
+            <p className="text-lg">
+              Багато водіїв хочуть заощадити паливо при покупці автомобіля. Значення споживання базуються на стандартних методах вимірювання на випробувальному стенді.
+            </p>
+            <p className="mt-4 text-lg">
+              На avtovolodinnya.com ми зібрали значення споживання палива для 5 найекономічніших авто з бензиновими двигунами (витрата на 100 кілометрів у змішаному циклі).
+            </p>
+          </div>
           {
             data.map((i, idx) => {
                 return (
