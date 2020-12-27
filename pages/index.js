@@ -6,14 +6,26 @@ import Nav from '../components/nav'
 import GaWrapper from '../components/gawrapper'
 
 import SectionOne from '../components/home/sectionOne'
-// import SectionTwo from '../components/home/sectionTwo'
+import SectionTop5 from '../components/home/sectionTop5'
+
+import getCurrency from '../utils/getCurrency'
+
 import Footer from '../components/footer'
 
 import fs from 'fs'
 import path from 'path'
+import { useEffect, useState } from 'react'
 
 // availableManufacturers will be populated at build time by getStaticProps()
 function Home({availableManufacturers, allModels}) {
+
+  const [currentCurrency, setCurrency] = useState()
+
+  useEffect(async()=>{ 
+    const fetchedCurrency = await getCurrency()
+    setCurrency(fetchedCurrency)
+  },[])
+  
   return (
 
     <>
@@ -29,6 +41,9 @@ function Home({availableManufacturers, allModels}) {
           </h1>
           <p className="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
             Розрахуйте вартість володіння автомобілем
+          </p>
+          <p className="hidden">
+            {currentCurrency}
           </p>
         </div>
   
@@ -60,7 +75,7 @@ function Home({availableManufacturers, allModels}) {
         </div>
       </main>
       <SectionOne manufacturers={availableManufacturers} models={allModels} />
-      {/* <SectionTwo /> */}
+      <SectionTop5 />
       <Footer />
     </GaWrapper>
   </>
