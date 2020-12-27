@@ -23,12 +23,16 @@ function Footer() {
             <div className="py-4 mt-3 text-sm">
               <p className="font-semibold mb-2">АвтоВиробники</p>
               <ul>
-                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/audi">audi</a></li>
-                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/bmw">bmw</a></li>
+                {/* <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/audi">audi</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/bmw">bmw</a></li> */}
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/citroen">citroen</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/kia">kia</a></li>
                 <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/mazda">mazda</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/mitsubishi">mitsubishi</a></li>
                 <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/nissan">nissan</a></li>
                 <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/renault">renault</a></li>
                 <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/suzuki">suzuki</a></li>
+                <li><a className="capitalize text-blue-800 hover:text-blue-600" href="/toyota">toyota</a></li>
               </ul>
             </div>
             <div className="py-4 mt-3 text-sm">
