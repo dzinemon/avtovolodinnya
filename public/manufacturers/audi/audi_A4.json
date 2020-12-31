@@ -1,0 +1,443 @@
+[
+    {
+        "model": "A4",
+        "configuration": "BASIS 40 TFSI",
+        "uniqueid": "79c583ab-9329-4d20-bfcc-f3b1f96b25ee",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.0,
+            "co2_emissions": 137.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 140,
+            "torque": 320,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 241,
+            "acceleration100": 7.3
+        },
+        "id": 0
+    },
+    {
+        "model": "A4",
+        "configuration": "BASIS 45 TFSI quattro",
+        "uniqueid": "291257a4-c9a8-47f2-aabd-554c104aa063",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 155.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 245,
+            "torque": 370,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 6.3
+        },
+        "id": 1
+    },
+    {
+        "model": "A4",
+        "configuration": "BASIS 40 TDI quattro",
+        "uniqueid": "2fc91db2-a468-495d-a717-e4ac9e061337",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 58,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 5.3,
+            "co2_emissions": 139.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 190,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 230,
+            "acceleration100": 7.4
+        },
+        "id": 2
+    },
+    {
+        "model": "A4",
+        "configuration": "ADVANCED 40 TFSI advanced",
+        "uniqueid": "91a6d6cd-f7b1-47d2-a779-bf995e302b9f",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+         "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.0,
+            "co2_emissions": 137.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 140,
+            "torque": 320,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 241,
+            "acceleration100": 7.3
+        },
+        "id": 3
+    },
+    {
+        "model": "A4",
+        "configuration": "ADVANCED 45 TFSI quattro advanced",
+        "uniqueid": "60fa7a93-e307-4bea-9699-50f5a90d41a0",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+         "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 155.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 245,
+            "torque": 370,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 6.3
+        },
+        "id": 4
+    },
+    {
+        "model": "A4",
+        "configuration": "ADVANCED 40 TDI quattro advanced",
+        "uniqueid": "7104971c-0610-47fa-98b5-af9ba03213fc",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+        "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 58,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 5.3,
+            "co2_emissions": 139.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 190,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 230,
+            "acceleration100": 7.4
+        },
+        "id": 5
+    },
+    {
+        "model": "A4",
+        "configuration": "S LINE 40 TFSI line",
+        "uniqueid": "5b466d77-fd71-4b47-bb53-2a8f3a582a03",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+         "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.0,
+            "co2_emissions": 137.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 140,
+            "torque": 320,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 241,
+            "acceleration100": 7.3
+        },
+        "id": 6
+    },
+    {
+        "model": "A4",
+        "configuration": "S LINE 45 TFSI quattro line",
+        "uniqueid": "0f587859-065a-4b9c-bddb-f0a7b06c080d",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+         "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 54,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 155.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 245,
+            "torque": 370,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 6.3
+        },
+        "id": 7
+    },
+    {
+        "model": "A4",
+        "configuration": "S LINE 40 TDI quattro line",
+        "uniqueid": "32147892-d8b9-41a4-9344-2aa61da44d79",
+        "year": 2020,
+        "tire": {
+            "radius": 17,
+            "width": 225,
+            "height": 50
+        },
+         "dimensions": {
+            "length": 4762,
+            "width": 1847,
+            "height": 1428,
+            "wheelbase": 2820,
+            "front_track_width": 1572,
+            "rear_track_width": 1555,
+            "overhang_ahead": 899,
+            "overhang_behind": 1043,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 58,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 5.3,
+            "co2_emissions": 139.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 190,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 230,
+            "acceleration100": 7.4
+        },
+        "id": 8
+    }
+]

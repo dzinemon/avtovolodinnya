@@ -3,7 +3,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Life+",
         "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -18,7 +17,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -52,7 +52,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Life+",
         "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -67,7 +66,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -101,7 +101,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Life+",
         "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -116,7 +115,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -150,7 +150,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Zen",
         "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -165,7 +164,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -199,7 +199,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Zen",
         "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -214,7 +213,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -248,7 +248,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Zen",
         "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -263,7 +262,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -297,7 +297,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Ultramarine",
         "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -312,7 +311,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -346,7 +346,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Ultramarine",
         "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -361,7 +360,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -395,7 +395,6 @@
         "model": "SANDERO Stepway",
         "configuration": "Ultramarine",
         "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -410,7 +409,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 846,
             "overhang_behind": 654,
-            "turning_diameter": 10.5
+            "turning_diameter": 10.5,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,

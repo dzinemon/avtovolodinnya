@@ -3,7 +3,6 @@
         "model": "SANDERO",
         "configuration": "Base",
         "uniqueid": "5dfe74ac-3b4f-4ffe-8f46-f59abaf71bb9",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -18,7 +17,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -52,7 +52,6 @@
         "model": "SANDERO",
         "configuration": "Life+",
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -67,7 +66,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -95,13 +95,12 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 2
+        "id": 1
     },
     {
         "model": "SANDERO",
         "configuration": "Life+",
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -116,7 +115,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 10.57
+            "turning_diameter": 10.57,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -144,13 +144,12 @@
             "maximum_speed": 169,
             "acceleration100": 11.1
         },
-        "id": 3
+        "id": 2
     },
     {
         "model": "SANDERO",
         "configuration": "Life+",
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -165,7 +164,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 10.57
+            "turning_diameter": 10.57,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -193,13 +193,12 @@
             "maximum_speed": 175,
             "acceleration100": 11.0
         },
-        "id": 4
+        "id": 3
     },
     {
         "model": "SANDERO",
         "configuration": "Life+",
         "uniqueid": "22493aa7-de08-45b4-a468-6863d17e64e8",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -214,7 +213,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 10.57
+            "turning_diameter": 10.57,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -242,14 +242,13 @@
             "maximum_speed": 167,
             "acceleration100": 12.2
         },
-        "id": 5
+        "id": 4
     },
     {
         "model": "SANDERO",
         "configuration": "Life+ з ГБО",
         "uniqueid": "ea1c1eb2-1bac-4e15-a832-b5cdf467407c",
-        "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 15,
             "width": 185,
             "height": 65
@@ -263,7 +262,8 @@
             "rear_track_width": 1486,
             "overhang_ahead": 827,
             "overhang_behind": 653,
-            "turning_diameter": 10.57
+            "turning_diameter": 10.57,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -291,6 +291,6 @@
             "maximum_speed": 0,
             "acceleration100": 0.0
         },
-        "id": 8
+        "id": 5
     }
 ]

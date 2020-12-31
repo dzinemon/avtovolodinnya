@@ -1,0 +1,198 @@
+[
+    {
+        "model": "A7 Sportback",
+        "configuration": "A7 SB 45 TFSI quattro",
+        "uniqueid": "2ce7af39-dd1d-492d-8794-2babe6e971a5",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4969,
+            "width": 1908,
+            "height": 1422,
+            "wheelbase": 2926,
+            "front_track_width": 1651,
+            "rear_track_width": 1637,
+            "overhang_ahead": 927,
+            "overhang_behind": 1116,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 0
+    },
+    {
+        "model": "A7 Sportback",
+        "configuration": "A7 SB 40 TDI quattro",
+        "uniqueid": "00a95a7f-8a45-4703-afce-bcfb290d85cd",
+        "year": 2020,
+       "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4969,
+            "width": 1908,
+            "height": 1422,
+            "wheelbase": 2926,
+            "front_track_width": 1651,
+            "rear_track_width": 1637,
+            "overhang_ahead": 927,
+            "overhang_behind": 1116,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 1
+    },
+    {
+        "model": "A7 Sportback",
+        "configuration": "A7 SB SL 45 TFSI quattro line",
+        "uniqueid": "5875da68-ff3f-4c59-9b81-6fd3ac1fb9ea",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4969,
+            "width": 1908,
+            "height": 1422,
+            "wheelbase": 2926,
+            "front_track_width": 1651,
+            "rear_track_width": 1637,
+            "overhang_ahead": 927,
+            "overhang_behind": 1116,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 2
+    },
+    {
+        "model": "A7 Sportback",
+        "configuration": "A7 SB SL 40 TDI quattro line",
+        "uniqueid": "737b53ad-0aac-4aa1-bd19-bc78f6a76467",
+        "year": 2020,
+       "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4969,
+            "width": 1908,
+            "height": 1422,
+            "wheelbase": 2926,
+            "front_track_width": 1651,
+            "rear_track_width": 1637,
+            "overhang_ahead": 927,
+            "overhang_behind": 1116,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0.0
+        },
+        "id": 3
+    }
+]

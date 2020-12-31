@@ -3,7 +3,6 @@
         "model": "LODGY",
         "configuration": "Life+",
         "uniqueid": "a7b282d7-97bd-4dec-92bf-f267f27a6350",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -18,7 +17,8 @@
             "rear_track_width": 1478,
             "overhang_ahead": 882,
             "overhang_behind": 886,
-            "turning_diameter": 11.1
+            "turning_diameter": 11.1,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -52,7 +52,6 @@
         "model": "LODGY",
         "configuration": "Zen",
         "uniqueid": "5b2a7876-7591-4a3f-92c2-9bd2e2251b25",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -67,7 +66,8 @@
             "rear_track_width": 1478,
             "overhang_ahead": 882,
             "overhang_behind": 886,
-            "turning_diameter": 11.1
+            "turning_diameter": 11.1,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
@@ -101,7 +101,6 @@
         "model": "LODGY",
         "configuration": "Intense",
         "uniqueid": "63f82198-a677-4661-83c8-3715e04a2765",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -116,7 +115,8 @@
             "rear_track_width": 1478,
             "overhang_ahead": 882,
             "overhang_behind": 886,
-            "turning_diameter": 11.1
+            "turning_diameter": 11.1,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 50,

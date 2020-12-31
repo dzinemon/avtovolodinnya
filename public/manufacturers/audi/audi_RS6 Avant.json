@@ -1,0 +1,51 @@
+[
+    {
+        "model": "RS6 Avant",
+        "configuration": "RS 6 AVANT Avant",
+        "uniqueid": "e5396508-49ee-46af-b101-d29e38f5f879",
+        "year": 2020,
+        "tire": {
+            "radius": 21,
+            "width": 275,
+            "height": 35
+        },
+        "dimensions": {
+            "length": 4995,
+            "width": 2120,
+            "height": 1460,
+            "wheelbase": 2929,
+            "front_track_width": 1668,
+            "rear_track_width": 1650,
+            "overhang_ahead": 959,
+            "overhang_behind": 1107,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 73,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 11.7,
+            "co2_emissions": 268.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 3.996,
+            "power": 441,
+            "torque": 800,
+            "fuel_system": "",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 3.6
+        },
+        "id": 0
+    }
+]

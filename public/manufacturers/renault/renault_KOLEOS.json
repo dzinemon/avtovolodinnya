@@ -3,7 +3,6 @@
         "model": "KOLEOS",
         "configuration": "Life",
         "uniqueid": "71814bcc-64b2-4758-801e-38ed3ff5d254",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -18,7 +17,8 @@
             "rear_track_width": 1586,
             "overhang_ahead": 930,
             "overhang_behind": 1038,
-            "turning_diameter": 11.4
+            "turning_diameter": 11.4,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -52,7 +52,6 @@
         "model": "KOLEOS",
         "configuration": "Zen",
         "uniqueid": "adb2c42f-d889-49be-9e75-6b8b3960118a",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 225,
@@ -67,7 +66,8 @@
             "rear_track_width": 1586,
             "overhang_ahead": 930,
             "overhang_behind": 1038,
-            "turning_diameter": 11.4
+            "turning_diameter": 11.4,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -101,7 +101,6 @@
         "model": "KOLEOS",
         "configuration": "Intense",
         "uniqueid": "7a96adf4-5f93-40e0-83e6-fe2a1208bf84",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -116,7 +115,8 @@
             "rear_track_width": 1586,
             "overhang_ahead": 930,
             "overhang_behind": 1038,
-            "turning_diameter": 11.4
+            "turning_diameter": 11.4,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 60,

@@ -1,0 +1,443 @@
+[
+    {
+        "model": "A6",
+        "configuration": "BASIS 40 TFSI",
+        "uniqueid": "16588e32-77e0-472f-8cea-c3ad98738b00",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4939,
+            "width": 1886,
+            "height": 1457,
+            "wheelbase": 2924,
+            "front_track_width": 1630,
+            "rear_track_width": 1617,
+            "overhang_ahead": 920,
+            "overhang_behind": 1095,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.968,
+            "power": 204,
+            "torque": 400,
+            "fuel_system": "",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 0
+    },
+    {
+        "model": "A6",
+        "configuration": "BASIS 45 TFSI quattro",
+        "uniqueid": "fb253708-7fdc-4ada-bb82-cb60804e0342",
+        "year": 2020,
+         "tire": {
+            "radius": 20,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4939,
+            "width": 1886,
+            "height": 1457,
+            "wheelbase": 2924,
+            "front_track_width": 1630,
+            "rear_track_width": 1617,
+            "overhang_ahead": 920,
+            "overhang_behind": 1095,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 63,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 6.8,
+            "co2_emissions": 171,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 245,
+            "torque": 370,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 6.0
+        },
+        "id": 1
+    },
+    {
+        "model": "A6",
+        "configuration": "BASIS 55 TFSI quattro",
+        "uniqueid": "eeee80bd-3fac-455d-a034-67a437a9bd0b",
+        "year": 2020,
+        "tire": {
+            "radius": 20,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4939,
+            "width": 1886,
+            "height": 1457,
+            "wheelbase": 2924,
+            "front_track_width": 1630,
+            "rear_track_width": 1617,
+            "overhang_ahead": 920,
+            "overhang_behind": 1095,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 63,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 6.7,
+            "co2_emissions": 151,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.995,
+            "power": 340,
+            "torque": 500,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.1
+        },
+        "id": 2
+    },
+    {
+        "model": "A6",
+        "configuration": "BASIS 40 TDI quattro",
+        "uniqueid": "b36bfa80-3854-4f65-a862-f9e5289a47be",
+        "year": 2020,
+        "tire": {
+            "radius": 20,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4939,
+            "width": 1886,
+            "height": 1457,
+            "wheelbase": 2924,
+            "front_track_width": 1630,
+            "rear_track_width": 1617,
+            "overhang_ahead": 920,
+            "overhang_behind": 1095,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 63,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 153,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.968,
+            "power": 204,
+            "torque": 400,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 246,
+            "acceleration100": 7.6
+        },
+        "id": 3
+    },
+    {
+        "model": "A6",
+        "configuration": "SPORT 40 TFSI Sport",
+        "uniqueid": "cca4f112-d236-4f79-8849-1cc5670a9fb8",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 4
+    },
+    {
+        "model": "A6",
+        "configuration": "SPORT 45 TFSI quattro Sport",
+        "uniqueid": "59aebc65-d32b-4295-a21d-67591c2811eb",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 5
+    },
+    {
+        "model": "A6",
+        "configuration": "SPORT 55 TFSI quattro Sport",
+        "uniqueid": "4d71c192-db9c-417e-a53a-ed8415b1e76a",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 6
+    },
+    {
+        "model": "A6",
+        "configuration": "SPORT 40 TDI quattro Sport",
+        "uniqueid": "1f6c8c79-e4dd-4c81-b323-949200d7262f",
+        "year": 2020,
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 7
+    },
+    {
+        "model": "A6",
+        "configuration": "S6 TDI quattro",
+        "uniqueid": "64ab5789-308f-41e3-8e33-8b15996d93f1",
+        "year": 2020,
+         "tire": {
+            "radius": 20,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4954,
+            "width": 1886,
+            "height": 1446,
+            "wheelbase": 2928,
+            "front_track_width": 1620,
+            "rear_track_width": 1603,
+            "overhang_ahead": 924,
+            "overhang_behind": 1102,
+            "turning_diameter": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 73,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 7.8,
+            "co2_emissions": 164,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.967,
+            "power": 349,
+            "torque": 700,
+            "fuel_system": "diesel",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.0
+        },
+        "id": 8
+    }
+]

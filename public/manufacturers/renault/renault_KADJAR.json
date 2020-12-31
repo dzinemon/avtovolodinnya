@@ -3,7 +3,6 @@
         "model": "KADJAR",
         "configuration": "Life",
         "uniqueid": "796119eb-97ca-4edf-b513-27c15b57e4e7",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 215,
@@ -18,7 +17,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -52,7 +52,6 @@
         "model": "KADJAR",
         "configuration": "Zen",
         "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 215,
@@ -67,7 +66,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -101,7 +101,6 @@
         "model": "KADJAR",
         "configuration": "Zen",
         "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 215,
@@ -116,7 +115,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -150,7 +150,6 @@
         "model": "KADJAR",
         "configuration": "Zen",
         "uniqueid": "11f37e3c-5e12-4364-89ff-651474dcf3e5",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 215,
@@ -165,7 +164,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -199,7 +199,6 @@
         "model": "KADJAR",
         "configuration": "Intense",
         "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 215,
@@ -214,7 +213,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -248,7 +248,6 @@
         "model": "KADJAR",
         "configuration": "Intense",
         "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 215,
@@ -263,7 +262,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -297,7 +297,6 @@
         "model": "KADJAR",
         "configuration": "Intense",
         "uniqueid": "679950b8-49bc-4f84-bdf8-9bcb80590067",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 215,
@@ -312,7 +311,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,
@@ -346,7 +346,6 @@
         "model": "KADJAR",
         "configuration": "Black Edition",
         "uniqueid": "c2389d46-3a54-4e1f-a8aa-171e92792870",
-        "year": 2020,
         "tire": {
             "radius": 19,
             "width": 225,
@@ -361,7 +360,8 @@
             "rear_track_width": 1542,
             "overhang_ahead": 913,
             "overhang_behind": 930,
-            "turning_diameter": 10.72
+            "turning_diameter": 10.72,
+            "clearance": 0
         },
         "fuel": {
             "fuel_tank_capacity": 65,

@@ -3,7 +3,6 @@
         "model": "x-trail",
         "configuration": "Visia",
         "uniqueid": "aaabf4a6-1be5-4a36-8f7b-4238021d977e",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -18,7 +17,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 968,
             "overhang_behind": 952,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -52,7 +52,6 @@
         "model": "x-trail",
         "configuration": "Visia",
         "uniqueid": "223f7435-422c-4194-95bf-dc36fab45ce7",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -67,7 +66,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1005,
             "overhang_behind": 1055,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -101,7 +101,6 @@
         "model": "x-trail",
         "configuration": "Visia",
         "uniqueid": "bb0e01b1-c6ea-48ec-9489-97c594ea6719",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -116,7 +115,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1100,
             "overhang_behind": 1020,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -150,7 +150,6 @@
         "model": "x-trail",
         "configuration": "Acenta",
         "uniqueid": "1af69c8c-35ac-4b90-8309-59844cd8a1f2",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -165,7 +164,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1002,
             "overhang_behind": 998,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -199,7 +199,6 @@
         "model": "x-trail",
         "configuration": "Acenta",
         "uniqueid": "d0aad15b-4141-413c-ab4a-ebc8aa5448c5",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -214,7 +213,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1005,
             "overhang_behind": 1055,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -248,7 +248,6 @@
         "model": "x-trail",
         "configuration": "Acenta",
         "uniqueid": "6b42d547-9fed-4b45-95f6-d0ad14b0ce1d",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -263,7 +262,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1033,
             "overhang_behind": 1027,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -297,7 +297,6 @@
         "model": "x-trail",
         "configuration": "Acenta",
         "uniqueid": "18ecc832-6a71-4f6d-af98-522ebe1be8d6",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -312,7 +311,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1100,
             "overhang_behind": 1020,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -346,7 +346,6 @@
         "model": "x-trail",
         "configuration": "Acenta",
         "uniqueid": "415ed177-fddc-4d2c-8f61-c68c74cc19cb",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -361,7 +360,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1117,
             "overhang_behind": 1003,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -395,7 +395,6 @@
         "model": "x-trail",
         "configuration": "N-Connecta",
         "uniqueid": "c44ca713-0ca2-4481-a759-bcb4e7b03a12",
-        "year": 2020,
         "tire": {
             "radius": 0,
             "width": 0,
@@ -410,7 +409,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1033,
             "overhang_behind": 1027,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -444,7 +444,6 @@
         "model": "x-trail",
         "configuration": "N-Connecta",
         "uniqueid": "c44ca713-0ca2-4481-a759-bcb4e7b03a12",
-        "year": 2020,
         "tire": {
             "radius": 0,
             "width": 0,
@@ -459,7 +458,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1033,
             "overhang_behind": 1027,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -493,7 +493,6 @@
         "model": "x-trail",
         "configuration": "N-Connecta",
         "uniqueid": "03c93f09-3f33-49f1-a774-67856b86cc0a",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 225,
@@ -508,7 +507,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1033,
             "overhang_behind": 1027,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,
@@ -542,7 +542,6 @@
         "model": "x-trail",
         "configuration": "N-Connecta",
         "uniqueid": "e77bced6-88d8-4570-aacf-ca8d9ed4bf40",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 225,
@@ -557,7 +556,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1117,
             "overhang_behind": 1003,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 60,

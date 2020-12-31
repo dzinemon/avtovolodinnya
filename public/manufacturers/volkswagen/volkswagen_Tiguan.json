@@ -1,0 +1,100 @@
+[
+    {
+        "model": "Tiguan",
+        "configuration": "Elegance",
+        "uniqueid": "d041b3c7-22f6-41b9-bc38-2f8b3704633c",
+        "tire": {
+            "radius": 18,
+            "width": 235,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4509,
+            "width": 1839,
+            "height": 1675,
+            "wheelbase": 2679,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0,
+            "clearance": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.8,
+            "co2_emissions": 170.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 220,
+            "torque": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 220,
+            "acceleration100": 0.0
+        },
+        "id": 0
+    },
+    {
+        "model": "Tiguan",
+        "configuration": "R-Line",
+        "uniqueid": "91d1671d-4d56-4cf4-9dd5-8ec2e6a53455",
+        "tire": {
+            "radius": 18,
+            "width": 235,
+            "height": 55
+        },
+        "dimensions": {
+            "length": 4509,
+            "width": 1839,
+            "height": 1675,
+            "wheelbase": 2679,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0.0,
+            "clearance": 0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.8,
+            "co2_emissions": 170.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 1.984,
+            "power": 220,
+            "torque": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 4,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 220,
+            "acceleration100": 0.0
+        },
+        "id": 1
+    }
+]

@@ -17,7 +17,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 1.4
+            "turning_diameter": 1.4,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 47,
@@ -65,7 +66,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 1.4
+            "turning_diameter": 1.4,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 47,
@@ -113,7 +115,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 1.4
+            "turning_diameter": 1.4,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 47,
@@ -161,7 +164,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 1.4
+            "turning_diameter": 1.4,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 47,
@@ -209,7 +213,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 1.4
+            "turning_diameter": 1.4,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 47,

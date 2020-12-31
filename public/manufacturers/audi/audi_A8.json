@@ -1,0 +1,345 @@
+[
+    {
+        "model": "A8",
+        "configuration": "A8 55 TFSI quattro",
+        "uniqueid": "4400b419-2f02-4495-bfdb-209fc3372d7b",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5172,
+            "width": 2130,
+            "height": 1473,
+            "wheelbase": 2998,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 12.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 171.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.995,
+            "power": 340,
+            "torque": 500,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.7
+        },
+        "id": 0
+    },
+    {
+        "model": "A8",
+        "configuration": "A8 60 TFSI quattro",
+        "uniqueid": "a718d385-75a3-423d-8dde-d6506e79ead4",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+         "dimensions": {
+            "length": 5172,
+            "width": 2130,
+            "height": 1473,
+            "wheelbase": 2998,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 12.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 10.1,
+            "co2_emissions": 228.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.996,
+            "power": 460,
+            "torque": 660,
+            "fuel_system": "petrol",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 4.4
+        },
+        "id": 1
+    },
+    {
+        "model": "A8",
+        "configuration": "A8 50 TDI quattro",
+        "uniqueid": "a0becc16-b59f-4ff7-92f3-f51f3303673e",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+          "dimensions": {
+            "length": 5172,
+            "width": 2130,
+            "height": 1473,
+            "wheelbase": 2998,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 12.9
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 5.8,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.967,
+            "power": 286,
+            "torque": 600,
+            "fuel_system": "diesel",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.9
+        },
+        "id": 2
+    },
+    {
+        "model": "A8",
+        "configuration": "A8L 55 TFSI quattro",
+        "uniqueid": "ee6f3048-2fc3-4c84-b939-deb21d626985",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5302,
+            "width": 2130,
+            "height": 1485,
+            "wheelbase": 3128,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 171.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.995,
+            "power": 340,
+            "torque": 500,
+            "fuel_system": "petrol",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.7
+        },
+        "id": 3
+    },
+    {
+        "model": "A8",
+        "configuration": "A8L Long 60 TFSI quattro",
+        "uniqueid": "1d266a76-a8a9-42be-a599-46583b5c7c44",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+         "dimensions": {
+            "length": 5302,
+            "width": 2130,
+            "height": 1485,
+            "wheelbase": 3128,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 10.1,
+            "co2_emissions": 228.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.996,
+            "power": 460,
+            "torque": 660,
+            "fuel_system": "petrol",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 4.4
+        },
+        "id": 4
+    },
+    {
+        "model": "A8",
+        "configuration": "A8L 50 TDI quattro",
+        "uniqueid": "aa920897-1b95-4105-880c-69a2768fe333",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+         "dimensions": {
+            "length": 5302,
+            "width": 2130,
+            "height": 1485,
+            "wheelbase": 3128,
+            "front_track_width": 1644,
+            "rear_track_width": 1633,
+            "overhang_ahead": 989,
+            "overhang_behind": 1185,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 72,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 7.5,
+            "co2_emissions": 152.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.967,
+            "power": 286,
+            "torque": 600,
+            "fuel_system": "diesel",
+            "number_cylinders": 6,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 5.9
+        },
+        "id": 5
+    },
+    {
+        "model": "A8",
+        "configuration": "S8 70 TFSI quattro",
+        "uniqueid": "0877389d-1177-41c2-82bb-edf9382fc0fd",
+        "year": 2020,
+        "tire": {
+            "radius": 18,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 5179,
+            "width": 2130,
+            "height": 1474,
+            "wheelbase": 2998,
+            "front_track_width": 1628,
+            "rear_track_width": 1617,
+            "overhang_ahead": 989,
+            "overhang_behind": 1192,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 82,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 11.6,
+            "co2_emissions": 263.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 2.996,
+            "power": 571,
+            "torque": 800,
+            "fuel_system": "petrol",
+            "number_cylinders": 8,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 250,
+            "acceleration100": 3.8
+        },
+        "id": 6
+    }
+]

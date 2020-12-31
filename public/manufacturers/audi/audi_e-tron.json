@@ -1,0 +1,296 @@
+[
+    {
+        "model": "e-tron",
+        "configuration": "BASIS 50 quattro",
+        "uniqueid": "858d5408-fc75-4c05-843c-c74e705dd3bc",
+        "year": 2020,
+        "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 313,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 6.6
+        },
+        "id": 0
+    },
+    {
+        "model": "e-tron",
+        "configuration": "BASIS 55 quattro",
+        "uniqueid": "85008bd2-96ab-41e1-bb8d-adbfdb7cb39e",
+        "year": 2020,
+         "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 408,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 5.7
+        },
+        "id": 1
+    },
+    {
+        "model": "e-tron",
+        "configuration": "ADVANCED 50 quattro advanced",
+        "uniqueid": "fcb6f1ec-3fd9-4c5a-b22f-2f7f01811306",
+        "year": 2020,
+        "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 300,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 6.6
+        },
+        "id": 2
+    },
+    {
+        "model": "e-tron",
+        "configuration": "ADVANCED 55 quattro advanced",
+        "uniqueid": "6dffdf8c-39db-4702-800f-9d8a47487fb5",
+        "year": 2020,
+        "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 408,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 5.7
+        },
+        "id": 3
+    },
+    {
+        "model": "e-tron",
+        "configuration": "S LINE 50 quattro line",
+        "uniqueid": "635cf448-add3-4d24-a314-4447f3f751d7",
+        "year": 2020,
+        "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 300,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 190,
+            "acceleration100": 6.6
+        },
+        "id": 4
+    },
+    {
+        "model": "e-tron",
+        "configuration": "S LINE 55 quattro line",
+        "uniqueid": "11704d12-d6c9-4125-b7f1-dd5475f00b71",
+        "year": 2020,
+         "tire": {
+            "radius": 19,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 4901,
+            "width": 0,
+            "height": 1629,
+            "wheelbase": 2928,
+            "front_track_width": 1655,
+            "rear_track_width": 1652,
+            "overhang_ahead": 928,
+            "overhang_behind": 1045,
+            "turning_diameter": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0.0,
+            "fuel_consumption_extra_urban": 0.0,
+            "fuel_consumption_combined": 0.0,
+            "co2_emissions": 0.0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0.0,
+            "power": 408,
+            "torque": 664,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "all-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 200,
+            "acceleration100": 5.7
+        },
+        "id": 5
+    }
+]

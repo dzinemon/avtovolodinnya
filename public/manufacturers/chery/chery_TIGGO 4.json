@@ -3,47 +3,47 @@
         "model": "TIGGO 4",
         "configuration": "Comfort MT",
         "uniqueid": "074d1707-302b-4921-b5fc-ac57fe357792",
-        "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 17,
+            "width": 215,
+            "height": 60
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
+            "length": 4318,
+            "width": 1831,
+            "height": 1679,
+            "wheelbase": 2610,
+            "front_track_width": 1550,
+            "rear_track_width": 1550,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
+            "fuel_tank_capacity": 51,
             "fuel_consumption_urban": 0.0,
             "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
+            "fuel_consumption_combined": 6.9,
             "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
+            "emission_standard": "Evro-5"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.499,
+            "power": 113,
+            "torque": 141,
             "fuel_system": "",
             "number_cylinders": 0,
             "turbine": "",
-            "code": ""
+            "code": "SQRE4G15B"
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 5,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
+            "maximum_speed": 175,
             "acceleration100": 0.0
         },
         "id": 0
@@ -52,47 +52,47 @@
         "model": "TIGGO 4",
         "configuration": "Comfort CVT",
         "uniqueid": "c46660ec-f749-495f-a5e1-28e63f2251f0",
-        "year": 2020,
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 17,
+            "width": 215,
+            "height": 60
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
-            "front_track_width": 0,
-            "rear_track_width": 0,
+            "length": 4318,
+            "width": 1831,
+            "height": 1679,
+            "wheelbase": 2610,
+            "front_track_width": 1550,
+            "rear_track_width": 1550,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
+            "fuel_tank_capacity": 51,
             "fuel_consumption_urban": 0.0,
             "fuel_consumption_extra_urban": 0.0,
-            "fuel_consumption_combined": 0.0,
+            "fuel_consumption_combined": 7.5,
             "co2_emissions": 0.0,
-            "emission_standard": "Evro-6"
+            "emission_standard": "Evro-5"
         },
         "engine": {
-            "engine_displacement": 0.0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.499,
+            "power": 113,
+            "torque": 141,
             "fuel_system": "",
             "number_cylinders": 0,
             "turbine": "",
-            "code": ""
+            "code": "SQRE4G15B"
         },
         "transmission": {
             "transmission": "front-wheel drive",
             "count": 0,
-            "name": ""
+            "name": "CVT"
         },
         "speed": {
-            "maximum_speed": 0,
+            "maximum_speed": 165,
             "acceleration100": 0.0
         },
         "id": 1
