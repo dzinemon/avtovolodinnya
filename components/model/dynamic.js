@@ -305,9 +305,8 @@ function ModelDynamic(props) {
           model={model}
         />
         <CarInfoBar
-          horsepower={horsepower}
-          designation={designation}
-          configuration={configuration}
+          cars={cars}
+          uniqueid={uniqueid}
         />
 
         {/* <ExpensesBar
