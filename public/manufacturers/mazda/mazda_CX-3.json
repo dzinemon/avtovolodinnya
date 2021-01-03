@@ -3,7 +3,6 @@
         "model": "CX-3",
         "configuration": "STYLE+",
         "uniqueid": "92c58aac-98b2-44f8-b67c-c369e8ca6d74",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 215,
@@ -18,7 +17,8 @@
             "rear_track_width": 1520,
             "overhang_ahead": 910,
             "overhang_behind": 795,
-            "turning_diameter": 5.7
+            "turning_diameter": 5.7,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 48,
@@ -52,7 +52,6 @@
         "model": "CX-3",
         "configuration": "STYLE+",
         "uniqueid": "6e74bd8a-dc93-43a5-a003-8441d4d28465",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 215,
@@ -67,7 +66,8 @@
             "rear_track_width": 1520,
             "overhang_ahead": 910,
             "overhang_behind": 795,
-            "turning_diameter": 5.7
+            "turning_diameter": 5.7,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 44,
@@ -101,7 +101,6 @@
         "model": "CX-3",
         "configuration": "TOURING+",
         "uniqueid": "793a3419-3b17-4b0e-a28b-781e33f82850",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 215,
@@ -116,7 +115,8 @@
             "rear_track_width": 1520,
             "overhang_ahead": 910,
             "overhang_behind": 795,
-            "turning_diameter": 5.7
+            "turning_diameter": 5.7,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 48,
@@ -150,7 +150,6 @@
         "model": "CX-3",
         "configuration": "TOURING+",
         "uniqueid": "bb2f7f6c-44ad-4291-a0dc-790bdf0c953a",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 215,
@@ -165,7 +164,8 @@
             "rear_track_width": 1520,
             "overhang_ahead": 910,
             "overhang_behind": 795,
-            "turning_diameter": 5.7
+            "turning_diameter": 5.7,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 44,
@@ -194,5 +194,55 @@
             "acceleration100": 9.6
         },
         "id": 3
+    },
+    {
+        "model": "CX-3",
+        "configuration": "TOURING S+",
+        "uniqueid": "5786eee0-22f1-4190-a4e9-704426158049",
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0,
+            "clearance": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 2,
+        "deprecated": "true"
     }
 ]

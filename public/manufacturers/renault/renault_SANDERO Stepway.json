@@ -51,7 +51,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Life+",
-        "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
+        "uniqueid": "193266b6-9ff5-410d-ac02-b1d9ef91821b",
         "tire": {
             "radius": 16,
             "width": 205,
@@ -100,7 +100,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Life+",
-        "uniqueid": "d99c24e7-5172-4512-ae0e-30fe8d8065b2",
+        "uniqueid": "78d58581-cf1b-4530-83aa-2dfbe81ad0fd",
         "tire": {
             "radius": 16,
             "width": 205,
@@ -198,7 +198,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Zen",
-        "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
+        "uniqueid": "d3856422-e57b-4a49-b60b-606774c9370a",
         "tire": {
             "radius": 16,
             "width": 205,
@@ -247,7 +247,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Zen",
-        "uniqueid": "2f29e27a-d300-4f49-aaa0-e0a131a5071e",
+        "uniqueid": "9a135ae2-3eff-43f5-b715-f8e8a7defd81",
         "tire": {
             "radius": 16,
             "width": 205,
@@ -345,7 +345,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Ultramarine",
-        "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
+        "uniqueid": "a5b6fa12-a1c2-4092-b851-158905f57077",
         "tire": {
             "radius": 16,
             "width": 205,
@@ -394,7 +394,7 @@
     {
         "model": "SANDERO Stepway",
         "configuration": "Ultramarine",
-        "uniqueid": "882fda91-cf65-464e-83f0-efaea0cc979f",
+        "uniqueid": "4eb0e75c-652e-4bf5-8c46-6c4bf456f9d6",
         "tire": {
             "radius": 16,
             "width": 205,

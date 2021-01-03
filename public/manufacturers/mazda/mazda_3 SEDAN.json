@@ -3,7 +3,6 @@
         "model": "3 SEDAN",
         "configuration": "STYLE",
         "uniqueid": "1355c938-fffc-413c-a1a3-2cdce9a9d57d",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -18,7 +17,8 @@
             "rear_track_width": 1580,
             "overhang_ahead": 915,
             "overhang_behind": 1020,
-            "turning_diameter": 5.69
+            "turning_diameter": 5.69,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 51,
@@ -53,7 +53,6 @@
         "model": "3 SEDAN",
         "configuration": "EXCLUSIVE",
         "uniqueid": "1fff3f2e-8445-409c-a4c5-43425855851e",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -68,7 +67,8 @@
             "rear_track_width": 1580,
             "overhang_ahead": 915,
             "overhang_behind": 1020,
-            "turning_diameter": 5.69
+            "turning_diameter": 5.69,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 51,

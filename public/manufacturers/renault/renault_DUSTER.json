@@ -100,7 +100,7 @@
     {
         "model": "DUSTER",
         "configuration": "Life",
-        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "uniqueid": "d3ffcb5d-ffbb-4ec3-a001-617f56590754",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -149,7 +149,7 @@
     {
         "model": "DUSTER",
         "configuration": "Life",
-        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "uniqueid": "89c20eb8-8fe5-4e4c-a46f-c17f2c48ad13",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -198,7 +198,7 @@
     {
         "model": "DUSTER",
         "configuration": "Life",
-        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "uniqueid": "681de74a-009c-4440-8a9a-3d8a37072d64",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -247,7 +247,7 @@
     {
         "model": "DUSTER",
         "configuration": "Life",
-        "uniqueid": "958b5ad8-3345-4d8f-a2c5-bac6b4f89dd8",
+        "uniqueid": "ef507840-4ae6-4893-bb7f-6537164bd205",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -345,7 +345,7 @@
     {
         "model": "DUSTER",
         "configuration": "Zen",
-        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "uniqueid": "6cef86bf-a2f4-486c-8e30-be6f3d525124",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -394,7 +394,7 @@
     {
         "model": "DUSTER",
         "configuration": "Zen",
-        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "uniqueid": "5547c81a-255c-4e88-8af2-10da9c7dc920",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -443,7 +443,7 @@
     {
         "model": "DUSTER",
         "configuration": "Zen",
-        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "uniqueid": "b3d8c554-a998-4300-ac49-c1282cff9e85",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -492,7 +492,7 @@
     {
         "model": "DUSTER",
         "configuration": "Zen",
-        "uniqueid": "1e88a185-6dfc-4461-8009-cf4de17f1c83",
+        "uniqueid": "7f7611cb-d47c-4cb6-abe7-97b0c57cc2e4",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -590,7 +590,7 @@
     {
         "model": "DUSTER",
         "configuration": "Intense",
-        "uniqueid": "b657c566-7a43-41e4-9851-c9e7e1e7896b",
+        "uniqueid": "be4c102b-36e7-4cbc-b95a-a514d23de2dc",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -639,7 +639,7 @@
     {
         "model": "DUSTER",
         "configuration": "Intense",
-        "uniqueid": "b657c566-7a43-41e4-9851-c9e7e1e7896b",
+        "uniqueid": "dd61f8c4-a593-4a95-b94c-8c56f29ab8d0",
         "tire": {
             "radius": 16,
             "width": 215,
@@ -737,7 +737,7 @@
     {
         "model": "DUSTER",
         "configuration": "Ultramarine",
-        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "uniqueid": "4a11a650-cb93-4c22-8591-2356b5d920e8",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -786,7 +786,7 @@
     {
         "model": "DUSTER",
         "configuration": "Ultramarine",
-        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "uniqueid": "e0e409d4-9a5a-49c3-8dcc-25d141899949",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -835,7 +835,7 @@
     {
         "model": "DUSTER",
         "configuration": "Ultramarine",
-        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "uniqueid": "45ce0520-ba6c-4ee9-97b4-64a683595fec",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -884,7 +884,7 @@
     {
         "model": "DUSTER",
         "configuration": "Ultramarine",
-        "uniqueid": "a79cad9c-1f64-445d-807b-08690ef0d2d0",
+        "uniqueid": "2f636dac-6e01-4191-9dc4-bdb24d96af5d",
         "tire": {
             "radius": 16,
             "width": 215,

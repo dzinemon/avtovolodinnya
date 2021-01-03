@@ -6,7 +6,15 @@ function SelectDropdown(props) {
 
   const options = CarsArray.filter(i => typeof i.model === 'string').map((i,idx) => {
     return (
-      <option key={idx} value={i.uniqueid}>{i.designation} {i.configuration} {i.engine.engine_displacement.toFixed(1)}л ({i.engine.power} к.с.)</option>
+      <option key={idx} value={i.uniqueid}>
+        {i.designation} {i.configuration} {i.engine.engine_displacement.toFixed(1)}л ({i.engine.power} к.с.) 
+        {` `}
+        {i.transmission.transmission === 'front-wheel drive'? 'FWD': ''}
+        {i.transmission.transmission === 'all-wheel drive'? 'AWD': ''}
+        {i.transmission.transmission === 'rear-wheel drive'? 'RWD': ''} {` `}
+        {i.transmission.count}
+        {i.transmission.name}
+      </option>
     )
   })
 

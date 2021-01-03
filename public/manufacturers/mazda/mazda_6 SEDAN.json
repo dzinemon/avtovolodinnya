@@ -3,7 +3,6 @@
         "model": "6 SEDAN",
         "configuration": "TOURING",
         "uniqueid": "b65d52e1-b1a0-432b-bec4-10690a3ffd0e",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -18,7 +17,8 @@
             "rear_track_width": 1575,
             "overhang_ahead": 1083,
             "overhang_behind": 1063,
-            "turning_diameter": 6.0
+            "turning_diameter": 6.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 62,
@@ -52,7 +52,6 @@
         "model": "6 SEDAN",
         "configuration": "TOP",
         "uniqueid": "bb7265c5-fb23-43e1-9cbc-ac4759bbebe4",
-        "year": 2020,
         "tire": {
             "radius": 19,
             "width": 225,
@@ -67,7 +66,8 @@
             "rear_track_width": 1585,
             "overhang_ahead": 1129,
             "overhang_behind": 1066,
-            "turning_diameter": 6.0
+            "turning_diameter": 6.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 62,
@@ -101,7 +101,6 @@
         "model": "6 SEDAN",
         "configuration": "STYLE+",
         "uniqueid": "60d3f27c-0784-4cbb-a02f-bbf058449c47",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -116,7 +115,8 @@
             "rear_track_width": 1585,
             "overhang_ahead": 1129,
             "overhang_behind": 1066,
-            "turning_diameter": 6.0
+            "turning_diameter": 6.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 62,

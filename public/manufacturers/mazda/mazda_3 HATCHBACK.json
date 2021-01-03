@@ -3,7 +3,6 @@
         "model": "3 HATCHBACK",
         "configuration": "EXCLUSIVE",
         "uniqueid": "3049dde0-61c3-4bcd-8853-2a38e5b6bb7d",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -18,7 +17,8 @@
             "rear_track_width": 1580,
             "overhang_ahead": 915,
             "overhang_behind": 820,
-            "turning_diameter": 5.69
+            "turning_diameter": 5.69,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 51,
@@ -53,7 +53,6 @@
         "model": "3 HATCHBACK",
         "configuration": "STYLE",
         "uniqueid": "6508e65d-dee1-41d0-b99b-a2ec9edf9019",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -68,7 +67,8 @@
             "rear_track_width": 1580,
             "overhang_ahead": 915,
             "overhang_behind": 820,
-            "turning_diameter": 5.69
+            "turning_diameter": 5.69,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 51,

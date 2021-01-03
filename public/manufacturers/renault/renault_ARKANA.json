@@ -51,7 +51,7 @@
     {
         "model": "ARKANA",
         "configuration": "Life",
-        "uniqueid": "f344d0b2-b755-4238-97a9-56481446bd31",
+        "uniqueid": "f6ad64fa-fd13-426b-900e-01c76ce7e0cb",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -149,7 +149,7 @@
     {
         "model": "ARKANA",
         "configuration": "Zen",
-        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "uniqueid": "477155a8-e875-4369-8722-a3ffaca2377a",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -198,7 +198,7 @@
     {
         "model": "ARKANA",
         "configuration": "Zen",
-        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "uniqueid": "160ab398-46f6-41a6-b344-8ff44cf9d596",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -247,7 +247,7 @@
     {
         "model": "ARKANA",
         "configuration": "Zen",
-        "uniqueid": "1592ddd6-6fae-4086-ac24-39d820967cf9",
+        "uniqueid": "2d13166f-5d06-49ba-b4f4-aaf349882686",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -345,7 +345,7 @@
     {
         "model": "ARKANA",
         "configuration": "Intense",
-        "uniqueid": "26feeed5-2acc-4e16-9712-4b3d63bcacfb",
+        "uniqueid": "4436ac9a-9229-40b2-bd67-454948b67207",
         "tire": {
             "radius": 17,
             "width": 215,
@@ -443,7 +443,7 @@
     {
         "model": "ARKANA",
         "configuration": "Intense +",
-        "uniqueid": "52b1c131-e1a6-4956-a96b-5059ddec9b77",
+        "uniqueid": "3f15c03f-57f9-47dc-b720-619276131149",
         "tire": {
             "radius": 17,
             "width": 215,

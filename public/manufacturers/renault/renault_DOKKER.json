@@ -51,7 +51,7 @@
     {
         "model": "DOKKER",
         "configuration": "Authentique",
-        "uniqueid": "6bec1f1c-5b6e-4f0c-be48-57ec8d4ebc6e",
+        "uniqueid": "8051e9f3-8b6f-4806-bc3a-2567541c6fad",
         "tire": {
             "radius": 15,
             "width": 185,
@@ -149,7 +149,7 @@
     {
         "model": "DOKKER",
         "configuration": "Expression",
-        "uniqueid": "2888dbf2-837b-4402-b98d-b1d6c584d038",
+        "uniqueid": "07657c84-1d53-49a1-bd34-d9e4f97e98d1",
         "tire": {
             "radius": 15,
             "width": 185,

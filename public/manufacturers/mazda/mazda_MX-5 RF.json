@@ -3,7 +3,6 @@
         "model": "MX-5 RF",
         "configuration": "TOP",
         "uniqueid": "11d139f6-1258-4251-b645-7a65755ea411",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 205,
@@ -18,7 +17,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 700,
             "overhang_behind": 845,
-            "turning_diameter": 5.0
+            "turning_diameter": 5.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 45,
@@ -52,7 +52,6 @@
         "model": "MX-5 RF",
         "configuration": "TOP",
         "uniqueid": "31db4c9a-7057-418c-bc20-3b2e4c101a84",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 205,
@@ -67,7 +66,8 @@
             "rear_track_width": 1505,
             "overhang_ahead": 700,
             "overhang_behind": 845,
-            "turning_diameter": 5.0
+            "turning_diameter": 5.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 45,

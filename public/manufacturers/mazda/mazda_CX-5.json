@@ -3,7 +3,6 @@
         "model": "CX-5",
         "configuration": "TOP",
         "uniqueid": "041431ad-9a4a-4a7b-83e1-67e9eb72d6f7",
-        "year": 2020,
         "tire": {
             "radius": 19,
             "width": 225,
@@ -18,7 +17,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 5.6
+            "turning_diameter": 5.6,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 58,
@@ -52,7 +52,6 @@
         "model": "CX-5",
         "configuration": "TOURING",
         "uniqueid": "650fbc1b-e2c7-4c7e-b064-6ed703ba4608",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -67,7 +66,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 56,
@@ -101,7 +101,6 @@
         "model": "CX-5",
         "configuration": "TOURING S",
         "uniqueid": "477c3ff5-6a6f-4262-8e12-36973b7acfc9",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -116,7 +115,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 56,
@@ -150,7 +150,6 @@
         "model": "CX-5",
         "configuration": "TOURING S",
         "uniqueid": "8163bca5-4e36-4a43-9f3a-20c49e099f32",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -165,7 +164,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 6.0
+            "turning_diameter": 6.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 58,
@@ -199,7 +199,6 @@
         "model": "CX-5",
         "configuration": "TOURING",
         "uniqueid": "94eb49b4-6d7a-4ca3-bde1-0ccfe0bce7da",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -214,7 +213,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 58,
@@ -248,7 +248,6 @@
         "model": "CX-5",
         "configuration": "STYLE+",
         "uniqueid": "dec9fcc2-8fe1-46e9-a148-1f25d9c7a20b",
-        "year": 2020,
         "tire": {
             "radius": 19,
             "width": 225,
@@ -263,7 +262,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 5.6
+            "turning_diameter": 5.6,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 58,
@@ -297,7 +297,6 @@
         "model": "CX-5",
         "configuration": "TOURING",
         "uniqueid": "3327d751-c391-4557-a61a-7c1216a994e3",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 225,
@@ -312,7 +311,8 @@
             "rear_track_width": 1595,
             "overhang_ahead": 950,
             "overhang_behind": 900,
-            "turning_diameter": 0.0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 56,
@@ -341,5 +341,55 @@
             "acceleration100": 8.9
         },
         "id": 6
+    },
+    {
+        "model": "CX-5",
+        "configuration": "TOP",
+        "uniqueid": "ff25609d-aed4-44af-8d0d-6d6daf7cd5c4",
+        "tire": {
+            "radius": 0,
+            "width": 0,
+            "height": 0
+        },
+        "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "wheelbase": 0,
+            "front_track_width": 0,
+            "rear_track_width": 0,
+            "overhang_ahead": 0,
+            "overhang_behind": 0,
+            "turning_diameter": 0,
+            "clearance": 0.0
+        },
+        "fuel": {
+            "fuel_tank_capacity": 0,
+            "fuel_consumption_urban": 0,
+            "fuel_consumption_extra_urban": 0,
+            "fuel_consumption_combined": 0,
+            "co2_emissions": 0,
+            "emission_standard": "Evro-6"
+        },
+        "engine": {
+            "engine_displacement": 0,
+            "power": 0,
+            "torque": 0,
+            "fuel_system": "",
+            "number_cylinders": 0,
+            "turbine": "",
+            "code": ""
+        },
+        "transmission": {
+            "transmission": "front-wheel drive",
+            "count": 0,
+            "name": ""
+        },
+        "speed": {
+            "maximum_speed": 0,
+            "acceleration100": 0
+        },
+        "id": 3,
+        "deprecated": "true"
     }
 ]
