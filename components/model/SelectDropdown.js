@@ -12,7 +12,7 @@ function SelectDropdown(props) {
         {i.transmission.transmission === 'front-wheel drive'? 'FWD': ''}
         {i.transmission.transmission === 'all-wheel drive'? 'AWD': ''}
         {i.transmission.transmission === 'rear-wheel drive'? 'RWD': ''} {` `}
-        {i.transmission.count}
+        {i.transmission.count !== 0 ? i.transmission.count : ''}
         {i.transmission.name}
       </option>
     )
