@@ -1,3 +1,5 @@
+import ignore from '../ignore'
+
 import Link from 'next/link'
 
 import Seo from '../components/seo'
@@ -86,7 +88,14 @@ function Home({availableManufacturers, allModels}) {
 export async function getStaticProps() {
   const manufacturerDirectory = path.join(process.cwd(), 'public', 'manufacturers')
   const filenames = fs.readdirSync(manufacturerDirectory)
-  const availableManufacturers = filenames.filter(i => i.indexOf('.') === -1).map((filename) => ({filename}))
+  const availableManufacturers = filenames
+    .filter(i => i.indexOf('.') === -1)
+    .filter(i => {
+      if (!ignore.ignore.includes(i)) {
+        return i
+      }
+    })
+    .map((filename) => ({filename}))
 
   let allModels = []
 

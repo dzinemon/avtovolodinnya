@@ -1,3 +1,4 @@
+import ignore from '../../../ignore'
 import dynamic from "next/dynamic";
 
 // import Link from 'next/link'
@@ -49,7 +50,13 @@ export async function getStaticPaths() {
   // Get the array of all manufactureres 
   const manufacturersFileNames = fs.readdirSync(currentAllManufacturerPath)
 
-  const manufacturersFilteredNames = manufacturersFileNames.filter(i => i.indexOf('.DS_Store') === -1)
+  const manufacturersFilteredNames = manufacturersFileNames
+    .filter(i => i.indexOf('.DS_Store') === -1)
+    .filter(i => {
+      if (!ignore.ignore.includes(i)) {
+        return i
+      }
+    })
   
 
   let finalPaths = []
