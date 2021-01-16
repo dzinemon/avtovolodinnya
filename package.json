@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "postbuild": "next-on-netlify"
+    "postbuild": "next-on-netlify",
+    "export": "next export"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",

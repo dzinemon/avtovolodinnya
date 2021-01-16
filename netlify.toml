@@ -1,7 +1,7 @@
 [build]
-  command   = "npm run build"
+  command   = "yarn run build && yarn run export"
+  publish   = "out"
   functions = "out_functions"
-  publish   = "out_publish"
 
 [dev]
   functions = "out_functions"
