@@ -31,7 +31,7 @@ export default function Reviews({ articlesPaths }) {
 
 // This also gets called at build time
 export async function getStaticProps() {
-  const articleDirectory = path.join(process.cwd(), "_reviews");
+  const articleDirectory = path.join(process.cwd(), "reviews");
   const filenames = fs.readdirSync(articleDirectory);
 
   // Get the paths we want to pre-render based on posts

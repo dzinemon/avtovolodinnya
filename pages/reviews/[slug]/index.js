@@ -48,7 +48,7 @@ function ArticleTemplate({meta, content, articleData}) {
 }
 
 export async function getStaticPaths() {
-  const articleDirectory = path.join(process.cwd(), '_reviews')
+  const articleDirectory = path.join(process.cwd(), 'reviews')
   const filenames = await fs.readdirSync(articleDirectory);
 
   // Get the paths we want to pre-render based on posts
@@ -74,7 +74,7 @@ export async function getStaticPaths() {
 // This also gets called at build time
 export async function getStaticProps({ params }) {
   console.log(params.slug);
-  const pathToFile = '_reviews/' + params.slug + '.md'
+  const pathToFile = './reviews/' + params.slug + '.md'
   const fileContents = fs.readFileSync(pathToFile)
   const articleData = matter(fileContents)
   const content = await markdownToHtml(articleData.content)
