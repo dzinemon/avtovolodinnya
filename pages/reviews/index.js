@@ -47,6 +47,9 @@ export default function Reviews({ articlesPaths }) {
                         src={`${i.data.image}?nf_resize=fit&w=320&h=160`}
                       ></img>
                     </div>
+                    <div className="absolute top-0 w-auto z-10 left-0 bg-white text-gray-700 text-xs px-1">
+                      {i.data.date}
+                    </div>
                     <div className="absolute bottom-0 w-full z-10 inset-x-0 bg-white text-lg">
                       {i.data.heading}
                     </div>
