@@ -3,7 +3,6 @@
         "model": "C5 AIRCROSS",
         "configuration": "FEEL PACK",
         "uniqueid": "d3ba87c2-7807-4244-83fd-d5313b451bd7",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 0,
@@ -18,14 +17,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 53,
             "fuel_consumption_urban": 10.5,
             "fuel_consumption_extra_urban": 6.3,
             "fuel_consumption_combined": 7.9,
-            "co2_emissions": 179,
+            "co2_emissions": 179.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -52,7 +52,6 @@
         "model": "C5 AIRCROSS",
         "configuration": "FEEL PACK",
         "uniqueid": "6d546149-a34f-44d6-a8b8-f291ff671457",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 0,
@@ -67,14 +66,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 53,
             "fuel_consumption_urban": 4.4,
             "fuel_consumption_extra_urban": 3.9,
             "fuel_consumption_combined": 4.1,
-            "co2_emissions": 108,
+            "co2_emissions": 108.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -101,8 +101,7 @@
         "model": "C5 AIRCROSS",
         "configuration": "FEEL PACK",
         "uniqueid": "f05942ad-1c63-4006-a855-fe7bea96ae0a",
-        "year": 2020,
-       "tire": {
+        "tire": {
             "radius": 18,
             "width": 0,
             "height": 0
@@ -116,14 +115,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 53,
             "fuel_consumption_urban": 6.8,
             "fuel_consumption_extra_urban": 6.4,
             "fuel_consumption_combined": 6.1,
-            "co2_emissions": 160,
+            "co2_emissions": 160.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -150,7 +150,6 @@
         "model": "C5 AIRCROSS",
         "configuration": "FEEL",
         "uniqueid": "1ba7749a-e3ee-49b2-806b-b5db3fb221f8",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 0,
@@ -165,14 +164,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 53,
             "fuel_consumption_urban": 10.5,
             "fuel_consumption_extra_urban": 6.3,
             "fuel_consumption_combined": 7.9,
-            "co2_emissions": 179,
+            "co2_emissions": 179.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -199,7 +199,6 @@
         "model": "C5 AIRCROSS",
         "configuration": "SHINE PACK",
         "uniqueid": "d8a9222c-2883-4835-a909-c55a01a8ee3a",
-        "year": 2020,
         "tire": {
             "radius": 18,
             "width": 0,
@@ -214,14 +213,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 53,
             "fuel_consumption_urban": 6.8,
             "fuel_consumption_extra_urban": 6.4,
             "fuel_consumption_combined": 6.1,
-            "co2_emissions": 160,
+            "co2_emissions": 160.0,
             "emission_standard": "Evro-6"
         },
         "engine": {

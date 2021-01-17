@@ -3,7 +3,6 @@
         "model": "SPACETOURER",
         "configuration": "BUSINESS",
         "uniqueid": "54102643-fde2-4f7b-ba58-330f532dd85c",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 0,
@@ -18,14 +17,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 69,
             "fuel_consumption_urban": 6.2,
             "fuel_consumption_extra_urban": 5.1,
             "fuel_consumption_combined": 5.5,
-            "co2_emissions": 145,
+            "co2_emissions": 145.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -52,7 +52,6 @@
         "model": "SPACETOURER",
         "configuration": "FEEL",
         "uniqueid": "312d1862-3e66-4095-92b1-b7999e052d06",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 0,
@@ -67,14 +66,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 69,
             "fuel_consumption_urban": 6.2,
             "fuel_consumption_extra_urban": 5.1,
             "fuel_consumption_combined": 5.5,
-            "co2_emissions": 145,
+            "co2_emissions": 145.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -101,8 +101,7 @@
         "model": "SPACETOURER",
         "configuration": "FEEL",
         "uniqueid": "69a4e769-ff28-43a6-957c-e11f9b58b966",
-        "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 17,
             "width": 0,
             "height": 0
@@ -116,14 +115,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 69,
             "fuel_consumption_urban": 7.0,
             "fuel_consumption_extra_urban": 5.6,
             "fuel_consumption_combined": 6.2,
-            "co2_emissions": 160,
+            "co2_emissions": 160.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -150,8 +150,7 @@
         "model": "SPACETOURER",
         "configuration": "FEEL",
         "uniqueid": "19d0d3d1-207f-4279-aae5-5ac721eaa1f8",
-        "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 17,
             "width": 0,
             "height": 0
@@ -165,14 +164,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 69,
             "fuel_consumption_urban": 7.0,
             "fuel_consumption_extra_urban": 5.6,
             "fuel_consumption_combined": 6.2,
-            "co2_emissions": 160,
+            "co2_emissions": 160.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
@@ -199,7 +199,6 @@
         "model": "SPACETOURER",
         "configuration": "LOUNGE",
         "uniqueid": "d4ad9670-8c1f-4e08-bc99-be5f0565b028",
-        "year": 2020,
         "tire": {
             "radius": 17,
             "width": 0,
@@ -214,14 +213,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 69,
             "fuel_consumption_urban": 6.4,
             "fuel_consumption_extra_urban": 5.3,
             "fuel_consumption_combined": 5.7,
-            "co2_emissions": 151,
+            "co2_emissions": 151.0,
             "emission_standard": "Evro-6"
         },
         "engine": {

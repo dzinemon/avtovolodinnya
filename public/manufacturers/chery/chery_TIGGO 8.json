@@ -4,15 +4,15 @@
         "configuration": "Luxury",
         "uniqueid": "3362386a-cf1a-4781-9cec-634ff4599ece",
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 18,
+            "width": 235,
+            "height": 55
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
+            "length": 4700,
+            "width": 1860,
+            "height": 1705,
+            "wheelbase": 2710,
             "front_track_width": 0,
             "rear_track_width": 0,
             "overhang_ahead": 0,
@@ -21,17 +21,17 @@
             "clearance": 0.0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
+            "fuel_tank_capacity": 51,
             "fuel_consumption_urban": 0,
             "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_combined": 7.5,
             "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "emission_standard": "Evro-5"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.498,
+            "power": 147,
+            "torque": 210,
             "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
@@ -39,11 +39,11 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "MT"
         },
         "speed": {
-            "maximum_speed": 0,
+            "maximum_speed": 190,
             "acceleration100": 0
         },
         "id": 0
@@ -52,16 +52,16 @@
         "model": "TIGGO 8",
         "configuration": "Luxury",
         "uniqueid": "98159f9a-aa51-4d19-a6c4-9cc11ac9c92a",
-        "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+       "tire": {
+            "radius": 18,
+            "width": 235,
+            "height": 55
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
+            "length": 4700,
+            "width": 1860,
+            "height": 1705,
+            "wheelbase": 2710,
             "front_track_width": 0,
             "rear_track_width": 0,
             "overhang_ahead": 0,
@@ -70,17 +70,17 @@
             "clearance": 0.0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
+            "fuel_tank_capacity": 51,
             "fuel_consumption_urban": 0,
             "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_combined": 7.5,
             "co2_emissions": 0,
-            "emission_standard": "Evro-6"
+            "emission_standard": "Evro-5"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.498,
+            "power": 147,
+            "torque": 210,
             "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
@@ -88,11 +88,11 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "DCT"
         },
         "speed": {
-            "maximum_speed": 0,
+            "maximum_speed": 190,
             "acceleration100": 0
         },
         "id": 1
@@ -102,15 +102,15 @@
         "configuration": "Premium",
         "uniqueid": "fd1b233e-5ad5-4323-a267-1fff5a2d0ffa",
         "tire": {
-            "radius": 0,
-            "width": 0,
-            "height": 0
+            "radius": 18,
+            "width": 235,
+            "height": 55
         },
         "dimensions": {
-            "length": 0,
-            "width": 0,
-            "height": 0,
-            "wheelbase": 0,
+            "length": 4700,
+            "width": 1860,
+            "height": 1705,
+            "wheelbase": 2710,
             "front_track_width": 0,
             "rear_track_width": 0,
             "overhang_ahead": 0,
@@ -119,17 +119,17 @@
             "clearance": 0.0
         },
         "fuel": {
-            "fuel_tank_capacity": 0,
+            "fuel_tank_capacity": 51,
             "fuel_consumption_urban": 0,
             "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
+            "fuel_consumption_combined": 8.2,
             "co2_emissions": 0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
-            "torque": 0,
+            "engine_displacement": 1.971,
+            "power": 170,
+            "torque": 250,
             "fuel_system": "petrol",
             "number_cylinders": 0,
             "turbine": "",
@@ -137,11 +137,11 @@
         },
         "transmission": {
             "transmission": "front-wheel drive",
-            "count": 0,
-            "name": ""
+            "count": 6,
+            "name": "CVT"
         },
         "speed": {
-            "maximum_speed": 0,
+            "maximum_speed": 180,
             "acceleration100": 0
         },
         "id": 2

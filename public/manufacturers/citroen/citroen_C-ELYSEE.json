@@ -3,8 +3,7 @@
         "model": "C-ELYSEE",
         "configuration": "FEEL",
         "uniqueid": "c3e2926e-0596-422c-bd43-50271db88d79",
-        "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 15,
             "width": 185,
             "height": 65
@@ -18,18 +17,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 6.0,
             "fuel_consumption_extra_urban": 4.3,
             "fuel_consumption_combined": 4.9,
-            "co2_emissions": 114,
+            "co2_emissions": 114.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 59,
             "torque": 0,
             "fuel_system": "petrol",
@@ -52,7 +52,6 @@
         "model": "C-ELYSEE",
         "configuration": "FEEL",
         "uniqueid": "f70a65dd-59e1-4f36-b888-e73c856dfa85",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -67,18 +66,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 10.0,
             "fuel_consumption_extra_urban": 5.6,
             "fuel_consumption_combined": 7.3,
-            "co2_emissions": 168,
+            "co2_emissions": 168.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 85,
             "torque": 0,
             "fuel_system": "petrol",
@@ -101,7 +101,6 @@
         "model": "C-ELYSEE",
         "configuration": "FEEL",
         "uniqueid": "d41c261b-7b2f-40f7-abca-6a147821ebbc",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -116,18 +115,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 10.0,
             "fuel_consumption_extra_urban": 5.6,
             "fuel_consumption_combined": 7.3,
-            "co2_emissions": 168,
+            "co2_emissions": 168.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 85,
             "torque": 0,
             "fuel_system": "petrol",
@@ -150,7 +150,6 @@
         "model": "C-ELYSEE",
         "configuration": "FEEL",
         "uniqueid": "c71655d3-eb4a-4a4d-95e2-22cd182847e6",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -165,18 +164,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 48,
             "fuel_consumption_urban": 4.9,
             "fuel_consumption_extra_urban": 3.9,
             "fuel_consumption_combined": 4.3,
-            "co2_emissions": 112,
+            "co2_emissions": 112.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 68,
             "torque": 0,
             "fuel_system": "diesel",
@@ -199,8 +199,7 @@
         "model": "C-ELYSEE",
         "configuration": "SHINE PACK",
         "uniqueid": "a3fe0ed1-9077-4ce2-8c4f-aa39c8ae3b2c",
-        "year": 2020,
-         "tire": {
+        "tire": {
             "radius": 15,
             "width": 185,
             "height": 65
@@ -214,18 +213,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 10.0,
             "fuel_consumption_extra_urban": 5.6,
             "fuel_consumption_combined": 7.3,
-            "co2_emissions": 168,
+            "co2_emissions": 168.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 85,
             "torque": 0,
             "fuel_system": "petrol",
@@ -248,7 +248,6 @@
         "model": "C-ELYSEE",
         "configuration": "SHINE PACK",
         "uniqueid": "db7a2794-c3fb-4ef9-b9f0-15b8df9834c9",
-        "year": 2020,
         "tire": {
             "radius": 15,
             "width": 185,
@@ -263,18 +262,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 48,
             "fuel_consumption_urban": 4.9,
             "fuel_consumption_extra_urban": 3.9,
             "fuel_consumption_combined": 4.3,
-            "co2_emissions": 112,
+            "co2_emissions": 112.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 68,
             "torque": 0,
             "fuel_system": "diesel",

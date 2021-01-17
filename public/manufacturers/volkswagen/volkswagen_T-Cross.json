@@ -4,7 +4,7 @@
         "configuration": "T-Cross",
         "uniqueid": "d81d2041-0198-463c-884a-08bddd14e56d",
         "tire": {
-            "radius": 0,
+            "radius": 16,
             "width": 0,
             "height": 0
         },
@@ -24,16 +24,16 @@
             "fuel_tank_capacity": 0,
             "fuel_consumption_urban": 0,
             "fuel_consumption_extra_urban": 0,
-            "fuel_consumption_combined": 0,
-            "co2_emissions": 0,
+            "fuel_consumption_combined": 7.1,
+            "co2_emissions": 161,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 0,
-            "power": 0,
+            "engine_displacement": 0.999,
+            "power": 115,
             "torque": 0,
-            "fuel_system": "",
-            "number_cylinders": 0,
+            "fuel_system": "petrol",
+            "number_cylinders": 3,
             "turbine": "",
             "code": ""
         },

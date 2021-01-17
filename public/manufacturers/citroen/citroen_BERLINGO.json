@@ -3,7 +3,6 @@
         "model": "BERLINGO",
         "configuration": "FEEL",
         "uniqueid": "bfaeae05-ed1d-4825-971d-f442f56af4df",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -18,18 +17,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 5.4,
             "fuel_consumption_extra_urban": 4.8,
             "fuel_consumption_combined": 5.0,
-            "co2_emissions": 130,
+            "co2_emissions": 130.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 92,
             "torque": 230,
             "fuel_system": "diesel",
@@ -52,7 +52,6 @@
         "model": "BERLINGO",
         "configuration": "SHINE PACK",
         "uniqueid": "9036294d-870b-418b-8066-3ad4e4986a21",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -67,18 +66,19 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 5.4,
             "fuel_consumption_extra_urban": 4.8,
             "fuel_consumption_combined": 5.0,
-            "co2_emissions": 130,
+            "co2_emissions": 130.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
-            "engine_displacement": 1.560,
+            "engine_displacement": 1.56,
             "power": 92,
             "torque": 230,
             "fuel_system": "diesel",
@@ -101,7 +101,6 @@
         "model": "BERLINGO",
         "configuration": "SHINE PACK",
         "uniqueid": "274aaefc-bbb0-4066-9893-879b8703f459",
-        "year": 2020,
         "tire": {
             "radius": 16,
             "width": 205,
@@ -116,14 +115,15 @@
             "rear_track_width": 0,
             "overhang_ahead": 0,
             "overhang_behind": 0,
-            "turning_diameter": 0
+            "turning_diameter": 0.0,
+            "clearance": 0.0
         },
         "fuel": {
             "fuel_tank_capacity": 50,
             "fuel_consumption_urban": 4.6,
             "fuel_consumption_extra_urban": 4.2,
             "fuel_consumption_combined": 4.3,
-            "co2_emissions": 115,
+            "co2_emissions": 115.0,
             "emission_standard": "Evro-6"
         },
         "engine": {
