@@ -7,8 +7,8 @@ const INSURANCE_EXPENSES = [
 ]
 
 const ALL_FUELS = {
-  "petrol_95": 27.49,
-  "diesel": 25.49
+  "petrol_95": 29.48,
+  "diesel": 30.49
 }
 
 const FUEL_CONS_CHANGE = [
