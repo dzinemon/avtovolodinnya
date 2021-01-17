@@ -28,13 +28,11 @@ export default function Reviews({ articlesPaths }) {
           </div>
         </div>
         <div className="-mx-5 flex flex-wrap justify-center">
-          {/* {JSON.stringify(articlesPaths)} */}
-
           {articlesPaths.map((i, idx) => {
             return (
-              <div key={idx} className="px-5 md:w-4/12 lg:w-4/12 ">
-                <Link href={`/reviews/${i.data.slug}/`}>
-                  <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block">
+              <div key={idx} className="px-5 w-full lg:w-4/12">
+                <Link href={`/reviews/${i.data.slug}/`} >
+                  <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block w-full">
                     <div
                       className="relative w-full overflow-hidden"
                       style={{
