@@ -109,9 +109,6 @@ export async function getStaticPaths() {
         }
       }
     })
-
-    console.log(articlesPaths)
-
   return { 
     paths: articlesPaths, 
     fallback: false 
@@ -154,13 +151,9 @@ export async function getStaticProps({ params }) {
     excerpt = articleData.excerpt
   }
 
-
-
   const content = await markdownToHtml(rawContent)
 
   const meta = articleData.data
-
-  console.log(meta);
 
   return {
     props: {

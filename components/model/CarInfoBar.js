@@ -7,8 +7,8 @@ function CarInfoBar(props) {
    } = props
 
    const currentCar = cars.filter(i => i.uniqueid === uniqueid)[0]
-   console.log(typeof cars)
-   console.log(typeof uniqueid)
+  //  console.log(typeof cars)
+  //  console.log(typeof uniqueid)
   //  console.log(JSON.stringify(currentCar))
   if (typeof cars !== 'undefined' && typeof uniqueid !== 'undefined') {
     return (
