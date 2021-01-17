@@ -99,8 +99,8 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
   const { manufacturer, model } = params
-  console.log(manufacturer)
-  console.log(model)
+  // console.log(manufacturer)
+  // console.log(model)
   let modelImagePath = ''
   const currentImage = `public/manufacturers/${manufacturer}/images/${manufacturer}_${model}_0.jpg`
 
@@ -110,7 +110,7 @@ export async function getStaticProps({params}) {
     modelImagePath = `/logo@3x.png`
   }
   const reqUrl = `public/manufacturers/${manufacturer}/${manufacturer}_${model}.json`
-  console.log(reqUrl)
+  // console.log(reqUrl)
   const rawData = fs.readFileSync(reqUrl)
 
   const data = JSON.parse(rawData);

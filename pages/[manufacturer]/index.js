@@ -111,9 +111,6 @@ export async function getStaticProps({ params }) {
 
     const getCurrentIdArr = data.filter(j => !j.deprecated).map(j => j.uniqueid)
 
-    console.log(`getCurrentIdArr`)
-    console.log(getCurrentIdArr.length)
-
     if (getCurrentIdArr.length > 0) {
       let priceArray = []
 

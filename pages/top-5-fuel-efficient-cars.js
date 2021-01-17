@@ -23,7 +23,7 @@ function TopFive({data}) {
       <div className="xl:container mx-auto">
         <section
           className="relative overflow-hidden"
-          style={{ paddingTop: "40%" }}
+          style={{ paddingTop: "50%" }}
         >
           <div className="absolute inset-0 z-0">
             <img
@@ -62,7 +62,7 @@ function TopFive({data}) {
         </div>
       </div>
       <div className="xl:container mx-auto my-4 px-4 sm:text-xs text-sm">
-        Опубликовано: <strong>Avtovolodinnya</strong> | <strong>25/12/2020</strong> 
+        Опубліковано: <strong>Avtovolodinnya</strong> | <strong>25/12/2020</strong> 
       </div>
       <main className="my-6 sm:my-10">
         <div className="xl:container mx-auto my-4 px-4 flex flex-wrap">
