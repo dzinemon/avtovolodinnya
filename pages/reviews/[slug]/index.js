@@ -23,7 +23,7 @@ function ArticleTemplate({meta, content, excerpt}) {
     <Seo 
       title={meta.title}
       description={meta.description}
-      currentPath={slug}
+      currentPath={`reviews/${slug}`}
           />
 
       <Nav/>
