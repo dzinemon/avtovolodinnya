@@ -14,16 +14,16 @@ export default function Reviews({ articlesPaths }) {
   return (
     <GaWrapper>
       <Seo
-        title="Обзори, статті та Тести нових авто"
-        description="Обзори, статті та Тести авто на сайті Автоволодіння"
-        currentPath="reviews"
+        title="Рейтенги авто українського ринку"
+        description="Рейтенги авто українського ринку на сайті Автоволодіння"
+        currentPath="top"
       />
       <Nav />
       <div className="xl:container mx-auto px-5">
         <div className="-mx-5 flex flex-wrap justify-center">
           <div className="w-auto px-5">
             <h1 className="text-center text-3xl sm:text-4xl relative z-10 font-bold my-6">
-              Обзори, статті та Тести нових авто
+              Рейтенги авто українського ринку
             </h1>
           </div>
         </div>
@@ -31,7 +31,7 @@ export default function Reviews({ articlesPaths }) {
           {articlesPaths.map((i, idx) => {
             return (
               <div key={idx} className="px-5 w-full lg:w-4/12">
-                <Link href={`/reviews/${i.data.slug}/`} >
+                <Link href={`/top/${i.data.slug}/`} >
                   <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block w-full">
                     <div
                       className="relative w-full overflow-hidden"
@@ -69,9 +69,9 @@ export default function Reviews({ articlesPaths }) {
 
 // This also gets called at build time
 export async function getStaticProps() {
-  const articleDirectory = path.join(process.cwd(), "reviews");
+  const articleDirectory = path.join(process.cwd(), "top");
   const filenames = fs.readdirSync(articleDirectory);
-  const relativeDir = "reviews";
+  const relativeDir = "top";
   // Get the paths we want to pre-render based on posts
   const articlesPaths = filenames
     .filter((i) => i.indexOf(".DS_Store") === -1)

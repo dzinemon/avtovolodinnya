@@ -9,6 +9,7 @@ import GaWrapper from '../components/gawrapper'
 
 import SectionOne from '../components/home/sectionOne'
 import SectionTop5 from '../components/home/sectionTop5'
+import SectionReviews from '../components/home/sectionReviews'
 
 import getCurrency from '../utils/getCurrency'
 
@@ -78,6 +79,7 @@ function Home({availableManufacturers, allModels}) {
       </main>
       <SectionOne manufacturers={availableManufacturers} models={allModels} />
       <SectionTop5 />
+      <SectionReviews />
       <Footer />
     </GaWrapper>
   </>
