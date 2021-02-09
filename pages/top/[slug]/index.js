@@ -36,12 +36,12 @@ function ArticleTemplate({meta, content, excerpt}) {
                 Головна
               </a>
             </Link>
-            <span className="text-gray-400"> / </span>
+            {/* <span className="text-gray-400"> / </span>
             <Link href="/top">
               <a className="text-gray-700 hover:text-gray-500 capitalize">
                 Статті
               </a>
-            </Link>
+            </Link> */}
             <span className="text-gray-400"> / </span>
             <span className="text-gray-700 capitalize">{meta.title}</span>
           </div>
@@ -69,7 +69,7 @@ function ArticleTemplate({meta, content, excerpt}) {
                 </div>
             </div>
 
-            <div className="px-3 py-2 my-6 text-2xl lg:text-3xl font-light text-gray-800 rounded-md bg-gray-100">
+            <div className="px-3 py-2 my-6 text-xl lg:text-2xl font-light text-gray-800 rounded-md bg-gray-100">
               <p>
                 { excerpt }
               </p>
@@ -96,9 +96,13 @@ export async function getStaticPaths() {
 
   // Get the paths we want to pre-render based on posts
   const articlesPaths = filenames
-    .filter(i => i.indexOf('.DS_Store') === -1)
+    .filter(i => {
+      console.log(i)
+      return i.indexOf('.DS_Store') === -1}
+      )
     // .map(i => i.replace('.md',''))
     .map(x => {
+      console.log( `xxx ${x}`)
       const pathToFile = `${relativeDir}/${x}`
       const fileContents = fs.readFileSync(pathToFile)
       const slug = matter(fileContents).data.slug
@@ -121,39 +125,52 @@ export async function getStaticProps({ params }) {
   const articleDirectory = path.join(process.cwd(), 'top')
   const filenames = await fs.readdirSync(articleDirectory);
 
+  console.log({params})
+
   const relativeDir = 'top'
 
-  // Get the paths we want to pre-render based on posts
-  const articleData = filenames
-    .filter(i => i.indexOf('.DS_Store') === -1)
-    // .map(i => i.replace('.md',''))
-    .map(x => {
-      const pathToFile = `${relativeDir}/${x}`
-      const fileContents = fs.readFileSync(pathToFile)
-      const slug = matter(fileContents).data.slug
-      
-      if (slug === params.slug) {
-        return (
-          matter(fileContents, { 
-            excerpt: true,
-            excerpt_separator: '<!-- sep -->'
-            })
-        )
-      }
-      
-    })[0];
+  const pathToFile = `${relativeDir}/${params.slug}.md`
+  const fileContents = fs.readFileSync(pathToFile)
+  const slug = matter(fileContents).data.slug
 
-  let rawContent = articleData.content;
+  const data = matter(fileContents, { 
+    excerpt: true,
+    excerpt_separator: '<!-- sep -->'
+  })
+
+  // Get the paths we want to pre-render based on posts
+  // const articleData = filenames
+  //   .filter(i => i.indexOf('.DS_Store') === -1)
+  //   // .map(i => i.replace('.md',''))
+  //   .map(x => {
+  //     const pathToFile = `${relativeDir}/${x}`
+  //     const fileContents = fs.readFileSync(pathToFile)
+  //     const slug = matter(fileContents).data.slug
+      
+  //     if (slug === params.slug) {
+  //       console.log(`SLUG ${slug}`)
+  //       const data = matter(fileContents, { 
+  //         excerpt: true,
+  //         excerpt_separator: '<!-- sep -->'
+  //       })
+  //       return data
+  //     }
+      
+  //   })[0];
+
+  console.log(data)  
+
+  let rawContent = data.content;
   let excerpt = ''
   
-  if (articleData.excerpt !== '') {
-    rawContent = articleData.content.replace(articleData.excerpt, '')
-    excerpt = articleData.excerpt
+  if (data.excerpt !== '') {
+    rawContent = data.content.replace(data.excerpt, '')
+    excerpt = data.excerpt
   }
 
   const content = await mdToHtmlTop(rawContent)
 
-  const meta = articleData.data
+  const meta = data.data
 
   return {
     props: {

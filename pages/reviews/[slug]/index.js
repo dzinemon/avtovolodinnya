@@ -123,37 +123,46 @@ export async function getStaticProps({ params }) {
 
   const relativeDir = 'reviews'
 
-  // Get the paths we want to pre-render based on posts
-  const articleData = filenames
-    .filter(i => i.indexOf('.DS_Store') === -1)
-    // .map(i => i.replace('.md',''))
-    .map(x => {
-      const pathToFile = `${relativeDir}/${x}`
-      const fileContents = fs.readFileSync(pathToFile)
-      const slug = matter(fileContents).data.slug
-      
-      if (slug === params.slug) {
-        return (
-          matter(fileContents, { 
-            excerpt: true,
-            excerpt_separator: '<!-- sep -->'
-            })
-        )
-      }
-      
-    })[0];
+  const pathToFile = `${relativeDir}/${params.slug}.md`
+  const fileContents = fs.readFileSync(pathToFile)
+  const slug = matter(fileContents).data.slug
 
-  let rawContent = articleData.content;
+  const data = matter(fileContents, { 
+    excerpt: true,
+    excerpt_separator: '<!-- sep -->'
+  })
+
+  // Get the paths we want to pre-render based on posts
+  // const articleData = filenames
+  //   .filter(i => i.indexOf('.DS_Store') === -1)
+  //   // .map(i => i.replace('.md',''))
+  //   .map(x => {
+  //     const pathToFile = `${relativeDir}/${x}`
+  //     const fileContents = fs.readFileSync(pathToFile)
+  //     const slug = matter(fileContents).data.slug
+      
+  //     if (slug === params.slug) {
+  //       return (
+  //         matter(fileContents, { 
+  //           excerpt: true,
+  //           excerpt_separator: '<!-- sep -->'
+  //           })
+  //       )
+  //     }
+      
+  //   })[0];
+
+  let rawContent = data.content;
   let excerpt = ''
   
-  if (articleData.excerpt !== '') {
-    rawContent = articleData.content.replace(articleData.excerpt, '')
-    excerpt = articleData.excerpt
+  if (data.excerpt !== '') {
+    rawContent = data.content.replace(data.excerpt, '')
+    excerpt = data.excerpt
   }
 
   const content = await markdownToHtml(rawContent)
 
-  const meta = articleData.data
+  const meta = data.data
 
   return {
     props: {
