@@ -45,14 +45,14 @@ export default function Reviews({ articlesPaths }) {
                         src={`${i.data.image}?nf_resize=fit&w=320&h=160`}
                       ></img>
                     </div>
-                    <div className="absolute top-1 w-auto z-10 left-1 bg-white text-gray-700 text-xs px-1">
+                    <div className="absolute top-0 w-auto z-10 left-1 bg-white text-gray-700 text-xs px-1">
                       {i.data.date}
                     </div>
                     <div 
                       style={{
                         backgroundColor: 'rgba(255, 255, 255, 0.8 )'
                       }}
-                      className="absolute bottom-1 z-10 inset-x-1 text-base lg:text-lg from-transparent to-white m-1 px-1">
+                      className="absolute bottom-0 z-10 inset-x-1 text-base lg:text-lg m-1 px-1">
                       {i.data.heading}
                     </div>
                   </a>

@@ -97,7 +97,6 @@ export async function getStaticPaths() {
   // Get the paths we want to pre-render based on posts
   const articlesPaths = filenames
     .filter(i => {
-      console.log(i)
       return i.indexOf('.DS_Store') === -1}
       )
     // .map(i => i.replace('.md',''))
@@ -125,8 +124,6 @@ export async function getStaticProps({ params }) {
   const articleDirectory = path.join(process.cwd(), 'top')
   const filenames = await fs.readdirSync(articleDirectory);
 
-  console.log({params})
-
   const relativeDir = 'top'
 
   const pathToFile = `${relativeDir}/${params.slug}.md`
@@ -137,28 +134,6 @@ export async function getStaticProps({ params }) {
     excerpt: true,
     excerpt_separator: '<!-- sep -->'
   })
-
-  // Get the paths we want to pre-render based on posts
-  // const articleData = filenames
-  //   .filter(i => i.indexOf('.DS_Store') === -1)
-  //   // .map(i => i.replace('.md',''))
-  //   .map(x => {
-  //     const pathToFile = `${relativeDir}/${x}`
-  //     const fileContents = fs.readFileSync(pathToFile)
-  //     const slug = matter(fileContents).data.slug
-      
-  //     if (slug === params.slug) {
-  //       console.log(`SLUG ${slug}`)
-  //       const data = matter(fileContents, { 
-  //         excerpt: true,
-  //         excerpt_separator: '<!-- sep -->'
-  //       })
-  //       return data
-  //     }
-      
-  //   })[0];
-
-  console.log(data)  
 
   let rawContent = data.content;
   let excerpt = ''
