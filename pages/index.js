@@ -18,9 +18,10 @@ import Footer from '../components/footer'
 import fs from 'fs'
 import path from 'path'
 import { useEffect, useState } from 'react'
+import matter from "gray-matter";
 
 // availableManufacturers will be populated at build time by getStaticProps()
-function Home({availableManufacturers, allModels}) {
+function Home({availableManufacturers, allModels, reviewsData, topData}) {
 
   const [currentCurrency, setCurrency] = useState()
 
@@ -78,8 +79,8 @@ function Home({availableManufacturers, allModels}) {
         </div>
       </main>
       <SectionOne manufacturers={availableManufacturers} models={allModels} />
-      <SectionTop5 />
-      <SectionReviews />
+      <SectionTop5 topData={topData} />
+      <SectionReviews reviewsData={reviewsData}/>
       <Footer />
     </GaWrapper>
   </>
@@ -88,6 +89,38 @@ function Home({availableManufacturers, allModels}) {
 }
 
 export async function getStaticProps() {
+  const reviews = path.join(process.cwd(), "reviews");
+  const top = path.join(process.cwd(), "top");
+  const allreviews = fs.readdirSync(reviews);
+  const alltops = fs.readdirSync(top);
+  const relativeDir = "reviews";
+  const relativeTopDir = "top";
+
+  const reviewsData = allreviews
+    .filter((i) => i.indexOf(".DS_Store") === -1)
+    // .map((i) => i.replace(".md", ""))
+    .map((x) => {
+      const pathToFile = `${relativeDir}/${x}`;
+      const fileContents = fs.readFileSync(pathToFile);
+      const data = matter(fileContents).data;
+      return {
+        data,
+      };
+    });
+
+  
+  const topData = alltops
+    .filter((i) => i.indexOf(".DS_Store") === -1)
+    // .map((i) => i.replace(".md", ""))
+    .map((x) => {
+      const pathToFile = `${relativeTopDir}/${x}`;
+      const fileContents = fs.readFileSync(pathToFile);
+      const data = matter(fileContents).data;
+      return {
+        data,
+      };
+    });  
+
   const manufacturerDirectory = path.join(process.cwd(), 'public', 'manufacturers')
   const filenames = fs.readdirSync(manufacturerDirectory)
   const availableManufacturers = filenames
@@ -120,7 +153,9 @@ export async function getStaticProps() {
   return {
     props: {
       availableManufacturers,
-      allModels
+      allModels,
+      reviewsData,
+      topData
     }
   }
 }
