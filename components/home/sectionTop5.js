@@ -34,7 +34,7 @@ function SectionTop(props) {
                       {i.data.description}
                     </p>
                     <p>
-                    <Link href={`/reviews/${i.data.slug}`}>
+                    <Link href={`/top/${i.data.slug}`}>
                       <a className="inline-block font-bold tracking-wider text-blue-600 transition transition-all duration-300">
                         Переглянути
                       </a>
