@@ -36,12 +36,12 @@ function ArticleTemplate({meta, content, excerpt}) {
                 Головна
               </a>
             </Link>
-            {/* <span className="text-gray-400"> / </span>
+            <span className="text-gray-400"> / </span>
             <Link href="/top">
               <a className="text-gray-700 hover:text-gray-500 capitalize">
-                Статті
+                Рейтенги
               </a>
-            </Link> */}
+            </Link>
             <span className="text-gray-400"> / </span>
             <span className="text-gray-700 capitalize">{meta.title}</span>
           </div>

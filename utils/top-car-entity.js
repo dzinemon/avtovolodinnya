@@ -1,6 +1,6 @@
 import formatNumber from '../utils/formatNumber'
 
-export default function getCarEntity (pos, car, manufacturer) {
+export default function getCarEntity (pos, car, manufacturer, term, val) {
   const HTMLtoReturn = `<div class="mb-6 mt-16" key="pos-${pos}">
   <div class="flex flex-row flex-wrap justify-start items-center w-full">
     <div class="w-auto font-bold text-2xl sm:text-3xl pr-2">${pos}.</div>
@@ -12,7 +12,7 @@ export default function getCarEntity (pos, car, manufacturer) {
         ${car.transmission.count}${car.transmission.name}
         </h2> 
     </div>
-    <div class="sm:w-auto w-full text-gray-700 pl-2 text-md sm:text-2xl font-semibold">(Прискорення : ${car.speed.acceleration100} c) </div>
+    <div class="sm:w-auto w-full text-gray-700 pl-2 text-md sm:text-2xl font-semibold">(${term} : ${val}) </div>
     
   </div>
 
