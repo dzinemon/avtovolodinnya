@@ -22,7 +22,7 @@ export default function Reviews({ articlesPaths }) {
       <div className="xl:container mx-auto px-5">
         <div className="-mx-5 flex flex-wrap justify-center">
           <div className="w-auto px-5">
-            <h1 className="text-center text-3xl sm:text-4xl relative z-10 font-bold my-6">
+            <h1 className="text-center text-3xl sm:text-4xl relative z-10 font-bold my-6 leading-tight">
               Рейтенги авто українського ринку
             </h1>
           </div>
@@ -30,9 +30,9 @@ export default function Reviews({ articlesPaths }) {
         <div className="-mx-5 flex flex-wrap justify-center">
           {articlesPaths.map((i, idx) => {
             return (
-              <div key={idx} className="px-5 w-full lg:w-4/12">
+              <div key={idx} className="px-5 w-full lg:w-4/12 mb-6 shadow-lg">
                 <Link href={`/top/${i.data.slug}/`} >
-                  <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block w-full">
+                  <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block w-full shadow-lg">
                     <div
                       className="relative w-full overflow-hidden"
                       style={{
@@ -41,7 +41,7 @@ export default function Reviews({ articlesPaths }) {
                     >
                       <img
                         alt={i.data.title}
-                        className="w-full absolute inset-0 object-contain object-center"
+                        className="w-full absolute inset-x-0 bottom-0 object-cover object-center "
                         src={`${i.data.image}?nf_resize=fit&w=320&h=160`}
                       ></img>
                     </div>

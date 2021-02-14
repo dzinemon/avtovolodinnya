@@ -51,13 +51,13 @@ function ArticleTemplate({meta, content, excerpt}) {
       <div className="xl:container mx-auto px-5">
         <div className="-mx-5 flex flex-wrap">
           <div className="px-5 w-full sm:w-8/12 ">
-            <h1 className="text-3xl sm:text-4xl relative z-10 font-bold my-6">
+            <h1 className="text-3xl sm:text-4xl relative z-10 font-bold my-6 leading-tight">
               {meta.heading}
             </h1>
             <div className="relative overflow-hidden my-6" style={{
               paddingTop: '50%'
             }}>
-              <img src={meta.image} className="inset-0 w-full absolute object-contain object-center" width="608" height="342"/>
+              <img src={meta.image} className="inset-x-0 bottom-0 absolute object-cover object-center w-full h-full" width="608" height="342"/>
             </div>
 
             <div className="border-t-2 border-b border-gray-300 flex flex-row flex-wrap justify-start items-center">
@@ -69,7 +69,7 @@ function ArticleTemplate({meta, content, excerpt}) {
                 </div>
             </div>
 
-            <div className="px-3 py-2 my-6 text-2xl lg:text-3xl font-light text-gray-800 rounded-md bg-gray-100">
+            <div className="px-3 py-2 my-6 text-xl lg:text-2xl font-light text-gray-800 rounded-md bg-gray-100">
               <p>
                 { excerpt }
               </p>
