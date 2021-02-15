@@ -10,6 +10,30 @@ import path from "path";
 import { useEffect, useState } from "react";
 import Seo from "../../components/seo";
 
+function compareValues(key, order = 'asc') {
+  return function innerSort(a, b) {
+    if (!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {
+      // property doesn't exist on either object
+      return 0;
+    }
+
+    const varA = (typeof a[key] === 'string')
+      ? a[key].toUpperCase() : a[key];
+    const varB = (typeof b[key] === 'string')
+      ? b[key].toUpperCase() : b[key];
+
+    let comparison = 0;
+    if (varA > varB) {
+      comparison = 1;
+    } else if (varA < varB) {
+      comparison = -1;
+    }
+    return (
+      (order === 'desc') ? (comparison * -1) : comparison
+    );
+  };
+}
+
 export default function Reviews({ articlesPaths }) {
   return (
     <GaWrapper>
@@ -28,7 +52,7 @@ export default function Reviews({ articlesPaths }) {
           </div>
         </div>
         <div className="-mx-5 flex flex-wrap justify-center">
-          {articlesPaths.map((i, idx) => {
+          {articlesPaths.sort((a, b) => b.date - a.date).map((i, idx) => {
             return (
               <div key={idx} className="px-5 w-full lg:w-4/12 mb-6">
                 <Link href={`/reviews/${i.data.slug}/`} >
@@ -75,15 +99,17 @@ export async function getStaticProps() {
   // Get the paths we want to pre-render based on posts
   const articlesPaths = filenames
     .filter((i) => i.indexOf(".DS_Store") === -1)
-    // .map((i) => i.replace(".md", ""))
     .map((x) => {
       const pathToFile = `${relativeDir}/${x}`;
       const fileContents = fs.readFileSync(pathToFile);
-      const data = matter(fileContents).data;
+      const rawData = matter(fileContents).data;
+      const data = {...rawData, dateProc: String(new Date(rawData.date))};
       return {
-        data,
+        data
       };
-    });
+    })
+    
+    articlesPaths.sort((a,b) => Date.parse(b.data.dateProc) - Date.parse(a.data.dateProc))
   return {
     props: {
       articlesPaths,

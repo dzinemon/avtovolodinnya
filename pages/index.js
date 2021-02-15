@@ -107,9 +107,8 @@ export async function getStaticProps() {
         data,
       };
     });
-
-  
-  const topData = alltops
+    
+    const topData = alltops
     .filter((i) => i.indexOf(".DS_Store") === -1)
     // .map((i) => i.replace(".md", ""))
     .map((x) => {
@@ -120,6 +119,9 @@ export async function getStaticProps() {
         data,
       };
     });  
+    
+  reviewsData.sort((a,b) => Date.parse(b.data.date) - Date.parse(a.data.date))  
+  topData.sort((a,b) => Date.parse(b.data.date) - Date.parse(a.data.date))  
 
   const manufacturerDirectory = path.join(process.cwd(), 'public', 'manufacturers')
   const filenames = fs.readdirSync(manufacturerDirectory)

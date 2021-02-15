@@ -30,7 +30,7 @@ export default function Reviews({ articlesPaths }) {
         <div className="-mx-5 flex flex-wrap justify-center">
           {articlesPaths.map((i, idx) => {
             return (
-              <div key={idx} className="px-5 w-full lg:w-4/12 mb-6 shadow-lg">
+              <div key={idx} className="px-5 w-full lg:w-4/12 mb-6">
                 <Link href={`/top/${i.data.slug}/`} >
                   <a className="text-blue-600 hover:opacity-75 transition-opacity duration-200 relative block w-full shadow-lg">
                     <div
@@ -84,6 +84,7 @@ export async function getStaticProps() {
         data,
       };
     });
+    articlesPaths.sort((a,b) => Date.parse(b.data.date) - Date.parse(a.data.date))
   return {
     props: {
       articlesPaths,
