@@ -7,7 +7,7 @@ function CarCardItem(props) {
   const { image, modelName, price, hp } = props;
 
   return(
-    <div className="max-w-xs rounded overflow-hidden shadow-md md:shadow-lg my-2 hover:shadow-2xl transition transition-shadow duration-500">
+    <div className="max-w-xs rounded overflow-hidden shadow-md md:shadow-lg my-2 hover:shadow-2xl transition transition-shadow duration-500 mx-auto">
       <CarCardImage
       imageSrc={image} 
       imageAlt={modelName}
