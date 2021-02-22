@@ -4,7 +4,7 @@ title: Nissan X-trail - місткий повнопривідний кросов
 description: Повнопривідний кросовер Nissan X-trail з 2,5 літровим бензиновим двигуном та варіатором
 image: /manufacturers/nissan/images/nissan_x-trail_0.jpg
 heading: Nissan X-trail - Місткий повнопривідний кросовер на всі випадки життя
-author: Dima
+author: Alex Alehin
 date: "2021-02-22"
 ---
 
