@@ -107,9 +107,9 @@ export async function getStaticProps({ params }) {
     }
 
     const rawData = fs.readFileSync(currentPath)
-    const data = JSON.parse(rawData)
+    const data = JSON.parse(rawData).filter(j => j.deprecated != 'true');
 
-    const getCurrentIdArr = data.filter(j => !j.deprecated).map(j => j.uniqueid)
+    const getCurrentIdArr = data.map(j => j.uniqueid)
 
     if (getCurrentIdArr.length > 0) {
       let priceArray = []

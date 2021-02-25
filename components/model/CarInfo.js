@@ -31,7 +31,8 @@ function CarInfo(props) {
         <div className="w-full sm:w-1/2">
             <img 
               src={image} 
-              alt={currentCar.model.replace('_', ' ')} 
+              alt="Current Car"
+              // alt={currentCar.model.replace('_', ' ')} 
               className="object-cover object-center" 
               width={608}
               height={342}

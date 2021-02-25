@@ -114,7 +114,7 @@ export async function getStaticProps({params}) {
   // console.log(reqUrl)
   const rawData = fs.readFileSync(reqUrl)
 
-  const data = JSON.parse(rawData);
+  const data = JSON.parse(rawData).filter(j => j.deprecated != 'true');
 
   const newData = data.forEach((item,idx) => {
     return Object.assign(item, {modelImagePath: modelImagePath})

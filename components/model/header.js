@@ -10,7 +10,7 @@ function ModelHeader(props) {
           data
         } = props
         
-  const configurations = data.filter(i => typeof i.model === 'string')
+  const configurations = data.filter(i => typeof i.model === 'string').filter(j => j.deprecated != 'true')
   
   const getAllPrices = configurations.map(i => i.price).sort((a,b) => a-b);
 

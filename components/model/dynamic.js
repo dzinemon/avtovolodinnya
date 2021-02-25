@@ -31,7 +31,7 @@ function ModelDynamic(props) {
   let priceUrl;
   const url = `/manufacturers/${props.manufacturer}/${props.manufacturer}_${props.model.toUpperCase()}.json`;
 
-  const getCurrentCars = data.filter(i => typeof i.model === 'string');
+  const getCurrentCars = data.filter(i => typeof i.model === 'string').filter(j => j.deprecated != 'true');
   const getCurrentDate = data.filter(i => typeof i.model !== 'string');
 
   const [cars, setCars] = useState(getCurrentCars);
@@ -97,7 +97,9 @@ function ModelDynamic(props) {
       return response.text();
     }).then(data => {
       const carsData0 = JSON.parse(data);
-      const carsData = carsData0.filter(i => typeof i.model === 'string');
+      const carsData = carsData0
+        .filter(i => typeof i.model === 'string')
+        .filter(j => j.deprecated != 'true');
       setCars(carsData);
       setModel(carsData[0].model);
       setAFC(carsData[0].fuel.fuel_consumption_combined);
@@ -169,7 +171,9 @@ function ModelDynamic(props) {
   });
 
   function updateCar(el) {
-    let updatedCar = cars.filter(i => typeof i.model === 'string').filter(i => i.uniqueid === el);
+    let updatedCar = cars
+      .filter(i => typeof i.model === 'string')
+      .filter(i => i.uniqueid === el);
     setModel(updatedCar[0].model);
     setAFC(updatedCar[0].fuel.fuel_consumption_combined);
     setConfiguration(updatedCar[0].configuration);
