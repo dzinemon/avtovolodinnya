@@ -1,13 +1,9 @@
 import { useState, useEffect } from 'react'
 
-// import Seo from '../seo'
-
 import CarInfo from "./CarInfo";
 import CarInfoBar from "./CarInfoBar";
 import CarTable from "./CarTable";
 import CarDataGrid from "./CarDataGrid";
-import ExpensesBar from "./ExpensesBar";
-import useWindowDimensions from "../../hooks/useWindowDimensions";
 
 import calculateWheelsExpenses from "../../utils/calculateWheelsExpenses";
 import taxesToPay from "../../utils/taxesToPay";
@@ -71,10 +67,6 @@ function ModelDynamic(props) {
   }
 
   const vehicleType = "car";
-
-  // const { width } = useWindowDimensions();
-
-  // let isMobile = width < 640 ? true : false;
 
   const [uniqueid, setUniqueid] = useState();
   const [parkingPrice, setParkingPrice] = useState(0);
@@ -175,7 +167,6 @@ function ModelDynamic(props) {
     ).toFixed(0);
     return otherExpensesArray.push(cur);
   });
-
 
   function updateCar(el) {
     let updatedCar = cars.filter(i => typeof i.model === 'string').filter(i => i.uniqueid === el);
@@ -285,10 +276,6 @@ function ModelDynamic(props) {
     <>
       <div>
         
-        {/* <div>
-          width: {width} ~ height: {height}
-        </div> */}
-        
         <CarInfo
           image={image}
           configuration={configuration}
@@ -301,6 +288,8 @@ function ModelDynamic(props) {
           residualPrice={residualPrice}
           perKm={perKm}
           model={model}
+          cars={cars}
+          uniqueid={uniqueid}
         />
         <CarInfoBar
           cars={cars}

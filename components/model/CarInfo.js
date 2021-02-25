@@ -8,7 +8,16 @@ import SelectDropdown from './SelectDropdown'
 
 function CarInfo(props) {
 
-  const {price, costOfOwn, residualPrice, image} = props
+  const {
+    price, 
+    costOfOwn, 
+    residualPrice, 
+    image, 
+    cars,
+    uniqueid
+  } = props
+
+  const currentCar = cars.filter(i => i.uniqueid === uniqueid)[0]
 
   let currentPriceStr = !isNaN(price) ? formatNumber(price) : 0;
   let currentCostOfOwn = !isNaN(costOfOwn) ? formatNumber(costOfOwn) : 0;
@@ -20,11 +29,9 @@ function CarInfo(props) {
 
       <div className="flex flex-wrap">
         <div className="w-full sm:w-1/2">
-          
             <img 
-              // quality={100}
               src={image} 
-              alt={props.designation} 
+              alt={currentCar.model.replace('_', ' ')} 
               className="object-cover object-center" 
               width={608}
               height={342}

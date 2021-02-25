@@ -57,7 +57,7 @@ function ArticleTemplate({meta, content, excerpt}) {
             <div className="relative overflow-hidden my-6" style={{
               paddingTop: '50%'
             }}>
-              <img src={meta.image} className="inset-x-0 bottom-0 absolute object-cover object-center w-full h-full" width="608" height="342"/>
+              <img src={meta.image} alt={meta.heading} className="inset-x-0 bottom-0 absolute object-cover object-center w-full h-full" width="608" height="342"/>
             </div>
 
             <div className="border-t-2 border-b border-gray-300 flex flex-row flex-wrap justify-start items-center">
