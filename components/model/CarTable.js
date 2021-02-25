@@ -1,10 +1,13 @@
 import React from 'react'
+import dynamic from "next/dynamic"
 import formatNumber from '../../utils/formatNumber'
 
 import CarChart from './CarChart';
 import CarTableRow from './CarTableRow';
 
 import sumTheArray from '../../utils/sumTheArray'
+
+const DynamicChart = dynamic(() => import("./CarChart"), {ssr: false})
 
 import {
   MAINTENANCE_EXPENSES,
@@ -24,6 +27,9 @@ function CarTable(props) {
     otherExpensesArray,
     costOfOwn
   } = props;
+
+ 
+
   // tax
   const totalTaxExpenses = sumTheArray(taxExpensesArray);
 
@@ -115,11 +121,11 @@ function CarTable(props) {
 
   return (
     <div className="overflow-hidden">
-      <CarChart
-        isMobile={props.isMobile}
+      <DynamicChart 
         costOfOwn={costOfOwn}
         sortedCosts={sortedCosts}
       />
+ 
       <div className="xl:container mx-auto px-4 sm:overflow-y-hidden overflow-y-scroll">
         <section>
           <table className="table-auto text-sm sm:text-base w-full bg-gray-100 border-gray-200 border-2 rounded overflow-hidden border-collapse">

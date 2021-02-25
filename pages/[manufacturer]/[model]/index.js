@@ -1,7 +1,6 @@
 import ignore from '../../../ignore'
 import dynamic from "next/dynamic";
 
-// import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import Layout from '../../../components/layout'
@@ -9,7 +8,9 @@ import GaWrapper from '../../../components/gawrapper'
 
 import ModelHeader from '../../../components/model/header'
 
-const ModelDynamic = dynamic(() => import("../../../components/model/dynamic"), { ssr: false });
+// const ModelDynamic = dynamic(() => import("../../../components/model/dynamic"), { ssr: false });
+
+import ModelDynamic from '../../../components/model/dynamic'
 
 import fs from 'fs'
 import path from 'path'

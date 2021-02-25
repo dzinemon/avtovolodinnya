@@ -1,11 +1,16 @@
 import React from 'react'
 import ChartItem from './ChartItem'
+import useWindowDimensions from "../../hooks/useWindowDimensions";
 
 function CarChart(props) {
+
+  const { width } = useWindowDimensions();
+
+  let isMobile = width < 640 ? true : false;
+
   const {
     costOfOwn,
     sortedCosts,
-    isMobile
   } = props
 
   const ChartItems = sortedCosts.map((i,idx) => {

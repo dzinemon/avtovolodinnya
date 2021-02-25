@@ -72,9 +72,9 @@ function ModelDynamic(props) {
 
   const vehicleType = "car";
 
-  const { width } = useWindowDimensions();
+  // const { width } = useWindowDimensions();
 
-  let isMobile = width < 640 ? true : false;
+  // let isMobile = width < 640 ? true : false;
 
   const [uniqueid, setUniqueid] = useState();
   const [parkingPrice, setParkingPrice] = useState(0);
@@ -277,15 +277,13 @@ function ModelDynamic(props) {
 
   const residualPrice = lossOfPriceArr[lossOfPriceArr.length - 1].valueOfACar;
 
-  // calculate 1 km
-
   const irretrievablyLost = costOfOwn + price - residualPrice;
 
   const perKm = (irretrievablyLost / 75000).toFixed(2);
 
   return (
     <>
-      <div className="App">
+      <div>
         
         {/* <div>
           width: {width} ~ height: {height}
@@ -309,23 +307,8 @@ function ModelDynamic(props) {
           uniqueid={uniqueid}
         />
 
-        {/* <ExpensesBar
-          hasFullInsurance={hasFullInsurance}
-          handleCheckClick={handleCheckClick}
-          setNumberOfCarWash={setNumberOfCarWash}
-          calculateParking={calculateParking}
-          updateParkingPrice={updateParkingPrice}
-          parking={parking}
-          carwash={carwash}
-          parkingExpensesArray={parkingExpensesArray}
-          calculateWheels={calculateWheels}
-          otherExpensesArray={otherExpensesArray}
-          wheels={wheels}
-          parkingPrice={parkingPrice}
-        /> */}
-
         <CarTable
-          isMobile={isMobile}
+          // isMobile={isMobile}
           hasFullInsurance={hasFullInsurance}
           taxExpensesArray={taxExpensesArray}
           fuelConsumptionArray={fuelConsumptionArray}
